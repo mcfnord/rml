@@ -1,12 +1,12 @@
 # The alleged crime
 
+# The scary police reports
+
 # The TV news
 
 # The ridiculous case
 
-## The scary police report
-
-## The dishonest attorney
+# The dishonest attorney
 
 Recording of Heather Young.
 On the witness stand, she estimated her fear of me
@@ -24,5 +24,6 @@ Professional Conduct.
 
 # The bar complaint
 
+# Public oppobrium
 
 
