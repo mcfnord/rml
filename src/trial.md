@@ -1,12 +1,14 @@
-# The alleged crime
+# The parties
 
-# The TV news
+# See The alleged crime
 
-# The ridiculous case
+# See Scary police reports
 
-## The scary police report
+# See TV news
 
-## The dishonest attorney
+# See Ridiculous case
+
+# See Dishonest attorney
 
 Recording of Heather Young.
 On the witness stand, she estimated her fear of me
@@ -22,7 +24,8 @@ would risk yet another bar complaint for yet another
 TV apperance where he violates the Rules of 
 Professional Conduct.
 
-# The bar complaint
+# See Bar complaint
 
+# See Public oppobrium
 
 
