@@ -1,9 +1,12 @@
+Today I provided a Bar Complaint to the Bar Association. I 
+suspect every court case is complex, and I thought 
+it would help to provide additional details to help 
+you understand how things came about.
+
 # The parties
 
 My story began in Puerto Vallarta, Mexico over ten years 
 ago. Maybe it began the day I took this picture:
-
-xxx
 
 ... but you can skip ahead to 2013, when it was clear my 
 friend would die. In December, I came to Tacoma to care for 
@@ -19,7 +22,7 @@ friend's father did everything he could legally do--and
 then some--to subvert her wishes. You can study the insane 
 custody court battle that ensued.
 
-# See The alleged crime
+# The alleged crime
 
 It meant the world to step out to a New Year's party with 
 good friends. I got wild singing about the hard year behind 
@@ -54,7 +57,7 @@ analytics division of a global entertainment leader. He
 realized that he had seen me on the news. He said it was 
 unlikely that I would be hired based on what he knew.
 
-# See The recall effort
+# The recall effort
 
 Try to imagine my surprise when I'm out on bail and learn 
 that citizens have accused Lindquist of serious offenses in 
@@ -113,16 +116,18 @@ after piling on the charges on the day the trial began. I
 didn't understand how we had come from Lindquist on 
 television saying there was an actual investigation, to 
 this point where a rational man would conclude an actual 
-investigation was concluded, and as a result, my act was 
+investigation had concluded, and as a result, my act was 
 deemed even worse than it appeared at the initial 
 arraignment. You would think actual investigation yield 
 actual results, a deeper understanding, and a refinement of 
-focus. With Lindquist, you'd be wrong. Having been accused 
-of terrible crimes against a child, I already had an 
-enormous report prepared by Washington's top expert in 
-violent criminals. He unequivocally declared that I'm a 
-harmless person. An enormous body of evidence confirmed 
-that.
+focus. With Lindquist, you'd be wrong.
+
+I was blessed to have met for ten hours with Washington's 
+top expert in violent criminals. He unequivocally declared 
+that I'm a harmless person. An enormous body of evidence 
+confirmed that. Additional evidence from the people Mark 
+called victims also pointed to flim-flam and bamboozle. I 
+don't think the facts mattered to the prosecution.
 
 To be accused of threatening to murder a judge I had only 
 great feelings toward was particularly insulting and 
@@ -130,27 +135,32 @@ surreal. The judge had studied all the documents in my
 custody case, and ruled unequivocally that the opposing 
 attorney's request was without merit. And Lindquist's 
 deputy was going to argue I wanted to communicate a murder 
-threat? It was insane.
+threat? It was insane. I found the judge involved to be 
+brilliant and adorable, fully deserving of his esteemed 
+position as the county's lead justice.
 
 The prosecutor believed I could see over a year in prison 
 for the seven words he called a crime.
 
 # See Ridiculous trial
 
-This can't be the first time aa party in civil court has 
+This can't be the first time a party in civil court has 
 tried to use the Prosecutor's office to engage the 
 counter-party. Prosecutors are supposed to see through this 
 behavior. Mark Lindquist did not, or he did, but also knew 
 if he simply dropped it, his appearance on television would 
 risk yet another bar complaint for yet another TV apperance 
-where he violates the Rules of Professional Conduct. So he 
-didn't drop it. But he lost anyway.
+where he violates the Rules of Professional Conduct. The
+recall petitioners specified exactly that behavior as 
+a cause for removal. So he didn't drop it. He threw 
+a Hail Mary and lost. But how did my trial become his game?
+Is this how a prosecutor should think and behave?
 
 Over a long weekend in jail, I met so many men who have 
 nowhere near the resources I and my family could muster 
-against Lindquist's opposition.
+against Lindquist's television and courtroom smears.
 
-## See Very confused G.A.L.
+## Very confused G.A.L.
 
 She was removed from the custody case because she failed 
 her client.
@@ -162,21 +172,27 @@ whipped up by the excitement of a police investigation. The
 court confirmed that she was inappropriately involved when 
 they removed her.
 
-## See Dishonest dad
+Later she wrote this outrageously mistaken and insulting
+defense of her involvement with police:
+
+## Dishonest dad
 
 
-## See Dishonest attorney
+## Dishonest attorney
 
 Alleged victim Heather Young's testimony illustrates just 
 how bad Lindquist's case against me was. On the witness 
 stand, she estimated her fear of me as "a 4 out of 5". but 
 here's her voice at the time of the alleged crime:
 
-So while she testified, we just pressed play. You should 
+So as she testified, we just pressed play. You should 
 have seen her face. She's no stranger to violating the 
-Rules of Professional Conduct.
+Rules of Professional Conduct. That's how I see Pierce
+County: People like Heather Young, Saundra?, and Mark
+Lindquist cook up schemes. Most people can't confront
+them.
 
-## See My testimony
+## My testimony
 
 Testifying wasn't fun, but it was heartening. The surreal 
 accusations made no sense in the face of the truth. And 
@@ -187,12 +203,137 @@ statements of fact, it's heartening. "Win at all costs"
 seems like his tactic, if you can call it a tactic. I just 
 think he's got a mental illness. There, I said it.
 
-# See The verdict
+# See Before my verdict
+
+As it happens, my parents are Pierce County Democrats since 
+forever. The day before my verdict, we attended a Dem
+fundraiser in downtown Tacoma. By pure luck, my assigned 
+seat faced Mark. What a surreal moment that was for me. He 
+rode his phone all evening long. What a bizarre and 
+insulting argument he made to our state's Supreme Court, 
+that the ownership of the phone was a loophole in our laws 
+governing public officials. I never asked any judge
+to believe something so outrageous. He spent tax funds
+lavishly on his ridiculous position. My family spent
+painfully to counter his ridiculous claim that
+I should be incarcerated. And it was a surreal 
+culmination, to watch him ride his phone all evening,
+as a recall petition drive threatened him in the street,
+and I studied and derided his fat head and crazy eyes,
+from fifteen feet away. He's a danger because he
+thinks only he matters. Whatever else is going on,
+he wants to make it about him. He'll put you in a prison
+if he thinks that's what it takes to keep him safely
+in the public eye.
+
+
+# The verdict
 
 Lindquist lost, rather spectactularly. The judge convicted 
 me of nothing. The deputy prosecutor who handled every 
 aspect of my case from the arrest warrant to the verdict 
-was promoted. Lindquist loves loyalty, I guess.
+was promoted. I guess Lindquist loves loyalty. Performance 
+must come in somewhere lower on the list.
+
+# See Implications of Lindquist's position
+
+The crime Mark accused me of is a speech crime. Speech 
+crimes do exist, and I got to learn all about them. The law 
+calls the crime he tried me for a *true threat*. You know 
+what I think: He tried me because he went on TV and spoke 
+improperly about me, and had to win to paper over that 
+choice. If we pretend that's untrue, where does that leave 
+him? It disturbs me that an American would believe
+seven words could and should result in seven felonies
+and over a year behind bars.
+
+At one point, the prosecutor invited me to accept one 
+misdermeanor, I think it was... I should check. And then 
+invited me to specify another outcome and avoid a trial. I 
+asked him to just walk away. In criminal court, you deal 
+with a deputy prosecutor, but my attorney explained that 
+there are no trials unless Mark Lindquist insists on one. 
+Mark couldn't walk away. How many times have we seen that 
+before? With how many obsessions, pertaining to how many 
+abuses of his authority within the press and within law 
+enforcement? He gets obsessed and he can't let go.
+
+This guy, who wrote some novels, believed in criminalizing 
+speech, long after it was clear the people who called it in 
+were charlitans. This must happen to prosecutors every day. 
+People in conflicts want to drop a dime on the other party,
+and make them sound terrible. I hear about it every day
+on the Seattle Police scanner. There really usually 
+are at least two sides.
+But when you go on TV and talk out your ass about the 
+accused, you can't do the right thing anymore, and just 
+drop the charges. So Mark doubled down.
+
+He's either prone to bungles where his mouth gets him in 
+trouble, or he's all for criminalizing accidental, 
+unfortunate speech, so long as some stooges will claim to 
+be victims in his fantasy before a judge. One of those must 
+be true.
+
+That troubles me. When you compare my case of alleged
+(and now disproven) felony harassment to other cases,
+there's no comparison. Facts of actual felony harassment
+include details I remember, like 5 hours of death threat
+text messages, or lengthy, wordy screeds on email that
+very, very clearly say, "I will kill you."
+
+As you see from my testimony at trial, my mind was
+hazy, not focused, and my thinking was metaphorical, not
+literal. One would think an "author-lawyer" would be 
+the first to comprehend how this might happen, but he
+was the last.
+
+Maybe Mark is obsessed with this particular crime. It's a 
+unique kind of crime, where symbols and words are the 
+actual crime. According to documents, Mark Lindquist became 
+obsessed with the idea that Glenda Nissen committed this 
+same crime by sending a death threat to Mary Robnett, even 
+though no forensic evidence tied her to it, and other 
+details didn't point to her, either. Maybe as a writer of 
+pulp fiction, he's unusually attached to words. Perhaps.
+But really, I think it's deeper than that. I think
+Mark has the kind of connection to words and symbols
+that we see in our President. In a post-factual world,
+symbols don't represent or misrepresent the truth.
+Symbols become truth! It's disturbing.
+
+Once I came to know who Mark Lindquist is, and study his 
+activities further, I came to expect his two-sentence 
+condemnations of criminal incidents in the fake or real 
+news press, on KIRO FM, or on the TV news. This is a guy 
+who thinks he can reach more people with two sentences than 
+with something longer. 
+This is a guy who might fear seven 
+words. 
+I hope he's a guy who is sent home for hiding nine 
+text messages. 
+
+I think the whole thing stinks of perception management, 
+and an unhealthy obsession with tweet-length ideas. That's 
+disturbing and dangerous, and must not be the future of law 
+enforcement at the highest levels.
+
+Here's a detailed account where Mark spends hours
+crafting a short message in an effort to avoid
+accountability. xxx 
+
+As a professional writer, I can comprehend how uniquely 
+powerful a few words can be. As a citizen, I'm disturbed by 
+how deeply Lindquist engages in shaping perceptions with 
+just a few words, precisely because I don't think the Prosecutor 
+should be so wrapped up in perceptions. the Prosecutor 
+should be wrapped up in the totality of facts! It's like 
+Pierce County has chosen a prosecutor who sees the job like 
+an appearance on American Idol. It's a mismatch, it's 
+disturbing, and it makes me believe the Pierce County 
+judiciary is the only thing preventing a total collapse of 
+justice.
+
 
 # See Bar complaint
 
@@ -229,17 +370,26 @@ fair.
 
 ## More abuse
 
-My family reminds me that Mark hurts those who stand in his 
-way. He chose to break the rules governing lawyers when he 
+My family cautions me that Mark tries to hurt
+people who get in his way.
+The Busto investigation made this pattern
+incredibly clear. 
+He chose to break the rules governing lawyers when he 
 spoke about me to the press. Now that I've been acquitted, 
-and have come forward seeking redress, he'll abuse me more. 
-I've seen his abusive slams on detractors in the press, 
-sometimes delivered through his attorney. I've also studied 
+and have come forward, he may abuse me more. 
+His attorney, Mr. Fogg, demeans
+complaintants and justifies
+Mark's behavior in the press.
+I've also studied 
 what he does to political opponents and work subordinates 
 who do not agree with his judgement. It won't surprise me 
-when he maligns me again. As many before me have, I'll take 
-the abuse. Sometimes it's a price that's paid to end 
-injustice. What he did to me, he's done to many. Many 
+when he maligns me again, questions my motives or
+sanity or something, and insists his behavior is
+consistent with prosecutors over decades. It is not.
+He needs to be stopped. And I would be 
+turning my back on the remarkably brave people
+who have already stood up to him, if I remained silent.
+What he did to me, he's done to many. Many 
 lacked the resources I have to fight back.
 
 # See Public opprobrium
@@ -247,17 +397,20 @@ lacked the resources I have to fight back.
 One of the Rules of Professional Conduct insists that 
 statements to a large audience by a prosector about a 
 defendant should not risk raising *public opprobrium* about 
-the accused. I laugh about this term. It means words that 
-make the public hate you. He used those words regarding me. 
-I remembered as it happened, and throughout the many 
-hearings and the trial, I thought, "Dude, if you'd just 
-drop this, I'd walk away. You aren't the reason I'm here. 
-You know your department got conned. You don't know (yet) 
-that my own verbal cannons can train on you. You don't know 
-it yet, but I, too, can raise public opprobrium toward your 
-performance. You slandered me based on seven words. I'm 
-taking you down based on seven years. Fair's fair, I guess. 
-If that's how you wanna do this, OK."
+the accused. I laugh about this term. It just means words 
+that make the public hate you. The accused is supposed to
+get silence from the prosecutor, so an impartial jury
+can be found. 
+
+I remembered throughout 
+the many hearings and the trial, I thought, "Dude, if you'd 
+just drop this, I'd walk away. You aren't the reason I'm 
+here. You know your department got conned. You don't know 
+(yet) that my own verbal cannons can train on you. You 
+don't know it yet, but I, too, can raise public opprobrium 
+toward your performance. You slandered me based on seven 
+words. I'm taking you down based on seven years. Fair's 
+fair, I guess. If that's how you wanna do this, OK."
 
 Now I've found a measure of fun and comfort assuming the 
 persona of Fake Mark Lidquist, the self-obsessed media 
@@ -311,7 +464,8 @@ tools will work, but they are the best we have.
 
 One big challenge facing people who wish to remove 
 Lindquist from office is the inherant complexity of the 
-work done by the Prosecutor's office. Most trials include a 
+work done by the Prosecutor's office.
+Most trials include a 
 lot of details. How do voters evaluate the quality of the 
 prosecutor's work without having to know all the details of 
 a trial, enough to make an independent judgement. There are 
@@ -323,4 +477,31 @@ sensible approaches to this:
 
 ## Bar complaints
 
+## WWWS - What would Wikipedia say?
 
+Here's what it does say:
+
+[Mark Lindquist, the laywer, on Wikipedia.org](https://en.m.wikipedia.org/wiki/Mark_Lindquist)
+
+I've been your humble servant building out this account.
+Over the years since my trial, another party has taken
+a very different approach. I've [written about the
+ongoing street battle](wp.html) to accurately reflect Mark's law
+career using neutral sources, vs. the person or persons
+who dilligently and intelligently sabotaged any coverage
+of the facts.
+
+# Conclusion
+
+In my extensive exposure to Pierce County justice, I've 
+come to the view that bad people collude to accomplish bad 
+things in Pierce County, and good people struggle to stop 
+them. That's an unsavory view, but I've seen enough to 
+believe it. I hope good people can work together again here 
+and do what's in the interest of real justice for everyone: 
+The accused, the law enforcement professionals, and the 
+victims of crime all deserve an honest authority. The guy 
+in charge now needs to go home and leave justice to those 
+who have a genuine committment to it. Please, embrace the 
+necessary complexity of grinding fine to reach justice, and 
+leave these dirty deals, photo ops and sound bites behind.
