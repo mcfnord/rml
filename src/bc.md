@@ -6,8 +6,7 @@ speak about my arrest, and when he made a statement cited
 in the news article that accompanied the news broadcast 
 published by KIRO on its website.
 
-[Hyperlink to article and broadcast news 
-video](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
+[http://DempseyBarComplaint.info/kiro](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
 
 On February 22th, 2015, Prosecutor Lindquist charged me 
 with four counts of Felony Harassment for posting a message 
@@ -27,11 +26,11 @@ On the evening of my arraignment, Prosecutor Lindquist
 appeared on KIRO Evening News, a program transmitted 
 through cables and terrestrial transmitters into homes in 
 Pierce County and throughout the Puget Sound area. That 
-same evening, KIRO also published an article on its website 
+same evening, KIRO published an article on its website 
 that visually includes the broadcast news segment. The 
 video features two of Lindquist’s statements about me, and 
 the written journalism includes a third. In the televised 
-interview, Lindquist said:
+statement, Lindquist said:
 
 ** *LINDQUIST: We didn’t wait. We rounded him up.* **
 
@@ -46,9 +45,9 @@ Lindquist.* **
 All three statements to the press are prejudicial to the cause 
 of justice, and two of the three are contradicted by facts 
 stated in the charging document by his deputy.
-An accurate statement by Lindquist might be “We waited over 
+An accurate statement by Lindquist might be: *“We waited over 
 a month, but the accused cooperated extra-ordinarily when 
-made aware of our warrant.”
+made aware of our warrant.”*
 I considered his public statements so dangerous that I 
 waived my right to a jury trial. Any juror might have seen 
 that television broadcast and formed an impression of me 
@@ -88,9 +87,9 @@ Perhaps instead he was referring to the time elapsed
 between gaining the court order for the arrest warrant, and 
 knowing I’m in custody. What he meant is a question for 
 Lindquist, but not a relevant question, as your Rules 
-obligate him to be mindful of how the large audience might 
+obligate him to be mindful of how the large audience would 
 interpret his words. In fact, the speed at which I entered 
-custody was the result of *my* disciplined effort to 
+custody was the result of *my* principled effort to 
 respond appropriately to the court's order, and submit 
 immediately to the lawful authority of the state. *I’m the 
 one who didn’t wait.* But by claiming his actions were 
@@ -111,7 +110,7 @@ choice. Another man might hide from being found, resist
 losing independence, and defy efforts to be relocated. All 
 these images accompany law enforcement rounding a man up. 
 In each nuance, saying I was rounded up impugns my 
-character by implying images contrary to the fact that by 
+character with imagery contrary to the fact that by 
 my own volition, under my own power, and at my own expense, 
 I immediately travelled 33 miles into the custody and 
 confinement of the state, knowing well through counsel that 
@@ -119,21 +118,16 @@ I was unlikely to appear before a judge until after the weekend.
 Lindquist’s folksy language implies the force of the state 
 was needed and employed to gain my custody, which suggests 
 I hold lawful authority in disdain, and maybe even put up a 
-fight. The documented facts provide no defense for this 
+fight. The documented facts provide no defense for his
 false and maligning innuendo.
 
-## Claim: Investigators consider Dempsey a threat
+## Claim: Investigators consider me a threat
 
 His investigators were bamboozled by dishonest complaintents,
 but regardless of why his staff thought this, Lindquist saying 
 it to the press was an obvious violation of the Rules of 
 Professional Conduct.
-
-This is the only claim by Lindquist that's truthful. His 
-investigators did think I was a threat. They were 
-bamboozled, and Lindquist repeated their false conclusion. 
-His statement is a clear violation of the Rules of 
-Professional Conduct. I was not at large, or on the run. I 
+I was not at large, or on the run. I 
 was safely in the custody of the state. So why make people 
 hate and fear me? His own self-promotion is the only 
 explanation, and his very public statement, like the rest, 
@@ -142,30 +136,36 @@ substantially endangered my right to a fair trial.
 ## Worst kind of prejudicial statements
 
 Based on the Rules of your Bar Association, 
-Lindquist’s claims are the worst kind of prejudicial 
+Lindquist’s claims are the worst kind of prejudicial extrajudicial
 statements, as they are:
 
  + Statements disseminated by public communication to an 
-unusually large audience, especially in the juror pool 
-area,
+unusually large audience, especially in the juror pool area,
  + Focused on the reputation of a suspect facing potential 
 incarceration,
  + With a substantial likelihood of heightening public 
 condemnation and materially prejudicing a trial, and
  + False, and therefore having no law enforcement purpose.
 
-## Conclusion 
+## Censure is needed
 
 Throughout his career as an elected official, Mark 
 Lindquist has violated RPC 3.6 and RPC 3.8. His misleading 
-statements about me to the press caused me to waive my jury 
+statements about me to the press forced me to waive my jury 
 trial, and threatened my ability to get a fair one. That he 
 uses the accused to gain visibility before his electorate 
 based on maligning falsehoods and charging documents rather 
 than verdicts should be of grave concern to all advocates 
-of justice. Lindquist's defense of these repeated 
-violations is of particular concern. Justice in Pierce 
+of justice. Lindquist's dismissive responses to complaints to your office
+are of particular concern. Justice in Pierce 
 County faces clear, serious, documented, and repeated 
 danger as long as Mr. Lindquist is permitted to practice 
 law.
+
+## References
+
+* [Rules of Professional Conduct 3.6: TRIAL PUBLICITY](rpc36.html)
+* [Rules of Professional Conduct 3.8: SPECIAL RESPONSIBILITIES OF A PROSECUTOR](rpc38.html)
+* [Rules of Professional Conduct 8.4: MISCONDUCT](rpc84.html)
+
 

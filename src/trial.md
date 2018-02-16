@@ -713,7 +713,7 @@ likely he'll be re-elected.
 # A challenger and a challenge
 
 I've never met her, but [Mary 
-Robnett](https://maryforprosecutor.org) is clearly an 
+Robnett](https://maryforprosecutor.com) is clearly an 
 eminently qualified candidate for this job. Due in 
 large part to a [rock guitarist 
 friend](https://en.wikipedia.org/wiki/Peter_Buck), his 
