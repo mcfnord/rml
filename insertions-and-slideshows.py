@@ -44,7 +44,7 @@ for line in sys.stdin:
     # if we want a slice, start with # see, and get a hyperlink of See Foobat, and new file desty Foobat
     if line.lower().startswith('# see '):
         slide = slide + 1
-        mainoutfile.write('**[' + line[2:].strip() + '](' + fname + 'S' + str(slide) + '.html)**  \r\n\r\n')
+        mainoutfile.write('**Next: [' + line[5:].strip() + '](' + fname + 'S' + str(slide) + '.html)**  \r\n\r\n')
         mainoutfile.close()
         mainoutfile = open("tmp/" + fname + "S" + str(slide) + ".md", "w")
         line = '# ' + line[6:]  # The top title is # See Foobat minus the # See portion
