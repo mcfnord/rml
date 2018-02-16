@@ -32,6 +32,11 @@ md2html $file.md -s solarized-dark.css >> $file.html
 # this is installed with -g, so md2html works, but the next-page insertions might$
 echo '</div>' >> $file.html
 
+# because md2html escapes critical syntax, i unescape it.
+sed -i -e 's/&lt;/</g' $file.html
+sed -i -e 's/&gt;/>/g' $file.html
+sed -i -e "s/&#39;/'/g" $file.html
+
 sudo cp $file.html /var/www/html/pj/
 # cp $file.html ../html
 done < "sources.txt"
