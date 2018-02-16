@@ -1,23 +1,10 @@
 body {
         width: auto;
-	margin: 3em 3em 0em 3em;
+	margin: 1em 1em 0em 1em;
 	padding-left: 1em;
         font-family: 'Arial';
-        font-size: 12px;
 }
-#footer {
-	border-top: 1px solid black;
-	width: 100%;
-	background: white;
-	position: sticky;
-	left: 3em;
-	right: 3em;
-	height: 4em;
-	margin-left: -1em;
-	margin-right: -1em;
-	padding-left: 1em;
-	padding-right: 1em;
-	padding-top: 0;
-	padding-bottom: 0;
-	bottom: 0;
+#main {
+max-width: 800px;
+margin: 0 auto;
 }
