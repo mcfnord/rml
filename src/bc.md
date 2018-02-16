@@ -1,11 +1,10 @@
 # Bar Complaint - draft
 
-Pierce County Prosecutor Mark Lindquist violated various 
-Rules of Professional Conduct when he appeared to speak 
-about me and my arrest on KIRO Evening News, a regional 
-broadcast television news program, and cited by 
-the KIRO reporter in the news article that accompanied the 
-news broadcast as published by KIRO on its website.
+Pierce County Prosecutor Mark Lindquist violated various Rules 
+of Professional Conduct when he appeared on KIRO Evening News to 
+speak about my arrest, and when he made a statement cited
+in the news article that accompanied the news broadcast 
+published by KIRO on its website.
 
 [Hyperlink to article and broadcast news 
 video](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
@@ -21,9 +20,7 @@ The Class B felony couldn't withstand a pre-trial motion,
 and I was acquitted of all other charges after a bench 
 trial.
 
-Pierce County voters may or may not want a prosecutor who 
-pushes meritless charges through an entire trial, but the 
-very public statements Lindquist made about me merit the 
+The very public statements Lindquist made about me merit the 
 review and censure of the Bar Association.
 
 ## Public and prejudicial extrajudicial comments
@@ -35,7 +32,7 @@ Pierce County and throughout the Puget Sound area. That
 same evening, KIRO also published an article on its website 
 that visually includes the broadcast news segment. The 
 video features two of Lindquist’s statements about me, and 
-the written journalism includes another. In the televised 
+the written journalism includes a third. In the televised 
 interview, Lindquist said:
 
 ** *LINDQUIST: We didn’t wait. We rounded him up.* **
@@ -48,9 +45,9 @@ so his office didn't wait to jail him. “This is an ongoing
 investigation, but we wanted to move quick,” said 
 Lindquist.* **
 
-These statements to the press are prejudicial to the cause 
-of justice. Two of the three claims are contradicted by 
-facts stated in the charging document by his deputy.
+All three statements to the press are prejudicial to the cause 
+of justice, and two of the three are contradicted by facts 
+stated in the charging document by his deputy.
 
 An accurate statement by Lindquist might be “We waited over 
 a month, but the accused cooperated extra-ordinarily when 
@@ -76,14 +73,14 @@ agreed-upon time.
 
 ## Claim: Investigators consider Dempsey a threat
 
-Regardless of why his staff thought this, Lindquist saying 
+His investigators were bamboozled by dishonest complaintents,
+but regardless of why his staff thought this, Lindquist saying 
 it to the press was an obvious violation of the Rules of 
 Professional Conduct.
 
 ## Claim: Law Enforcement didn't wait
 
-I can't figure out what made Lindquist say this, but the 
-extrajudicial statement is a clear violation of your Rules 
+This extrajudicial statement is a clear violation of your Rules 
 of Professional Conduct. Lindquist knew how I came into 
 custody, as the Charging Papers conclude:
 
@@ -149,46 +146,41 @@ condemnation and materially prejudicing a trial, and
  + Knowingly false, and therefore having no law enforcement 
 purpose.
 
-(One of the three claims, that investigators thought I was 
-a threat, is true. They were bamboozled. The statement by 
-Lindquist, while truthful, is still a clear violation of 
-the Rules of Professional Conduct.)
+(One of the three claims, that investigators thought I was a 
+threat, is true. They were bamboozled. Lindquist repeated their 
+false conclusion that I'm a threat. His statement is still a 
+clear violation of the Rules of Professional Conduct.)
 
 Your Rules insist lawyers avoid statements likely to raise 
 public opprobrium toward the accused, especially those 
 statements made to a large television and internet 
 audience.
 
-## Conclusion -- DRAFT
+## Conclusion 
 
-Throughout his career as an elected official, Mark 
-Lindquist and his staff have violated RPC 3.6 and RPC 3.8.
+Throughout his career as an elected official, Mark Lindquist and 
+his staff have violated RPC 3.6 and RPC 3.8.
 
-His false statements about me to the press threatened my 
-ability to get a fair trial.
+His false statements about me to the press threatened my ability 
+to get a fair trial.
 
-In filing this complaint, if history is a guide, I 
-anticipate hearing still more abusive, false claims about 
-me in the press from Lindquist's attorney, who has derided 
-and maligned previous complaintants obviously victimized by 
-similar extrajudicial statements that violate RPC 3.6 and 
-3.8.
+In filing this complaint, if history is a guide, I anticipate 
+hearing still more abusive, false claims about me in the press 
+from Lindquist's attorney, who has derided and maligned previous 
+complaintants obviously victimized by similar extrajudicial 
+statements that violate RPC 3.6 and 3.8.
 
-That Lindquist's attorney brags in the press of "zero 
-chance" that the public hearing he faces represents "zero 
-chance" of suspension is a flagrant disregard for the 
-seriousness of his behavior and sovereignty of your 
-Assocation to discipline clear and chronic violators.
+That Lindquist's attorney brags in the press that the public 
+hearing he faces represents "zero chance" of suspension is a 
+flagrant disregard for the seriousness of his behavior and 
+sovereignty of your Assocation to discipline clear and chronic 
+violators. Complaints to your body have not deterred his 
+continued violations of these Rules. In fact, through counsel, 
+he defends his behavior.
 
-Complaints to your body have not deterred his continued 
-violations of these Rules.
-
-That he seeks and derives visibility before his electorate 
-based on falsehoods and charging documents rather than 
-verdicts should be of grave concern to all advocates of 
-justice.
-
-Justice in Pierce County faces clear, documented, repeated, 
-and serious danger as long as Mr. Lindquist is permitted to 
-practice law.
+That he seeks and derives visibility before his electorate based 
+on falsehoods and charging documents rather than verdicts should 
+be of grave concern to all advocates of justice. Justice in 
+Pierce County faces clear, documented, repeated, and serious 
+danger as long as Mr. Lindquist is permitted to practice law.
 

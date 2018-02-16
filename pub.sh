@@ -26,10 +26,11 @@ cd tmp
 ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do
-echo '<link rel="stylesheet" type="text/css" media="all" href="solarized-dark.css" />' > $file.html
+echo '<link rel="stylesheet" type="text/css" media="all" href="ds-style.css" /><div>' > $file.html
 md2html $file.md -s solarized-dark.css >> $file.html
 # https://www.npmjs.com/package/markdown-to-html
 # this is installed with -g, so md2html works, but the next-page insertions might$
+echo '</div>' >> $file.html
 
 sudo cp $file.html /var/www/html/pj/
 # cp $file.html ../html
