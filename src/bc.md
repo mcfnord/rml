@@ -12,13 +12,11 @@ video](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-t
 On February 22th, 2015, Prosecutor Lindquist charged me 
 with four counts of Felony Harassment for posting a message 
 and video to Facebook, Cause No. 15-1-00747-7.
-
 The Prosecutor added 3 additional felonies before the 
 trial, including a Class B felony.
-
-The Class B felony couldn't withstand a pre-trial motion, 
+**The Class B felony couldn't withstand a pre-trial motion, 
 and I was acquitted of all other charges after a bench 
-trial.
+trial.**
 
 The very public statements Lindquist made about me merit the 
 review and censure of the Bar Association.
@@ -48,40 +46,32 @@ Lindquist.* **
 All three statements to the press are prejudicial to the cause 
 of justice, and two of the three are contradicted by facts 
 stated in the charging document by his deputy.
-
 An accurate statement by Lindquist might be “We waited over 
 a month, but the accused cooperated extra-ordinarily when 
 made aware of our warrant.”
-
 I considered his public statements so dangerous that I 
 waived my right to a jury trial. Any juror might have seen 
 that television broadcast and formed an impression of me 
 based on Lindquist's false and maligning words to the press.
 
-## Background
+## Relevant facts
 
 Law enforcement became aware of the complaint on January 
 12th. I became aware of the complaint on February 20th, 
 five weeks later, when officers located my counsel outside 
 a Superior Courtroom and notified him of the Probable Cause 
-for Arrest. My counsellor called me around lunch time. At 
-1pm, my counsellor told police that I would turn myself in 
+for Arrest. My attorney called me around lunch time. At 
+1pm, my attorney told police that I would turn myself in 
 at the County City Building before 4:30pm. I left work 
 early from my office in downtown Seattle, and introduced 
 myself to sheriffs inside the county City building at the 
 agreed-upon time.
 
-## Claim: Investigators consider Dempsey a threat
-
-His investigators were bamboozled by dishonest complaintents,
-but regardless of why his staff thought this, Lindquist saying 
-it to the press was an obvious violation of the Rules of 
-Professional Conduct.
-
 ## Claim: Law Enforcement didn't wait
 
 This extrajudicial statement is a clear violation of your Rules 
-of Professional Conduct. Lindquist knew how I came into 
+of Professional Conduct, and is false.
+Lindquist knew how I came into 
 custody, as the Charging Papers conclude:
 
 ** *The defendant’s attorney was contacted on Friday, 
@@ -105,11 +95,13 @@ respond appropriately to the court's order, and submit
 immediately to the lawful authority of the state. *I’m the 
 one who didn’t wait.* But by claiming his actions were 
 purposefully swift, Lindquist implies an urgency to 
-apprehend me that heightened public opprobrium, endangering 
+apprehend me that heightened public opprobrium, and endangered 
 my ability to get a fair trial.
 
 ## Claim: Law Enforcement rounded me up
 
+This extrajudicial statement is a clear violation of your Rules 
+of Professional Conduct, and is false.
 What does it mean to round a man up? It means to take him 
 from his freedom, his home and friends. It means to 
 transfer his fate into the hands of another, his captor. It 
@@ -123,18 +115,35 @@ character by implying images contrary to the fact that by
 my own volition, under my own power, and at my own expense, 
 I immediately travelled 33 miles into the custody and 
 confinement of the state, knowing well through counsel that 
-I might not appear before a judge until after the weekend. 
+I was unlikely to appear before a judge until after the weekend. 
 Lindquist’s folksy language implies the force of the state 
 was needed and employed to gain my custody, which suggests 
 I hold lawful authority in disdain, and maybe even put up a 
 fight. The documented facts provide no defense for this 
 false and maligning innuendo.
 
+## Claim: Investigators consider Dempsey a threat
+
+His investigators were bamboozled by dishonest complaintents,
+but regardless of why his staff thought this, Lindquist saying 
+it to the press was an obvious violation of the Rules of 
+Professional Conduct.
+
+This is the only claim by Lindquist that's truthful. His 
+investigators did think I was a threat. They were 
+bamboozled, and Lindquist repeated their false conclusion. 
+His statement is a clear violation of the Rules of 
+Professional Conduct. I was not at large, or on the run. I 
+was safely in the custody of the state. So why make people 
+hate and fear me? His own self-promotion is the only 
+explanation, and his very public statement, like the rest, 
+substantially endangered my right to a fair trial.
+
 ## Worst kind of prejudicial statements
 
-Based on the Rules of your Bar Association, Lindquist’s 
-claims are the worst kind of prejudicial statements, as 
-they are:
+Based on the Rules of your Bar Association, 
+Lindquist’s claims are the worst kind of prejudicial 
+statements, as they are:
 
  + Statements disseminated by public communication to an 
 unusually large audience, especially in the juror pool 
@@ -143,44 +152,20 @@ area,
 incarceration,
  + With a substantial likelihood of heightening public 
 condemnation and materially prejudicing a trial, and
- + Knowingly false, and therefore having no law enforcement 
-purpose.
-
-(One of the three claims, that investigators thought I was a 
-threat, is true. They were bamboozled. Lindquist repeated their 
-false conclusion that I'm a threat. His statement is still a 
-clear violation of the Rules of Professional Conduct.)
-
-Your Rules insist lawyers avoid statements likely to raise 
-public opprobrium toward the accused, especially those 
-statements made to a large television and internet 
-audience.
+ + False, and therefore having no law enforcement purpose.
 
 ## Conclusion 
 
-Throughout his career as an elected official, Mark Lindquist and 
-his staff have violated RPC 3.6 and RPC 3.8.
-
-His false statements about me to the press threatened my ability 
-to get a fair trial.
-
-In filing this complaint, if history is a guide, I anticipate 
-hearing still more abusive, false claims about me in the press 
-from Lindquist's attorney, who has derided and maligned previous 
-complaintants obviously victimized by similar extrajudicial 
-statements that violate RPC 3.6 and 3.8.
-
-That Lindquist's attorney brags in the press that the public 
-hearing he faces represents "zero chance" of suspension is a 
-flagrant disregard for the seriousness of his behavior and 
-sovereignty of your Assocation to discipline clear and chronic 
-violators. Complaints to your body have not deterred his 
-continued violations of these Rules. In fact, through counsel, 
-he defends his behavior.
-
-That he seeks and derives visibility before his electorate based 
-on falsehoods and charging documents rather than verdicts should 
-be of grave concern to all advocates of justice. Justice in 
-Pierce County faces clear, documented, repeated, and serious 
-danger as long as Mr. Lindquist is permitted to practice law.
+Throughout his career as an elected official, Mark 
+Lindquist has violated RPC 3.6 and RPC 3.8. His misleading 
+statements about me to the press caused me to waive my jury 
+trial, and threatened my ability to get a fair one. That he 
+uses the accused to gain visibility before his electorate 
+based on maligning falsehoods and charging documents rather 
+than verdicts should be of grave concern to all advocates 
+of justice. Lindquist's defense of these repeated 
+violations is of particular concern. Justice in Pierce 
+County faces clear, serious, documented, and repeated 
+danger as long as Mr. Lindquist is permitted to practice 
+law.
 
