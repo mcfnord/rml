@@ -22,7 +22,7 @@ I could choose to forget about the dark times
 and struggle that accompanied my arrest, life 
 as an accused felon, and full trial in a Tacoma 
 courtroom. There are many details of the 
-Prosecutor's choices in my case that caused me 
+Prosecutor Mark Lindquist's choices in my case that caused me 
 distress at the time. But of greater concern, 
 I've come to learn that my experience is not an 
 isolated incident; Mr. Lindquist now has a 
@@ -43,12 +43,13 @@ beginning and end of a sound prosecution, yet
 Mr. Lindquist has shown a very loose and 
 opportunistic relationship with the facts.
 
-To inform my friends and the general public, 
-I've made my full letter available online. I 
-look forward to communicating further with all 
-of you as this matter unfolds.
+I've made my full letter available online
+to inform my friends and the general public.
 
 http://DempseyBarComplaint.info
+
+I look forward to communicating further with all 
+of you as this matter unfolds.
 
 Sincerely,
 
