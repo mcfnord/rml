@@ -1,3 +1,4 @@
+<title>RPC 8.4</title>
 [RPC 8.4](https://www.courts.wa.gov/court_rules/?fa=court_rules.display&group=ga&set=rpc&ruleid=garpc8.4)
 
 # MISCONDUCT

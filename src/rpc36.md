@@ -1,3 +1,4 @@
+<title>RPC 3.6</title>
 [RPC 3.6](https://www.courts.wa.gov/court_rules/?fa=court_rules.display&group=ga&set=rpc&ruleid=garpc3.6)  
 
 # TRIAL PUBLICITY

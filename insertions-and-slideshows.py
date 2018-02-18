@@ -47,7 +47,8 @@ for line in sys.stdin:
         mainoutfile.write('**Next: [' + line[5:].strip() + '](' + fname + 'S' + str(slide) + '.html)**  \r\n\r\n')
         mainoutfile.close()
         mainoutfile = open("tmp/" + fname + "S" + str(slide) + ".md", "w")
-        line = '# ' + line[6:]  # The top title is # See Foobat minus the # See portion
+        line = '<title>' + line[6:] + '</title>\r\n# ' + line[6:]  
+# The top title is # See Foobat minus the # See portion
 
     if line.lower().startswith('insert:'):
         gInsertSought = True

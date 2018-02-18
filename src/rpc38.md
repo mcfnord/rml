@@ -1,3 +1,4 @@
+<title>RPC 3.8</title>
 [RPC 3.8](https://www.courts.wa.gov/court_rules/?fa=court_rules.display&group=ga&set=rpc&ruleid=garpc3.8)
 
 # SPECIAL RESPONSIBILITIES OF A PROSECUTOR

@@ -1,3 +1,9 @@
+<title>Letter to Friends</title>
+
+Feb 25th, 2018
+
+Dear Friends,
+
 Today I provided a letter to the Bar 
 Association that reports violations of the 
 Rules of Professional Conduct, rules 
@@ -19,7 +25,7 @@ large part to the substantial, ongoing support of my
 family and friends. I could choose to forget about the 
 dark times and struggle that accompanied my arrest, 
 life as an accused felon, and full trial in a Tacoma 
-courtroom. There are many details of the Prosecutor's 
+courtroom. There are many details of the Prosecutor Mark Lindquist's 
 choices in my case that caused me distress at the 
 time. But of greater concern, I've come to learn that 
 my experience is not an isolated incident; Mr. 
@@ -40,12 +46,20 @@ beginning and end of a sound prosecution, yet
 Mr. Lindquist has shown a very loose and 
 opportunistic relationship with the facts.
 
-To inform my friends and the general public, 
-I've made my full letter available online. I 
-look forward to communicating further with all 
-of you as this matter unfolds.
+I've made my full letter available online to inform my friends and the general 
+public.
 
 http://DempseyBarComplaint.info
+
+In addition to this bar complaint, in partnership with my father, I have also 
+delivered inquiries to the Pierce County Prosecuting Attorney's Office that will 
+reveal new details surrounding their use of government media channels, including 
+social media. I wish to understand the substantial investments the PCPAO has made 
+in media production, and determine whether Mr. Lindquist's unusually heavy use of 
+government media is appropriate and consistent with democratic norms and ideals.
+
+I thank you for your continued frendship and support. I look forward to 
+communicating further with all of you as this matter unfolds.
 
 Sincerely,
 

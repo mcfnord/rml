@@ -1,3 +1,4 @@
+<title>Bar Complaint - Pierce County Prosecutor Mark Lindquist</title>
 # Bar Complaint - draft
 
 Pierce County Prosecutor Mark Lindquist violated various Rules 
