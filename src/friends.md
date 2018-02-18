@@ -20,7 +20,7 @@ As you may know, in 2015, I was tried for seven
 felonies, for a speech crime. Afer a full trial, I was 
 acquitted fully of these specious charges.
 
-My life and career in Seattle remains strong due in 
+My life and career in Seattle remain strong due in 
 large part to the substantial, ongoing support of my 
 family and friends. I could choose to forget about the 
 dark times and struggle that accompanied my arrest, 
@@ -49,14 +49,14 @@ opportunistic relationship with the facts.
 I've made my full letter available online to inform my friends and the general 
 public.
 
-http://DempseyBarComplaint.info
+[http://DempseyBarComplaint.info](/)
 
-In addition to this bar complaint, in partnership with my father, I have also 
-delivered inquiries to the Pierce County Prosecuting Attorney's Office that will 
-reveal new details surrounding their use of government media channels, including 
-social media. I wish to understand the substantial investments the PCPAO has made 
-in media production, and determine whether Mr. Lindquist's unusually heavy use of 
-government media is appropriate and consistent with democratic norms and ideals.
+In addition to this bar complaint, I have also delivered inquiries to the Pierce 
+County Prosecuting Attorney's Office that will reveal new details surrounding their 
+use of government media channels, including social media. I wish to better 
+understand the substantial investments Mr. Lindquist's office has made in media 
+production, and determine whether his office uses these channels in a manner 
+consistent with democratic ideals and norms.
 
 I thank you for your continued frendship and support. I look forward to 
 communicating further with all of you as this matter unfolds.
