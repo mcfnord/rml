@@ -68,34 +68,36 @@ agreed-upon time.
 
 ## Claim: Law Enforcement didn't wait
 
-This extrajudicial statement is a clear violation of your Rules 
-of Professional Conduct, and is false.
-Lindquist knew how I came into 
-custody, as the Charging Papers conclude:
+This extrajudicial statement is a clear violation of 
+your Rules of Professional Conduct, and is false. 
+Lindquist knew how I came into custody, as the 
+Charging Papers conclude:
 
 ** *The defendant’s attorney was contacted on Friday, 
 February 20 by law enforcement. At their request, the 
-defendant did turn himself in to the sheriff’s office later 
-that afternoon.* **
+defendant did turn himself in to the sheriff’s office 
+later that afternoon.* **
 
-Knowing the enormous time elapsed between the complaint and 
-the warrant, I've wondered what Lindquist meant by his very 
-public statement that he didn't wait. Perhaps he was not 
-referring to the five weeks between receiving the complaint 
-and contacting my attorney at the County-City Building. 
-Perhaps instead he was referring to the time elapsed 
-between gaining the court order for the arrest warrant, and 
-knowing I’m in custody. What he meant is a question for 
-Lindquist, but not a relevant question, as your Rules 
-obligate him to be mindful of how the large audience would 
-interpret his words. In fact, the speed at which I entered 
-custody was the result of *my* principled effort to 
-respond appropriately to the court's order, and submit 
-immediately to the lawful authority of the state. *I’m the 
-one who didn’t wait.* But by claiming his actions were 
-purposefully swift, Lindquist implies an urgency to 
-apprehend me that heightened public opprobrium, and endangered 
-my ability to get a fair trial.
+Knowing the enormous time elapsed between the 
+complaint and the warrant, I've wondered what 
+Lindquist meant by his very public statement that he 
+didn't wait. Perhaps he was not referring to the five 
+weeks between receiving the complaint and contacting 
+my attorney at the County-City Building. Perhaps 
+instead he was referring to the time elapsed between 
+gaining the court order for the arrest warrant, and 
+asking my attorney to contact me. What he meant is a 
+question for Lindquist, but not a relevant question, 
+as your Rules obligate him to be mindful of how the 
+large audience would interpret his words. In fact, the 
+speed at which I entered custody was the result of 
+*my* principled effort to respond appropriately to the 
+court's order, and submit immediately to the lawful 
+authority of the state. *I’m the one who didn’t wait.* 
+But by claiming his actions were purposefully swift, 
+Lindquist implies an urgency to apprehend me that 
+heightened public opprobrium, and endangered my 
+ability to get a fair trial.
 
 ## Claim: Law Enforcement rounded me up
 
@@ -123,7 +125,7 @@ false and maligning innuendo.
 
 ## Claim: Investigators consider me a threat
 
-His investigators were bamboozled by dishonest complaintents,
+His investigators were bamboozled by dishonest complaintants,
 but regardless of why his staff thought this, Lindquist saying 
 it to the press was an obvious violation of the Rules of 
 Professional Conduct.
