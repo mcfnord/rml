@@ -60,7 +60,7 @@ production, and determine whether his office uses these channels in a manner
 consistent with democratic ideals and norms.
 
 I will communicate with you further as these matters are addressed.
-I thank you for your continued frendship and support. 
+I thank you for your continued friendship and support. 
 
 Sincerely,
 
