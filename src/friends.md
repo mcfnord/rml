@@ -11,8 +11,8 @@ established by our state's Supreme Court to
 govern the behavior of all lawyers in our 
 state.
 
-I've asked the Bar Association to take action 
-in response to a clear pattern of malfescence 
+I've asked the Bar Association to act 
+in response to a clear pattern of malfeascance 
 by a powerful elected official in his 
 professional capacity.
 
@@ -32,14 +32,14 @@ time.
 But of greater concern, I've come to learn that 
 my experience is not an isolated incident; Prosecutor Mark 
 Lindquist now has a lengthy and growing record of 
-malfescence throughout his tenure, including false 
+malfeasance throughout his tenure, including false 
 imprisonment, withholding exculpatory evidence, misusing taxpayer funds, 
 making prohibited statements about the accused, and bumbling 
 prosecutions of dangerous men. Most disturbingly, 
 even as evidence mounts, like a common criminal, he 
 denies it all.
 
-I am disurbed that he calls himself a good 
+I am disturbed that he calls himself a good 
 Democrat. I'm also burdened with the knowledge 
 that most people accused of serious crimes 
 cannot shoulder the burden of a criminal trial, 

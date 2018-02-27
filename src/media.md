@@ -31,6 +31,8 @@ This is about being dishonest and abusive.
 
 by **[Fake Mark Lindquist](https://twitter.com/FakeMkLindquist/)**
 
+[The goal of these campaigns is to plant ideas and narratives via fake personas and news sites...](https://www.technologyreview.com/s/610176/terrible-people-have-learned-to-exploit-the-internet-yasmin-green-is-fighting-back/?utm_campaign=add_this&utm_source=linkedin&utm_medium=post)
+
 My boy Lynch pushes out the fake news so I can look successful and the people
 can stay bamboozled.
 

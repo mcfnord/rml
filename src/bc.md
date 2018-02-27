@@ -126,7 +126,7 @@ false and maligning innuendo.
 
 ## Claim: Investigators consider me a threat
 
-His investigators were bamboozled by dishonest complaintants,
+His investigators were bamboozled by dishonest complainants,
 but regardless of why his staff thought this, Lindquist saying 
 it to the press was an obvious violation of the Rules of 
 Professional Conduct.
