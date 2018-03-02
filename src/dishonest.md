@@ -101,7 +101,7 @@ non-victims who were knowingly and unknowingly in way too deep.
 # Lindquist doubles down
 
 My case was very unusual. People in civil court often love the 
-idea of involving the prosecutor. It can give a huge advantage 
+idea of involving the police. It can give a huge advantage 
 to their lot in civil court when they opposing party is in jail, 
 or silent due to their Fifth Amendment right to be so. Any sound 
 prosecutor would see bright yellow flags when a party in a civil 
@@ -144,23 +144,6 @@ of his esteemed position as the county's lead justice.
 
 The prosecutor believed I could see over a year in prison for 
 the seven words he called a crime.
-
-# See Ridiculous trial
-
-This can't be the first time a party in civil court has tried to 
-use the Prosecutor's office to engage the counter-party. 
-Prosecutors are supposed to see through this behavior. Mark 
-Lindquist did not, or he did, but also knew if he simply dropped 
-it, his appearance on television would risk yet another bar 
-complaint for yet another TV apperance where he violates the 
-Rules of Professional Conduct. The recall petitioners specified 
-exactly that behavior as a cause for removal. So he didn't drop 
-it. He threw a Hail Mary and lost. But how did my trial become 
-his game? Is this how a prosecutor should think and behave?
-
-Over a long weekend in jail, I met so many men who have nowhere 
-near the resources I and my family could muster against 
-Lindquist's television and courtroom smears.
 
 
 ## My testimony
@@ -233,15 +216,14 @@ in wait for me.
 My friend and I did everything we could to assure her daughter 
 would be raised according to her wishes. But my friend's father 
 did everything he could legally do--and then some--to subvert 
-her wishes. You can study the insane custody court battle that 
-ensued.
+her wishes. An insane custody court battle ensued.
 
 # The alleged crime
 
 It meant the world to step out to a New Year's party with good 
 friends. I got wild singing about the hard year behind me, and 
 good one ahead. I barely remember the deed Lindquist called a 
-crime. I have no dispute it was a very bad idea, but was never a 
+crime. I have no dispute it was a very bad idea, but it never a 
 crime. I chose the wrong words. In a career of trying to choose 
 the right ones, I chose the wrong ones, not based on my meaning, 
 but because they could be interpreted differently. It was 
@@ -249,7 +231,7 @@ incredibly late when I wrote seven words and fell asleep.
 
 # Scary police reports
 
-It takes some work to translate a Facebook post into an arrest 
+It takes work to translate a Facebook post into an arrest 
 warrant. Three people who said they were my victims worked hard 
 to get to that point. Two were dishonest, and one was just in 
 way over her head.
@@ -273,7 +255,7 @@ Eventually I swapped it for a better one that wasn't in use.
 
 On arraignment day, many prisoners were called to a side room to 
 talk with legal assistants. I was the only one who explained I 
-have retained private counsel.
+had private counsel.
 
 # Arraignment
 
@@ -290,7 +272,7 @@ sentencing guidelines. A prisoner could tell him his criminal
 history, and he could estimate what the arraignment judge would 
 do. How much your bail will be is the only question anyone has 
 for the arraignment judge, and this guy's obvious skill at 
-estimating was very valuable to us.
+estimating was very valued. But he couldn't figure my case until clues emerged.
 
 As each person was called from the arraignment holding cell 
 before the judge, we'd wish them success. On their return, we'd 
@@ -314,9 +296,8 @@ I remember a man whose common-law wife had turned him in days
 after she says he harmed her. She was in the gallery at the 
 arraignment yelling how much she missed him, and how she wanted 
 him back. He explained that he did 19 years for a murder he 
-didn't commit, and had given enough of his life to the state. I 
-joke when I'm nervous, but he didn't get my jokes. I quickly 
-switched to clearer, simpler speech. He was a physically 
+didn't commit, and had given enough of his life to the state. 
+He was a physically 
 intimidating figure. He talked about how much his wife drinks, 
 and how she gets out of control and becomes another person. 
 Three prisoners gathered close to him while the math whiz 
@@ -335,15 +316,15 @@ me had faced the judge. He eventually concluded, "They must be
 here for you. You're the Sacrificial Lamb!" I guess this was the 
 hardest moment of my interaction with Pierce County's criminal 
 justice system. Math Whiz, who was also a Seventh Day Adventist, 
-quoted some theological concepts that brought me some comfort.
+quoted some theology that brought me some comfort.
 
-My attorney was such a square that I didn't dare wave or smile. 
+I didn't dare wave or smile. 
 In hindsight I wish I did. Anyone who knows me knows I'm not 
 inclined to threats or violence, and would much rather make a 
 friend. Tim Leary came to mind, always smiling becaue he knew 
 the medium is the message. But the judge was already motivated 
 by the television cameras to show dominance over the lawless 
-danger she was told I represented. So I kept a stoic face.
+danger she was told I represented. So I stuck with a stoic face.
 
 To this day, I compare my bail, $75,000, or "seventy five racks" 
 to that of other accused. Back in lock-up, this sum made me 
@@ -370,15 +351,15 @@ comments were icing on the cake for KIRO editors. *Considered me
 a threat. Didn't wait. Rounded me up.* What an illusion of 
 efficacy he provided, a series of false statements, made 
 publically at the expense of my reputation, and obviously 
-endangering my right to a fair trial. Yeah, Champ. Yeah, Tiger. 
-You said what you thought would keep your job safe. Truth was 
-secondary, and you thought it was OK to risk everything else as 
+endangering my right to a fair trial. Yeah, Champ. He
+said what he thought would keep his job safe. Truth was 
+secondary, and he thought it was OK to risk everything else as 
 collateral damage.
 
 I walked into my job in downtown Seattle on Tuesday. Nobody 
 noticed I had missed Monday, and nobody even saw the news 
 broadcast. For a time, I occupied both the realm of Seattle 
-high-tech, and the realm of Pierce County's accused.
+high-tech, and the realm of Pierce County's accused felons.
 
 Weeks later, a man was trying to recruit me to support the data 
 analytics division of a global entertainment leader. He realized 
@@ -397,14 +378,13 @@ difference between public statements about the accused vs. the
 convicted is a huge one.
 
 My family quickly joined the movement to remove Lindquist. My 
-mom may have gathered a hundred signatures in her gated 
-retirement community alone.
+mom may have gathered a hundred signatures to round him up and send him packing.
 
-I've often reflected that America gives many elected officials 4 
+In a way, America gives many elected officials 4 
 years to screw up. We rarely remove officials during their term. 
 Rather, we just find someone better at the next election. 
 Recalls are notoriously complicated to achieve, and I admire how 
-hard so many worked at this high goal. And we all should 
+hard so many worked at this high goal. We all should 
 recognize that the recall cleared the first and most serious 
 hurdle: A judge agreed there was enough evidence to believe Mark 
 Lindquist has committed offenses serious enough to merit a 
@@ -421,8 +401,7 @@ cases.](http://www.thenewstribune.com/news/local/article26347357.html)
 
 Being out on bail is surreal. Being on bail for a speech crime 
 was another level. Anything I said anywhere could be used 
-against me. My lawyer explained that even clicking Like on 
-Facebook could be used against me somehow.
+against me. 
 
 I remember how surreal it became when the Supreme Court ruled in 
 my favor, in a case incredibly similar to my own. While the 
@@ -431,7 +410,7 @@ ruling on *Alonis v. USA* was as significant to speech
 advocates. In a case much more heinous and much more clear, the 
 Supremes ruled there was no real threat because there was no 
 intention to threaten. Surely this meant the prosecutor would 
-drop the charges. Had he not gone on TV and said those things, I 
+drop the charges. And had he not gone on TV and said those things, I 
 bet he would have.
 
 # See Before my verdict
@@ -464,11 +443,11 @@ somewhere lower on the list.
 
 # See Implications of Lindquist's position
 
-The crime Mark accused me of is a speech crime. Speech crimes do 
+Mark accused me of a speech crime. Speech crimes do 
 exist, and I got to learn all about them. The law calls the 
 crime he tried me for a *true threat*. You know what I think: He 
 tried me because he went on TV and spoke improperly about me, 
-and had to win to paper over that choice. If we pretend that's 
+and had to win to paper over that bad choice. If we pretend that's 
 untrue, where does that leave him? It disturbs me that an 
 American would believe seven words could and should result in 
 seven felonies and over a year behind bars. Any seven words just 
@@ -490,8 +469,8 @@ This guy, who wrote some novels, believed in criminalizing
 speech, long after it was clear the people who called it in were 
 charlitans. This must happen to prosecutors every day. People in 
 conflicts want to drop a dime on the other party, and make them 
-sound terrible. I hear about it every day on the Seattle Police 
-scanner. There really usually are at least two sides. But when 
+sound terrible. 
+There really usually are at least two sides. But when 
 you go on TV and talk out your ass about the accused, you can't 
 do the right thing anymore, and just drop the charges. So Mark 
 doubled down.
@@ -594,12 +573,13 @@ spoke about me to the press. He chose to try me based on the
 risk that his abuse would result in bad press or censure from 
 the Bar Association. Now that I've been acquitted and have come 
 forward, he may seek to abuse me more. His attorney, Mr. Fogg, 
-demeans complaintants when justifying Mark's bad behavior in the 
-press. Mark engaged in cybersquatting to undermine the campaign 
+demeans complainants in the press when justifying Mark's bad behavior. Mark engaged in cybersquatting to undermine the campaign 
 of a political opponent. Obsessed, he abused Ms. Nissen and Ms. 
-Dalsing using powerful County resources. His public statements 
+Dalsing using powerful County resources. And 
+the Busto Report concluded
+his public statements 
 in response to Mr. Merrival's whisleblower complaint were 
-knowingly false and abusive, the Busto Report concluded.
+knowingly false and abusive.
 
 So my family is wise. It won't surprise me when he maligns me 
 again, questions my motives or sanity or something, and of 
@@ -609,7 +589,7 @@ with prosecutors over decades. In a word, that's
 I remained silent, I would be turning my back on the remarkably 
 brave people who have already stood up to him. What he did to 
 me, he's done to many, including many who lacked the resources I 
-have to fight back.
+have to resist.
 
 # See Public opprobrium
 
@@ -639,7 +619,7 @@ everyone who isn't impressed with his badgering, cruel treatment
 of defendants and subordinants alike. I borrow from the clear 
 words of credible sources in court documents and official 
 memoes. It's a turkey shoot, because at this point the patterns 
-of narcissistic abuse within the Prosecutor's Office are so 
+of narcissistic abuse within the Prosecutor's Office are
 numerous and clear. And I worry that people who can't laugh 
 might succumb to despair. I remember that right now there's a 
 guy in jail who couldn't fight back against illicit prosecutor 
