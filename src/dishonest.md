@@ -1,13 +1,25 @@
+# The parties
+
+My story began in Puerto Vallarta, Mexico over ten 
+years ago. Maybe it began the day I took this picture:
+
+... but you can skip ahead to 2013, when it was clear 
+my friend would die. In December, I came to Tacoma to 
+care for her as she did, and to give our daughter 
+everything we could through the crisis. I had no idea 
+what hostile and underhanded forces laid in wait for 
+me.
+
 # Dishonest Complainants
 
 Lindquist took a terrible case to trial. At first 
 blush, when he went on television, he seemed to have 
-the ingredients a headline-craving prosecutor wants: A 
+the ingredients a headline-craving prosecutor loves: A 
 dangerous suspect, an allegation of a crime against a 
 judge, and an outrageous music video.
 
-The prosecutor believed I could see over a year in 
-prison for the seven words he called a crime.
+The prosecutor wanted me to spend more than a year in 
+prson for seven words he called a crime.
 
 [The petition contends Lindquist pays extra attention 
 to criminal cases that receive media attention, and 
@@ -19,8 +31,8 @@ What he had was a deliciously *specious* case.
 **specious**: *misleading in appearance, especially 
 misleadingly attractive.*
 
-If you want to understand narcissists, write this word 
-at the top of your notes. It's on the quiz!
+(If you want to understand narcissists, write this word 
+at the top of your notes. It's on the quiz!)
 
 ## Dishonest family lawyer
 
@@ -42,36 +54,28 @@ on the non-emergency contact line.
 
 ## Dishonest dad
 
-Key to the sexy news report 
-is the fantastically false police 
-report quoting Emily's dad, a retired fireman. His 
-claims were particularly skillful, which is consistent 
-with his enormous committment to telling big, bold 
-lies. Like Lindquist, he is a severe narcissist, with a 
-lifetime of experience emotionally abusing and 
-manipulating people. (Emily said of him, "I love my 
-dad, but he's really screwed up.") His credentials as a 
-recent retiree of the fire department probably enhanced 
-his believability with the interviewing officer. Here's 
-a bit more about the actual nature of his honesty and 
-credibility, from the Fire Chief:
+Key to the sexy news report is the fantastically false 
+police report quoting Emily's dad, a retired fireman. 
+His claims were particularly skillful. His credentials 
+as a recent retiree of the fire department probably 
+enhanced his believability with the interviewing 
+officer. Here's a bit more about the actual nature of 
+his honesty and credibility, from the Fire Chief:
 
-He's so dishonest that it's boring. A prosecutor 
-shouldn't go to trial with such severe liars claiming 
-to be victims.
+He's so dishonest that it's boring.
 
 ## Excited G.A.L. in too deep
 
-For family law attorneys,
-the bar is pretty low. In my criminal case in addition 
-to Ms. Young's obvious dishonesty, the woman 
-representing the child got in way too deep, and while 
-not dishonest, very obviously violated the Rules of 
-Professional Conduct. She cooperated with the police, 
-which was her right, but then kept her involvement a 
-secret from the custody judge. Her feeble, ignorant 
-defense of her actions shows that she doesn't 
-understand the basics of this transgression:
+For family law attorneys, the bar is pretty low. In my 
+criminal case in addition to Ms. Young's obvious 
+dishonesty, the woman representing the child got in way 
+too deep, and while not dishonest, very obviously 
+violated the Rules of Professional Conduct. She 
+cooperated with the police, which was her right, but 
+then kept her involvement a secret from the custody 
+judge. Her feeble, ignorant defense of her actions 
+shows that she doesn't understand the basics of this 
+transgression:
 
 She must have read 200 pages of hostile accusations 
 against me. Nowhere in any was there any accusation of 
@@ -80,7 +84,21 @@ excitement of a police investigation. It made her feel
 significant. The judge fired her. She still appears
 unaware why.
 
+A prosecutor shouldn't go to trial with such severe 
+liars claiming to be victims.
+
 # Desperate, he doubles down
+
+To be accused of threatening to murder a judge I had 
+only great feelings toward was particularly insulting 
+and surreal. The judge had studied all the documents in 
+my custody case, and ruled unequivocally that the 
+opposing attorney's request was without merit. And 
+Lindquist's deputy was going to argue I wanted to 
+communicate a murder threat? It was insane. I found the 
+judge involved to be brilliant and adorable, fully 
+deserving of his esteemed position as the county's lead 
+justice.
 
 I remind myself of Lindquist's fanciful claim that 
 there's an ongoing investigation. It didn't entail 
@@ -88,22 +106,6 @@ vetting the honesty of key victims. I believe the
 deputy must have noticed he was being tricked, but he 
 also knew his boss went on the TV and said what he said 
 to the press. He does that a lot, but it's still wrong.
-
-People in civil court often 
-love the idea of involving the police. It can give a 
-huge advantage to their lot in civil court when they 
-opposing party is in jail, or silent due to their Fifth 
-Amendment right to be so. Any sound prosecutor would 
-see bright yellow flags when a party in a civil case 
-insists they're victims of a crime perpetrated by their 
-opponent. But this prosecutor went on TV, and I believe 
-that prevented him from ever having a come-to-Jesus 
-moment about the quality of his case.
-
-Most cases settle without a trial. Those cases don't 
-result in RPC complaints like mine. But I endured a 
-trial, I was completely acquitted at trial, and so I 
-have a rare opportunity to call out his behavior. 
 
 I remember the deputy prosecutor looking at me 
 intensely after piling on the charges on the day the 
@@ -116,6 +118,22 @@ at the initial arraignment. You would think actual
 investigation yield actual results, a deeper 
 understanding, and a refinement of focus. With 
 Lindquist, you'd be wrong.
+
+People in civil court often love the idea of involving 
+the police. It can give a huge advantage to their lot 
+in civil court when they opposing party is in jail, or 
+silent due to their Fifth Amendment right to be so. Any 
+sound prosecutor would see bright yellow flags when a 
+party in a civil case insists they're victims of a 
+crime perpetrated by their opponent. But this 
+prosecutor went on TV, and I believe that prevented him 
+from ever having a come-to-Jesus moment about the 
+quality of his case.
+
+Most cases settle without a trial. Those cases don't 
+result in RPC complaints like mine. But I endured a 
+trial, I was completely acquitted at trial, and so I 
+have a rare opportunity to call out his behavior. 
 
 Due to a flurry of wild accusations in my custody case, 
 I was blessed to have met for ten hours with 
@@ -131,17 +149,6 @@ might make about the appropriateness of Mark's
 statements to the press. They didn't understand I 
 couldn't just take a small charge, as it would 
 substantially weaken my custody case.
-
-To be accused of threatening to murder a judge I had 
-only great feelings toward was particularly insulting 
-and surreal. The judge had studied all the documents in 
-my custody case, and ruled unequivocally that the 
-opposing attorney's request was without merit. And 
-Lindquist's deputy was going to argue I wanted to 
-communicate a murder threat? It was insane. I found the 
-judge involved to be brilliant and adorable, fully 
-deserving of his esteemed position as the county's lead 
-justice.
 
 ## My testimony
 
@@ -200,18 +207,6 @@ explanation that doesn't revolve around them, and
 they're often very persuasive with you about believing 
 it. But that primarily goes for weak people, broken 
 people, and those who want to believe.
-
-# The parties
-
-My story began in Puerto Vallarta, Mexico over ten 
-years ago. Maybe it began the day I took this picture:
-
-... but you can skip ahead to 2013, when it was clear 
-my friend would die. In December, I came to Tacoma to 
-care for her as she did, and to give our daughter 
-everything we could through the crisis. I had no idea 
-what hostile and underhanded forces laid in wait for 
-me.
 
 # The custody dispute
 
