@@ -28,50 +28,43 @@ repeated a dorky line, "We don't know what he's capable of!" We
 do know she's capable of going from bored to terrified sometime 
 *after* calling the police on the non-emergency contact line.
 
-(I've been reluctant to share this evidence, because somewhere 
-in Tacoma, someone needs a dishonest attorney right now, and I 
-just helped them find her.)
-
 ## Very confused G.A.L.
 
-I was fortunate to have a generalist attorney, who takes both 
-criminal and civil cases. One thing you learn about family law 
+One thing you learn about family law 
 attorneys is how the bar is pretty low. In my criminal case in 
 addition to Ms. Young's obvious dishonesty, the woman 
 representing the child got in way too deep, and while not 
-dishonest, very obviously violated the rules. 
+dishonest, very obviously violated the Rules of 
+Professional Conduct.
 She cooperated with the police, which was her right, but 
 then kept her involvement a secret from the custody judge.
 Her feeble, ignorant defense of her actions shows that she 
-doesn't understand the basics of her transgression:
+doesn't understand the basics of this transgression:
 
-She got a bunch of guns. And what a 
-creeper. She would speak to me thoughtfully in the hallway, but 
-take on creepy tones when talking about me before the judge. 
-Like a freaky robot. I met so many creepers in Pierce County! 
-What a slimy cespool of dishonesty is the Pierce County court 
-experience. She said she got two or three guns. She must have 
-read 200 pages of hostile accusations against me. Nowhere in any 
-was there any accusation of violence. But I think she got 
-whipped up by the excitement of a police investigation. The 
-court confirmed that she was inappropriately involved when they 
-removed her.
+She got a bunch of guns. And what a creeper. She would speak to 
+me thoughtfully in the hallway, but take on creepy tones when 
+talking about me before the judge. A fake person who gets by 
+acting tough and breaking the rules.
+
+She must have read 200 pages of hostile accusations against me. 
+Nowhere in any was there any accusation of violence. But I think 
+she got whipped up by the excitement of a police investigation. 
+It made her feel significant. Until she got fired for it.
 
 ## Dishonest dad
 
 Those two attorneys are actual officers of the court, sworn to 
-tell the truth there. But key to the sexy news report is the 
+tell the truth. But key to the sexy news report is the 
 fantastically false police report quoting Emily's dad, a retired 
 fireman. His claims were particularly skillful, which is 
-consistent with his enormous committment to telling big, 
-bold lies. Like 
-Lindquist, he is a severe narcissist, with a lifetime of 
-experience emotionally abusing and manipulating people. (Emily 
-said of him, "I love my dad, but he's really screwed up.") His 
-credentials as a recent retiree of the fire department probably 
-enhanced his believability with the interviewing officer. Here's 
-a bit more about the actual nature of his honesty and 
-credibility, from the Fire Chief:
+consistent with his enormous committment to telling big, bold 
+lies. Like Lindquist, he is a severe narcissist, with a lifetime 
+of experience emotionally abusing and manipulating people. 
+(Emily said of him, "I love my dad, but he's really screwed 
+up.") His credentials as a recent retiree of the fire department 
+probably enhanced his believability with the interviewing 
+officer. Here's a bit more about the actual nature of his 
+honesty and credibility, from the Fire Chief:
 
 He's so dishonest that it's boring, though it's useful to see 
 how his *specious* claims fit right in with those of Mr. 
@@ -79,9 +72,11 @@ Lindquist. A prosecutor shouldn't go to trial with such severe
 liars claiming to be their victims, but it's a serious risk you 
 face when narcissists craving validation and control see their 
 soapbox opportunity. Lies travel around the world before the 
-truth can get its pants on.
+truth can get its pants on. Mark Lindquist's lies are finally, 
+*finally* catching up to him. A lot of people have been hurt 
+along the way.
 
-# Doubling down for unjust reasons
+# Desperate, he doubles down
 
 Lindquist's deputy should have begun to notice the patterns. I 
 believe he did, but also knew his boss went on the TV and said 
