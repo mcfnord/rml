@@ -15,7 +15,7 @@ top of your notes. It's on the quiz!
 ## Dishonest family lawyer
 
 The first contact to law enforcement was made by an attorney. 
-Great start!
+Great start! Attorneys are truthful, right?
 
 In her sworn testimony, my attorney asked her to measure the 
 level of fear she felt toward me, and she swore it was 4 out of 
@@ -28,20 +28,9 @@ repeated a dorky line, "We don't know what he's capable of!" We
 do know she's capable of going from bored to terrified sometime 
 *after* calling the police on the non-emergency contact line.
 
-(I've been reluctant too share this evidence, because somewhere 
+(I've been reluctant to share this evidence, because somewhere 
 in Tacoma, someone needs a dishonest attorney right now, and I 
 just helped them find her.)
-
-You would hope an attorney, who is what's called an *officer of 
-the court* and sworn to bring only truth to it, would refrain 
-from from spinning such an enormous yarn. Ms. Young showed no 
-hesitation about lying for her client. She involved herself in 
-my legal cases many times in ways an honest attorney wouldn't. 
-I'm not sure how a court can get to the truth when people like 
-Ms. Young operate within it. It was not easy for me to stomach 
-why the custody court trusted her with any claim she was 
-involved in, but that's a story for another day.
-
 
 ## Very confused G.A.L.
 
@@ -50,13 +39,13 @@ criminal and civil cases. One thing you learn about family law
 attorneys is how the bar is pretty low. In my criminal case in 
 addition to Ms. Young's obvious dishonesty, the woman 
 representing the child got in way too deep, and while not 
-dishonest, very readily violated the rules, and got fired for 
-it. She cooperated with the police, which was her right, but 
+dishonest, very obviously violated the rules. 
+She cooperated with the police, which was her right, but 
 then kept her involvement a secret from the custody judge.
 Her feeble, ignorant defense of her actions shows that she 
-doesn't understand the basics of her duties:
+doesn't understand the basics of her transgression:
 
-of me. She is so crazy. She got a bunch of guns. And what a 
+She got a bunch of guns. And what a 
 creeper. She would speak to me thoughtfully in the hallway, but 
 take on creepy tones when talking about me before the judge. 
 Like a freaky robot. I met so many creepers in Pierce County! 
@@ -74,7 +63,8 @@ Those two attorneys are actual officers of the court, sworn to
 tell the truth there. But key to the sexy news report is the 
 fantastically false police report quoting Emily's dad, a retired 
 fireman. His claims were particularly skillful, which is 
-consistent with his enormous committment to telling lies. Like 
+consistent with his enormous committment to telling big, 
+bold lies. Like 
 Lindquist, he is a severe narcissist, with a lifetime of 
 experience emotionally abusing and manipulating people. (Emily 
 said of him, "I love my dad, but he's really screwed up.") His 
@@ -86,17 +76,29 @@ credibility, from the Fire Chief:
 He's so dishonest that it's boring, though it's useful to see 
 how his *specious* claims fit right in with those of Mr. 
 Lindquist. A prosecutor shouldn't go to trial with such severe 
-liars, but it's a serious risk you face when narcissists craving 
-validation and control see their soapbox opportunity. Lies 
-travel around the world before the truth can get its pants on.
+liars claiming to be their victims, but it's a serious risk you 
+face when narcissists craving validation and control see their 
+soapbox opportunity. Lies travel around the world before the 
+truth can get its pants on.
 
-# A Prosecutor needs to see these clues
+# Doubling down for unjust reasons
 
 Lindquist's deputy should have begun to notice the patterns. I 
 believe he did, but also knew his boss went on the TV and said 
-what he said to the press. Backing out became impossible, and 
-Lindquist's wagon was hitched to the ridiculous gaggle of 
-non-victims who were knowingly and unknowingly in way too deep.
+what he said to the press. He does that a lot, but it's still 
+wrong:
+
+[The petition contends Lindquist pays extra attention to 
+criminal cases that receive media attention, and seeks harsher 
+penalties for defendants in such 
+cases.](http://www.thenewstribune.com/news/local/article26347357.html)
+
+Most cases settle without a trial, and that insulates him from 
+RPC complaints like mine. But I endured a trial, I was 
+completely acquitted at trial, and I have a rare opportunity to 
+call out his behavior because those things are true. Backing out 
+became impossible, and Lindquist's wagon was hitched to the 
+ridiculous gaggle of non-victims.
 
 # Lindquist doubles down
 
@@ -391,11 +393,6 @@ Lindquist has committed offenses serious enough to merit a
 recall effort. According to that judge, it is very likely this 
 official committed acts that merit removal from office. Since 
 then, the evidence has grown stronger and louder.
-
-[The petition contends Lindquist pays extra attention to 
-criminal cases that receive media attention, and seeks harsher 
-penalties for defendants in such 
-cases.](http://www.thenewstribune.com/news/local/article26347357.html)
 
 # SCOTUS and me
 
