@@ -146,7 +146,7 @@ statements, as they are:
 unusually large audience, especially in the juror pool area,
  + Focused on the reputation of a suspect facing potential 
 incarceration,
- + With a substantial likelihood of heightening public 
+ + Having a substantial likelihood of heightening public 
 condemnation and materially prejudicing a trial, and
  + False, and therefore having no law enforcement purpose.
 
