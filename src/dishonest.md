@@ -1,14 +1,28 @@
-# The parties
+# Prologue
 
-My story began in Puerto Vallarta, Mexico over ten 
-years ago. Maybe it began the day I took this picture:
+My story began in Puerto Vallarta, Mexico over ten years ago. 
+It included a long prologue of complicated relationships. Maybe 
+it began the day I took this picture:
 
-... but you can skip ahead to 2013, when it was clear 
-my friend would die. In December, I came to Tacoma to 
-care for her as she did, and to give our daughter 
-everything we could through the crisis. I had no idea 
-what hostile and underhanded forces laid in wait for 
-me.
+In 2013, it became clear my friend would die. In December, I 
+came to Tacoma to care for her as she did, and to give our 
+daughter everything we could through the crisis and beyond. 
+But my friend's father had other plans.
+
+# The alleged crime
+
+It meant the world to step out to a New Year's party 
+with good friends. I got wild singing about the hard 
+year behind me, and good one ahead. I barely remember 
+the deed Lindquist called a crime. I have no dispute it 
+was a very bad idea, but it never a crime. I chose the 
+wrong words. In a career of trying to choose the right 
+ones, I chose the wrong ones, not based on my meaning, 
+but because they could be interpreted differently. It 
+was incredibly late when I wrote seven words and fell 
+asleep.
+
+
 
 # Dishonest Complainants
 
@@ -215,19 +229,6 @@ daughter would be raised according to her wishes. But
 my friend's father did everything he could legally 
 do--and then some--to subvert her wishes. An insane 
 custody court battle ensued.
-
-# The alleged crime
-
-It meant the world to step out to a New Year's party 
-with good friends. I got wild singing about the hard 
-year behind me, and good one ahead. I barely remember 
-the deed Lindquist called a crime. I have no dispute it 
-was a very bad idea, but it never a crime. I chose the 
-wrong words. In a career of trying to choose the right 
-ones, I chose the wrong ones, not based on my meaning, 
-but because they could be interpreted differently. It 
-was incredibly late when I wrote seven words and fell 
-asleep.
 
 # Scary police reports
 
