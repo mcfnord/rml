@@ -1,167 +1,231 @@
 # Prologue
 
-My story began in Puerto Vallarta, Mexico over ten years ago. 
-It included a long prologue of complicated relationships. Maybe 
+My story began in Puerto Vallarta, Mexico 
+over ten years ago. It included a long 
+prologue of complicated relationships. Maybe 
 it began the day I took this picture:
 
-In 2013, it became clear my friend would die. In December, I 
-came to Tacoma to care for her as she did, and to give our 
-daughter everything we could through the crisis and beyond. 
-But my friend's father had other plans.
+In 2013, it became clear my friend would 
+die. In December, I came to Tacoma to care 
+for her as she did, and to give our daughter 
+everything we could through the crisis and 
+beyond. But my friend's father had other 
+plans.
 
 # The alleged crime
 
-It meant the world to step out to a New Year's party 
-with good friends. I got wild singing about the hard 
-year behind me, and good one ahead. I barely remember 
-the deed Lindquist called a crime. I have no dispute it 
-was a very bad idea, but it never a crime. I chose the 
-wrong words. In a career of trying to choose the right 
-ones, I chose the wrong ones, not based on my meaning, 
-but because they could be interpreted differently. It 
-was incredibly late when I wrote seven words and fell 
+It meant the world to step out to a New 
+Year's party with good friends. I asked 
+everyone about the toughest year of their 
+life, cuz I had just finished mine. I got 
+wild singing about the hard year behind me, 
+and good one ahead. I barely remember the 
+deed Lindquist called a crime. I have no 
+dispute it was a very bad idea, but it was 
+never a crime. I chose the wrong words. In a 
+career of trying to choose the right ones, I 
+chose the wrong ones, not based on my 
+meaning, but because they could be 
+interpreted differently. It was incredibly 
+late when I wrote seven words and fell 
 asleep.
 
+# Scary police reports
 
+It takes work to translate a Facebook post 
+into an arrest warrant. Three people who 
+said they were my victims worked hard to get 
+to that point. Two were dishonest, and one 
+was just in way over her head.
 
 # Dishonest Complainants
 
-Lindquist took a terrible case to trial. At first 
-blush, when he went on television, he seemed to have 
-the ingredients a headline-craving prosecutor loves: A 
-dangerous suspect, an allegation of a crime against a 
-judge, and an outrageous music video.
+Lindquist took a terrible case to trial. At 
+first blush, when he went on television, he 
+seemed to have the ingredients a 
+headline-craving prosecutor loves: A 
+dangerous suspect, an allegation of a crime 
+against a judge, and an outrageous music 
+video.
 
-The prosecutor wanted me to spend more than a year in 
-prson for seven words he called a crime.
+The prosecutor wanted me to spend more than 
+a year in prson for seven words he called a 
+crime.
 
-[The petition contends Lindquist pays extra attention 
-to criminal cases that receive media attention, and 
-seeks harsher penalties for defendants in such 
+[The petition contends Lindquist pays extra 
+attention to criminal cases that receive 
+media attention, and seeks harsher penalties 
+for defendants in such 
 cases.](http://www.thenewstribune.com/news/local/article26347357.html)
 
-What he had was a deliciously *specious* case.
+What he had was a deliciously *specious* 
+case.
 
-**specious**: *misleading in appearance, especially 
-misleadingly attractive.*
+**specious**: *misleading in appearance, 
+especially misleadingly attractive.*
 
-(If you want to understand narcissists, write this word 
-at the top of your notes. It's on the quiz!)
+(If you want to understand narcissists, 
+write this word at the top of your notes. 
+It's on the quiz!)
 
 ## Dishonest family lawyer
 
-The first contact to law enforcement was made by an 
-attorney. Great start! Attorneys are truthful, right?
+The first contact to law enforcement was 
+made by an attorney. Great start! Attorneys 
+are truthful, right?
 
-In her sworn testimony, my attorney asked her to 
-measure the level of fear she felt toward me, and she 
-swore it was 4 out of 5. Pretty scary. So we pressed 
-play on this recording.
+On the witness stand, my attorney asked 
+her to measure the level of fear she felt 
+toward me, and she swore it was 4 out of 5. 
+Pretty scary. So we pressed play on this 
+recording.
 
 *embed*
 
-After it played, she confirmed her 4-of-5 fear metric, 
-and repeated a dorky line, "We don't know what he's 
-capable of!" We do know she's capable of going from 
-bored to terrified sometime *after* calling the police 
-on the non-emergency contact line.
+After it played, she confirmed her 4-of-5 
+fear metric, and repeated a dorky line, "We 
+don't know what he's capable of!" We do know 
+she's capable of going from bored to 
+terrified sometime *after* calling the 
+police on the non-emergency contact line.
+
+And we know the Prosecutor knew or should 
+have known this evidence strongly 
+contradicted her claim of mortal fear.
 
 ## Dishonest dad
 
-Key to the sexy news report is the fantastically false 
-police report quoting Emily's dad, a retired fireman. 
-His claims were particularly skillful. His credentials 
-as a recent retiree of the fire department probably 
-enhanced his believability with the interviewing 
-officer. Here's a bit more about the actual nature of 
-his honesty and credibility, from the Fire Chief:
+Key to the sexy news report is the 
+fantastically false police report quoting 
+Emily's dad, a retired fireman. His claims 
+were particularly skillful. His credentials 
+as a recent retiree of the fire department 
+probably enhanced his believability with the 
+interviewing officer. Here's a bit more 
+about the actual nature of his honesty and 
+credibility, from the Fire Chief:
 
-He's so dishonest that it's boring.
+He's so dishonest that it's boring. He was a 
+prolific accusor through a surreal custody 
+dispute, which the deputy prosecutor claimed 
+he had read in full. And yet the prosecutor
+insisted on a trial.
 
 ## Excited G.A.L. in too deep
 
-For family law attorneys, the bar is pretty low. In my 
-criminal case in addition to Ms. Young's obvious 
-dishonesty, the woman representing the child got in way 
-too deep, and while not dishonest, very obviously 
-violated the Rules of Professional Conduct. She 
-cooperated with the police, which was her right, but 
-then kept her involvement a secret from the custody 
-judge. Her feeble, ignorant defense of her actions 
-shows that she doesn't understand the basics of this 
-transgression:
+The bar is pretty low for family law 
+attorneys. In my 
+criminal case in addition to Ms. Young's 
+obvious dishonesty, the woman representing 
+the child got in way too deep, and
+very obviously violated the Rules 
+of Professional Conduct. She cooperated with 
+the police, which was her right, but then 
+kept her involvement a secret from the 
+custody judge. Her feeble, ignorant defense 
+of her actions shows that she doesn't 
+understand the basics of this transgression:
 
-She must have read 200 pages of hostile accusations 
-against me. Nowhere in any was there any accusation of 
-violence. But I think she got whipped up by the 
-excitement of a police investigation. It made her feel 
-significant. The judge fired her. She still appears
-unaware why.
+She must have read 200 pages of hostile 
+accusations against me. Nowhere in any was 
+there any accusation of violence. But I 
+think she got whipped up by the excitement 
+of a police investigation. It made her feel 
+significant. The judge fired her. She still 
+appears unaware why.
 
-A prosecutor shouldn't go to trial with such severe 
-liars claiming to be victims.
+A prosecutor shouldn't go to trial with such 
+severe liars and looneys claiming to be 
+victims.
 
 # Desperate, he doubles down
 
-To be accused of threatening to murder a judge I had 
-only great feelings toward was particularly insulting 
-and surreal. The judge had studied all the documents in 
-my custody case, and ruled unequivocally that the 
-opposing attorney's request was without merit. And 
-Lindquist's deputy was going to argue I wanted to 
-communicate a murder threat? It was insane. I found the 
-judge involved to be brilliant and adorable, fully 
-deserving of his esteemed position as the county's lead 
-justice.
+Every day I'm sure a prosecutor's office 
+meets people trying to trick them into 
+something. It's critically important they 
+get past the dishonesty. Lindquist's office 
+did not, and so a judge did it for them. In 
+the mean time, so much court time and tax 
+money was wasted. But when you speak 
+inappropriately to the press, as Lindquist 
+did, you can't just drop it. It's so similar 
+to his deplorable committment to hiding his 
+Public Record text messages. He doubles down 
+on bad ideas.
 
-I remind myself of Lindquist's fanciful claim that 
-there's an ongoing investigation. It didn't entail 
-vetting the honesty of key victims. I believe the 
-deputy must have noticed he was being tricked, but he 
-also knew his boss went on the TV and said what he said 
-to the press. He does that a lot, but it's still wrong.
+From beginning to end, my case was handled 
+by a deputy named Patrick Cooper. Since 
+losing the case against me, he has been 
+promoted. This is consistent with my belief 
+that I was tried to reduce risk Lindquist 
+incurred with his false and prohibited 
+statements to the press. Loyalty, not 
+success, was Cooper's valued contribution.
 
-I remember the deputy prosecutor looking at me 
-intensely after piling on the charges on the day the 
-trial began. I didn't understand how we had come from 
-Lindquist on television saying there was an actual 
-investigation, to this point where a rational man would 
-conclude an actual investigation had concluded, and as 
-a result, my act was deemed even worse than it appeared 
-at the initial arraignment. You would think actual 
-investigation yield actual results, a deeper 
-understanding, and a refinement of focus. With 
-Lindquist, you'd be wrong.
+I believe the deputy prosecutor must 
+have noticed he was being tricked, but he 
+also knew his boss went on the TV and said 
+what he said to the press. He does that a 
+lot, but it's still wrong.
 
-People in civil court often love the idea of involving 
-the police. It can give a huge advantage to their lot 
-in civil court when they opposing party is in jail, or 
-silent due to their Fifth Amendment right to be so. Any 
-sound prosecutor would see bright yellow flags when a 
-party in a civil case insists they're victims of a 
-crime perpetrated by their opponent. But this 
-prosecutor went on TV, and I believe that prevented him 
-from ever having a come-to-Jesus moment about the 
+I remember the deputy prosecutor looking at 
+me intensely after piling on the charges on 
+the day the trial began. He had just
+"thrown the book" at me. Why? Because that's
+what prosecutors do? Perhaps. But before
+the trial, in a pre-trial motion, my
+counsel proved that the threat against the
+judge was literally impossible, because
+he wasn't my judge when I typed those words.
+
+To be accused of threatening to murder a 
+judge I had only great feelings toward was 
+particularly insulting and surreal. The 
+judge had studied all the documents in my 
+custody case, and ruled unequivocally that 
+the opposing attorney's request was without 
+merit. And Lindquist's deputy was going to 
+argue I wanted to communicate a murder 
+threat? It was insane. I found the judge 
+involved to be brilliant and adorable, fully 
+deserving of his esteemed position as the 
+county's lead justice.
+
+People in civil court often love the idea of 
+involving the police. It can give a huge 
+advantage to their lot in civil court when 
+they opposing party is in jail, or silent 
+due to their Fifth Amendment right to be so. 
+Any sound prosecutor would see bright yellow 
+flags when a party in a civil case insists 
+they're victims of a crime perpetrated by 
+their opponent. But this prosecutor went on 
+TV, and I believe that prevented him from 
+ever having a come-to-Jesus moment about the 
 quality of his case.
 
-Most cases settle without a trial. Those cases don't 
-result in RPC complaints like mine. But I endured a 
-trial, I was completely acquitted at trial, and so I 
-have a rare opportunity to call out his behavior. 
+Most cases settle without a trial. Those 
+cases don't result in RPC complaints like 
+mine. But I endured a trial, I was 
+completely acquitted at trial, and so I have 
+a rare opportunity to call out his behavior.
 
-Due to a flurry of wild accusations in my custody case, 
-I was blessed to have met for ten hours with 
-Washington's top expert in violent criminals. He is the 
-coolest person I've met in a while. He unequivocally 
-declared that I'm a harmless person. An enormous body 
-of evidence confirmed that. Additional evidence from 
-the people Mark called victims also pointed to 
-flim-flam and bamboozle. But I don't think the facts 
-mattered to the prosecution. I think they needed a 
-conviction at any cost, because it weakened any claim I 
-might make about the appropriateness of Mark's 
-statements to the press. They didn't understand I 
-couldn't just take a small charge, as it would 
+Due to a flurry of wild accusations in my 
+custody case, I was blessed to have met for 
+ten hours with Washington's top expert in 
+violent criminals. He is the coolest person 
+I've met in a while. He unequivocally 
+declared that I'm a harmless person. An 
+enormous body of evidence confirmed that. 
+Additional evidence from the people Mark 
+called victims also pointed to flim-flam and 
+bamboozle. But I don't think the facts 
+mattered to the prosecution. I think they 
+needed a conviction at any cost, because it 
+weakened any claim I might make about the 
+appropriateness of Mark's statements to the 
+press. They didn't understand I couldn't 
+just take a small charge, as it would 
 substantially weaken my custody case.
 
 ## My testimony
@@ -169,73 +233,54 @@ substantially weaken my custody case.
 [You can read my testimony and words from my 
 accusers](http://tucc.us/dtm_cop_lies.html).
 
-Testifying wasn't fun, but it was heartening. The 
-surreal accusations made no sense in the face of the 
-truth.
-
-## Prosecutor's perdicament
-
-Every day I'm sure a prosecutor's office meets people 
-trying to trick them into something. It's critically 
-important they get past the dishonesty. Lindquist's 
-office did not, and so a judge did it for them. In the 
-mean time, so much court time and tax money was wasted. 
-But when you speak inappropriately to the press, as 
-Lindquist did, you can't just drop it. It's so similar 
-to his deplorable committment to hiding his Public 
-Record messages. He doubles down on bad ideas.
-
-From beginning to end, my case was handled by a deputy 
-named Patrick Cooper. Since losing the case against me, 
-he has been promoted. This is consistent with my belief 
-that I was tried to reduce risk Lindquist incurred with 
-his false and prohibited statements to the press. 
-Loyalty, not success, was Cooper's valued contribution.
+Testifying wasn't fun, but it was 
+heartening. The surreal accusations made no 
+sense in the face of the truth.
 
 # Speciousness is a narcissist go-to ploy
 
-I'm gonna riff a little about narcissists. It's a word 
-that gets thrown around a lot, when we talk about the 
-President, and the Prosecutor. It's something more than 
-just a self-centered person. It's someone who is 
-disturbingly self-centered. A narcissist is so 
-self-centered that they will do *anything* to make you 
-focus on them, and their explanation of events. 
-Specious claims are popular with narcissists because 
-they give them sheen and shimmer. Who cares what's 
-true? What matters to them is what might seem true 
-right now that makes them look maximally good.
+I'm gonna riff a little about narcissists. 
+It's a word that gets thrown around a lot, 
+when we talk about the President, and the 
+Prosecutor. It's something more than just a 
+self-centered person. It's someone who is 
+disturbingly self-centered. A narcissist is 
+so self-centered that they will do 
+*anything* to make you focus on them, and 
+their explanation of events. Specious claims 
+are popular with narcissists because they 
+give them sheen and shimmer. Who cares 
+what's true? What matters to them is what 
+might seem true right now that makes them 
+look maximally good.
 
-When you try to understand how Lindquist dug so deep 
-hiding his misbehavior from Nissen, just think how well 
-he hid the truth, and for how long. The ability to win 
-now and look like a hero now is like a drug to 
-narcissists. They'll tell enormous lies to do it. Many 
-lies hide the truth well... for a while. A narcissist 
-is in such a psychological panic about building up 
-their image now that they'll grab at whatever lie 
+When you try to understand how Lindquist dug 
+so deep hiding his misbehavior from Nissen, 
+just think how well he hid the truth, and 
+for how long. The ability to win now and 
+look like a hero now is like a drug to 
+narcissists. They'll tell enormous lies to 
+do it. Many lies hide the truth well... for 
+a while. A narcissist is in such a 
+psychological panic about building up their 
+image now that they'll grab at whatever lie 
 helps. They'll save later for later.
 
-A narcissist is dangerous because they will reject any 
-explanation that doesn't revolve around them, and 
-they're often very persuasive with you about believing 
-it. But that primarily goes for weak people, broken 
+A narcissist is dangerous because they will 
+reject any explanation that doesn't revolve 
+around them, and they're often very 
+persuasive with you about believing it. But 
+that primarily goes for weak people, broken 
 people, and those who want to believe.
 
 # The custody dispute
 
-My friend and I did everything we could to assure her 
-daughter would be raised according to her wishes. But 
-my friend's father did everything he could legally 
-do--and then some--to subvert her wishes. An insane 
-custody court battle ensued.
-
-# Scary police reports
-
-It takes work to translate a Facebook post into an 
-arrest warrant. Three people who said they were my 
-victims worked hard to get to that point. Two were 
-dishonest, and one was just in way over her head.
+My friend and I did everything we could to 
+assure her daughter would be raised 
+according to her wishes. But my friend's 
+father did everything he could legally 
+do--and then some--to subvert her wishes. An 
+insane custody court battle ensued.
 
 # "Rounded him up"
 

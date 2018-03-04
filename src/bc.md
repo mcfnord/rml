@@ -146,24 +146,23 @@ statements, as they are:
 unusually large audience, especially in the juror pool area,
  + Focused on the reputation of a suspect facing potential 
 incarceration,
- + Having a substantial likelihood of heightening public 
+ + Likely to heighten public 
 condemnation and materially prejudicing a trial, and
  + False, and therefore having no law enforcement purpose.
 
 ## Censure is needed
 
-Throughout his career as an elected official, Mark 
-Lindquist has violated RPC 3.6 and RPC 3.8. His misleading 
-statements about me to the press forced me to waive my jury 
-trial, and threatened my ability to get a fair one. That he 
-uses the accused to gain visibility before his electorate 
-based on maligning falsehoods and charging documents rather 
-than verdicts should be of grave concern to all advocates 
-of justice. Lindquist's dismissive responses to complaints to your office
-are of particular concern. Justice in Pierce 
-County faces clear, serious, documented, and repeated 
-danger as long as Mr. Lindquist is permitted to practice 
-law.
+Throughout his career as an elected official, Mark Lindquist has 
+violated RPC 3.6 and RPC 3.8. His misleading statements about me 
+to the press forced me to waive my jury trial, and threatened my 
+ability to get a fair one. That he uses the accused to gain 
+visibility before his electorate based on maligning falsehoods 
+and charging documents rather than verdicts should be of grave 
+concern to all advocates of justice. Lindquist's dismissive 
+responses to complaints to your Association are of particular 
+concern. Justice in Pierce County faces clear, serious, 
+documented, repeated danger as long as Mr. Lindquist is 
+permitted to practice law.
 
 ## References
 
