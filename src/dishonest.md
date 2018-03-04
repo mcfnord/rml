@@ -9,7 +9,7 @@ In 2013, it became clear my friend would
 die. In December, I came to Tacoma to care 
 for her as she did, and to give our daughter 
 everything we could through the crisis and 
-beyond. But my friend's father had other 
+beyond. My friend's father had other 
 plans.
 
 # The alleged crime
@@ -19,31 +19,35 @@ Year's party with good friends. I asked
 everyone about the toughest year of their 
 life, cuz I had just finished mine. I got 
 wild singing about the hard year behind me, 
-and good one ahead. I barely remember the 
+and good one ahead. 
+
+I barely remember the 
 deed Lindquist called a crime. I have no 
 dispute it was a very bad idea, but it was 
-never a crime. I chose the wrong words. In a 
+never a crime. I was very tired and buzzing from 
+caffiene from a party. I chose the wrong words. In a 
 career of trying to choose the right ones, I 
-chose the wrong ones, not based on my 
-meaning, but because they could be 
-interpreted differently. It was incredibly 
-late when I wrote seven words and fell 
+picked the wrong ones, not based on my 
+meaning, but because of another interpretation,
+probably obvious in any other state of mind.
+It was incredibly 
+late and I was incredibly worn out when I wrote seven words and fell 
 asleep.
 
 # Scary police reports
 
 It takes work to translate a Facebook post 
-into an arrest warrant. Three people who 
-said they were my victims worked hard to get 
+into an arrest warrant. Three people 
+worked hard to get 
 to that point. Two were dishonest, and one 
-was just in way over her head.
+was in over her head.
 
 # Dishonest Complainants
 
 Lindquist took a terrible case to trial. At 
 first blush, when he went on television, he 
 seemed to have the ingredients a 
-headline-craving prosecutor loves: A 
+headline-craving prosecutor must love: A 
 dangerous suspect, an allegation of a crime 
 against a judge, and an outrageous music 
 video.
@@ -137,6 +141,15 @@ appears unaware why.
 A prosecutor shouldn't go to trial with such 
 severe liars and looneys claiming to be 
 victims.
+
+## The rest
+
+The verdict specifies 3 others who claimed to be victims.
+Details differ, but two said basically they didn't see
+the message as a threat, and the judge called the 6th person
+"brittle". It's worth noting that the prosecutor
+dug up 7 people as victims, and in 7 distinct cases,
+the judge said nope. That's not one error, but 7.
 
 # Desperate, he doubles down
 
