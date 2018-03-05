@@ -199,7 +199,8 @@ judge, and this guy's obvious skill at estimating was very valued. But he couldn
 clues emerged.
 
 As each person was called from the arraignment holding cell before the judge, we'd wish them success. On 
-their return, we'd ask how it went. They may have just learned they face years in a prison, or would be 
+their return, we'd ask how it went. They may have just learned they risk years in a prison, or would 
+be 
 going home soon, so the excitement was palpable, and most were enthusiastic to share. Two phrases common 
 to jail were repeated in that pen: *some bullshit* and *it is what it is*.
 
