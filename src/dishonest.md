@@ -88,10 +88,23 @@ prosecutor would have done so.
 
 ## The rest
 
-The charges specified 3 others who the prosecutor claimed were victims. Details differ, but two said 
-basically they didn't see the message as a serious threat, and the judge called the 6th person "brittle". 
-It's worth noting that the prosecutor dug up 7 people as victims, and in 7 distinct instances, the judge 
-said nope. That's not one error, but 7 errors in the prosecutor's judgement, isn't it?
+The charges specified 3 others who the prosecutor claimed 
+were victims. Two said basically they 
+didn't see the message as a serious threat, and the judge 
+called one person "brittle". 
+
+It's worth noting that the 
+prosecutor dug up 7 people as victims, and in 7 distinct 
+instances, the judge said nope. That's not one error, but 7 
+errors in the prosecutor's judgement.
+
+Say what you will about the people the prosecutor claimed
+were victims. My intent was never to communicate a threat
+to murder, and intent is a critical part of felony law.
+Some of the people who claimed to be victims worked very
+hard to project criminal intent upon me. Some of them
+are well-known charlitans and losers, and the prosecutor
+should have noticed and quit the whole thing.
 
 # Desperate, he doubles down
 
