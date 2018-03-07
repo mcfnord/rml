@@ -496,6 +496,11 @@ American Idol. It's a mismatch, it's disturbing, and it makes me
 believe the Pierce County judiciary is the only thing preventing a 
 total collapse of justice.
 
+A prosecutor's job starts with an arrest. It ends with a conviction.
+Mark hypes arrests because he's excited about getting on TV, or
+the radio. I don't think he cares about the boring work of
+securing honest convictions.
+
 
 # See Bar complaint
 
