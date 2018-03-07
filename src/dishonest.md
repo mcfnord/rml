@@ -210,3 +210,5 @@ messaging._
 His job is to **shape perceptions**. Will Mary Robnett need that service? Or will perceptions form based
 on successes? I'm just spitballin' here.
 
+
+

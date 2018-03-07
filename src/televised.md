@@ -135,36 +135,6 @@ strange to feel safe and respected in Seattle again, while shuttling to Tacoma t
 intransigence of the prosecuting attorney, and endless dishonest schemes of Darin Murphy and Heather 
 Young. It became a double life for a while.
 
-# The recall effort
-
-Try to imagine my surprise when I'm out on bail and learn that citizens have accused Lindquist of serious 
-offenses in office, most notably an unhealthy pattern of going on TV to talk about people accused of 
-crimes. In my own county (King), the prosecutor might be visible after a conviction--after all his work 
-culminates in a persuaded jury. In legal terms, the difference between public statements about the accused 
-vs. the convicted is a huge one.
-
-My family quickly joined the movement to remove Lindquist. My mom may have gathered a hundred signatures 
-to round him up and send him packing.
-
-In a way, America gives many elected officials 4 years to screw up. We rarely remove officials during 
-their term. Rather, we just find someone better at the next election. Recalls are notoriously complicated 
-to achieve, and I admire how hard so many worked at this high goal. We all should recognize that the 
-recall cleared the first and most serious hurdle: A judge agreed there was enough evidence to believe Mark 
-Lindquist has committed offenses serious enough to merit a recall effort. According to that judge, it is 
-very likely this official committed acts that merit removal from office. Since then, the evidence has 
-grown stronger and louder.
-
-# SCOTUS and me
-
-Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere 
-could be used against me.
-
-I remember how surreal it became when the Supreme Court ruled in my favor, in a case incredibly similar to 
-my own. While the nation celebrated the marriage equality ruling, the SCOTUS ruling on *Alonis v. USA* was 
-as significant to speech advocates. In a case much more heinous and much more clear, the Supremes ruled 
-there was no real threat because there was no intention to threaten. Surely this meant the prosecutor 
-would drop the charges. And had he not gone on TV and said those things, I bet he would have.
-
 # See Before my verdict
 
 As it happens, my parents are Pierce County Democrats since forever. The day before my verdict, we 
