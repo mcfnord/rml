@@ -52,12 +52,13 @@ I've made my full letter to the Bar Association available online.
 
 [http://DempseyBarComplaint.info](http://dempseybarcomplaint.info/)
 
-In addition to this bar complaint, I have also delivered inquiries to the Pierce 
-County Prosecuting Attorney's Office that will shed light on the Prosecutor's
-use of government media channels, including social media. I wish to better 
-understand the substantial investments Mr. Lindquist's office has made in media 
-production, and determine whether his office uses these channels in a manner 
-consistent with democratic ideals and norms.
+In addition to this bar complaint, I have also delivered inquiries to 
+the Pierce County Prosecuting Attorney's Office that will shed light on 
+the Prosecutor's use of government media channels, including social 
+media. I wish to better understand the substantial investments Mr. 
+Lindquist's office has made in media production, and determine whether 
+[his office](https://en.wikipedia.org/w/index.php?title=Talk:Mark_Lindquist&oldid=828668826#Vandalism_originating_from_Pierce_County_ISP) uses these channels in a manner consistent with democratic 
+ideals and norms.
 
 I will communicate with you further as these matters are addressed.
 I thank you for your continued friendship and support. 

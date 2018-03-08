@@ -257,8 +257,8 @@ this clear pattern of reckless which is, I am sure, an ongoing
 nightmare for many men and women falsely accused and incarcerated right 
 now. We know some of the names of people he has victimized by his 
 malfescence: 
-Dalsing, Justice, Dempsey, Nissen, Ames. We also know names of dangeous 
+Dalsing, [Justice](https://twitter.com/FakeMkLindquist/status/960200235011031040?s=19), Dempsey, Nissen, Ames. We also know names of dangeous 
 men who walk free because Lindquist broke other rules all prosecutors 
-are expected to follow. The evidence is now abundantly clear and the 
+are expected to follow. So much for keeping us safe. The evidence is now abundantly clear and the 
 remedy--a change at the top of Pierce County's law enforcement--is due.
 
