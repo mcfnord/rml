@@ -1,25 +1,40 @@
-# Prologue
+# Emily died
 
-My story began in Puerto Vallarta, Mexico over ten years ago. It included a long prologue of complicated 
-relationships. Maybe it began the day I took this picture:
+My story began in Puerto Vallarta, Mexico over ten years ago. It 
+included a long prologue of complicated relationships. Maybe it began 
+the day I took this picture:
 
-In 2013, it became clear my friend would die. In December, I came to Tacoma to care for her as she did, 
-and to give our daughter everything we could through the crisis and beyond. My friend's father had other 
-plans.
+In 2013, it became clear my friend would die. In December, I came to 
+Tacoma to care for her as she did, and to give our daughter everything 
+we could through the crisis and beyond. 
+In June, 2014, [she died](http://ladybug.today). The child's biological
+father is a bum in Florida, and her grandfather had his own ideas
+about what should happen next.
 
-# New Year's Day 2015, 3am
+# 3am, Jan 1, 2015
 
-It meant the world to step out to a New Year's party with good friends. I asked everyone about the 
-toughest year of their life, cuz I had just finished mine. I got wild singing about the hard year behind 
-me, and good one ahead.
+I'm skipping the agony of her slow death, the 18-hour days of caring 
+for her at home in hospice, and 6 months of bizarre accusations in 
+family court. Documents claim I drugged her, separated her from her 
+family, stole her money, didn't love her, made child porn, and many 
+other bizarre claims that seemed like someone's best angle at the time. 
+There were brazen, failed efforts to take control of the child's trust 
+money, too. It was good training in the lifecycle of *specious* claims.
 
-I barely remember the deed Lindquist called a crime. I have no dispute it was a very bad idea, but it was 
-never a crime. I was very tired and buzzing from caffiene after a heck of a party. I chose the wrong 
-words. In a career of trying to choose the right ones, I picked the wrong ones, not based on my meaning, 
-but because of another interpretation, probably obvious in any other state of mind. It was incredibly late 
-and I was incredibly worn out when I wrote seven words and fell asleep.
-The prosecutor wanted me to spend more than a year in prson for those seven words.
+It meant the world to step out to a New Year's party with good friends. 
+I asked everyone about the toughest year of their life, cuz I had just 
+finished mine. I got wild singing about the hard year behind me, and 
+good one ahead.
 
+I barely remember the deed Lindquist called a crime. I have no dispute 
+it was a very bad idea, but it was never a crime. I was very tired and 
+buzzing from caffiene after a heck of a party. I chose the wrong words. 
+In a career of trying to choose the right ones, I picked the wrong 
+ones, not based on my meaning, but because of another interpretation, 
+probably obvious in any other state of mind. It was incredibly late and 
+I was incredibly worn out when I wrote seven words and fell asleep. The 
+prosecutor wanted me to spend more than a year in prison for those seven 
+words.
 
 # Scary police reports
 
@@ -63,47 +78,53 @@ Professional Conduct. She cooperated with the police, which was her right, but t
 secret from the custody judge. Her feeble, ignorant defense of her actions shows that she doesn't 
 understand the basics of this transgression:
 
-She must have read 200 pages of hostile accusations against me. Nowhere in any was there any accusation of 
-violence. But I think she got whipped up by the excitement of a police investigation. It made her feel 
-significant. The judge fired her. She still appears unaware why.
+She must have read 200 pages of hostile accusations against me. Nowhere 
+in any was there any accusation of violence. But I think she got 
+whipped up by the excitement of a police investigation. It made her 
+feel significant. The judge fired her. She still appears unaware why.
 
 ## The rest
 
-The charges specified 3 others who the prosecutor claimed 
-were victims. Two said basically they 
-didn't see the message as a serious threat, and the judge 
-called one person "brittle". 
+The charges specified 3 others who the prosecutor claimed were victims. 
+Two said basically they didn't see the message as a serious threat, and 
+the judge called one person "brittle".
 
 To be accused of threatening to murder a judge I had only great 
-feelings toward was particularly insulting and surreal. The judge had 
-ruled unequivocally 
-that the opposing attorney's request was without merit. I found the 
+feelings toward was particularly insulting and surreal. I found the 
 judge involved to be brilliant and adorable, fully deserving of his 
 esteemed position as the county's lead justice.
 
-Say what you will about the people the prosecutor claimed
-were victims. My intent was never to communicate a threat
-to murder, and intent is a critical part of felony law.
-Some of the people who claimed to be victims worked very
-hard to project criminal intent upon me. Some of them
-are well-known charlitans and losers, and the prosecutor
-should have noticed and quit the whole thing.
+I never intended to communicate a threat to murder, and intent is a 
+critical part of felony law. Some of the people who claimed to be 
+victims worked very hard to project criminal intent upon me. After 
+examination the prosecutor should have noticed and quit the whole 
+thing. But let me explain to you why Lindquist's choices with the media 
+prevented him from doing that right thing. Mark Lindquist dug up 7 
+people as victims, and in 7 distinct instances, the judge said nope. 
+That's not one error, but 7 errors in judgement. That record is a 
+crappy use of County resources. Why did Mark make these choices?
 
-Mark Lindquist dug up 7 people as victims, and in 7 distinct 
-instances, the judge said nope. That's not one error, but 7 
-errors in judgement. That record is a crappy use of County resources.
+People in civil court often love the idea of involving the police. Any 
+sound prosecutor would see bright yellow flags when a party in a civil 
+case insists they're victims of a crime perpetrated by their opponent. 
+But this prosecutor went on TV, and I believe that prevented him from 
+ever having a come-to-Jesus moment about the quality of his case. So a 
+judge did it for them. In the mean time, so much court time and tax 
+money was wasted.
 
 # SCOTUS and me
 
-Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere 
-could be used against me.
+Being out on bail is surreal. Being on bail for a speech crime was 
+another level. Anything I said anywhere could be used against me.
 
-I remember how surreal it became when the Supreme Court ruled in my favor, in a case incredibly similar to 
-my own. While the nation celebrated the marriage equality ruling, the SCOTUS ruling on *Alonis v. USA* was 
-as significant to speech advocates. In a case much more heinous and much more clear, the Supremes ruled 
-there was no real threat because there was no intention to threaten. Surely this meant the prosecutor 
-would drop the charges. And had he not gone on TV and said those things, I bet he would have.
-
+I remember how surreal it became when the Supreme Court ruled in my 
+favor, in a case incredibly similar to my own. While the nation 
+celebrated the marriage equality ruling, the SCOTUS ruling on *Alonis 
+v. USA* was as significant to speech advocates. In a case much more 
+heinous and much more clear, the Supremes ruled there was no real 
+threat because there was no intention to threaten. Surely this meant 
+the prosecutor would drop the charges. And had he not gone on TV and 
+said those things, I bet he would have.
 
 # The recall campaign
 
@@ -124,25 +145,14 @@ Lindquist has committed offenses serious enough to merit a recall effort. Accord
 very likely this official committed acts that merit removal from office. Since then, the evidence has 
 grown stronger and louder.
 
-# Desperate, he doubles down
-
-People in civil court often love the idea of involving the police. 
-Any sound prosecutor would see bright yellow flags when a 
-party in a civil case insists they're victims of a crime perpetrated by 
-their opponent. But this prosecutor went on TV, and I believe that 
-prevented him from ever having a come-to-Jesus moment about the quality 
-of his case.
-So a judge did it for them. 
-In the mean time, so much court time and tax money was wasted.
-
-## Loyalty first
+# Loyalty first
 
 From beginning to end, my case was handled by a deputy named Patrick Cooper. Since losing the case against 
 me, he has been promoted. This is consistent with my belief that I was tried to reduce risk Lindquist 
 incurred with his false and prohibited statements to the press. Loyalty, not success, was Cooper's valued 
 contribution.
 
-## My testimony
+# My testimony
 
 [You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
 
