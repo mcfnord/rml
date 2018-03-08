@@ -1,18 +1,3 @@
-# Perception v. Reality
-
-For example, James Lynch works for Pierce County Prosecuting Attorney's Office full-time for almost two 
-years. Do you know how Mr. Lynch describes his work? (I've added **bold** cuz WTF:)
-
-_Communications expert with extensive experience and a proven ability to **shape perceptions** and manage 
-media relationships. Direct public outreach, handle crisis communications and develop press releases. 
-Leverage interpersonal skills to build strong stakeholder relationships and lead high-performance teams. 
-Research and write creative stories. Produce and promote special projects across diverse media. Use 
-digital tools, Internet resources and social media to skillfully deliver clear, concise, informative 
-messaging._
-
-His job is to **shape perceptions**. Will Mary Robnett need that service? Or will perceptions form based 
-on successes? I'm just spitballin' here.
-
 # Long weekend in jail
 
 Any weekend in jail is a long one. I met some good people there. I felt uncomfortable walking around, and 
@@ -83,7 +68,7 @@ I was free.
 
 That night my family drove me to SeaTac, where I lived. I saw the television broadcast on the internet 
 before I left the car. Of course the music video made visual and scary news, when added to the false 
-police reports. But Mark Lindquist's extrajudicial comments were icing on the cake for KIRO editors. 
+police reports. But I bet Mark Lindquist's extrajudicial comments were icing on the cake for KIRO editors. 
 *Considered me a threat. Didn't wait. Rounded me up.* What an illusion of efficacy he provided, a series 
 of false statements, made publically at the expense of my reputation, and obviously endangering my right 
 to a fair trial. Yeah, Champ. He said what he thought would keep his job safe. Truth was secondary, and he 
@@ -109,16 +94,21 @@ because the recruiter had seen the television news. (The press had a right to fi
 violated three rules governing prosecutors with his contributions.) The deputy prosecutor would show up 
 unprepared for hearings, forcing us to reschedule.
 
+When Emily died, he moved me onto his livingroom futon, and I couldn't 
+move anymore. I had worked so hard, from dawn to night, to keep Emily 
+alive and our daughter emotionally well. I have 220 pages documentation 
+of these days written by the hospice staff that I can't read yet. In 
+the midst of it, and before, Emily's dad already began his freaky dirty 
+tricks on us. As she lost walking ability, he was already crafting lies 
+and  contrivedpanics to subvert us, but again, that's a story for another day. It 
+made us both incredibly angry. We never missed a single chemotherapy or 
+a family therapy session. Once her dad would show up with his 
+wives to abuse me in family therapy. Never saw him at chemo. Rarely saw 
+him in the house where she was dying..
 
-When Emily died, he moved me onto his livingroom futon, and I couldn't move anymore. I had worked so hard, 
-from dawn to night, to keep Emily alive and our daughter emotionally well. I have 220 pages documentation 
-of these days written by the hospice staff that I can't read yet. In the midst of it, and before, Emily's 
-dad already began his freaky dirty tricks on us. As she lost walking ability, he was already crafting lies 
-and panics to subvert us, but again, that's a story for another day. It made us both incredibly angry. We 
-never missed a single chemotherapy or a family therapy session. Sometimes her dad would show up with his 
-wives to abuse me in family therapy. Never saw him at chemo. Never saw him in the house as she fell dying.
-
-I'm saying here that I was already emotionally broken when Mark charged me with 7 threats to murder.
+I'm saying here that I was already emotionally broken when Mark charged 
+me with 7 threats to murder. It has taken years to feel almost normal 
+again.
 
 My brother had generously housed me in his basement apartment, but as an accused felon, I had to leave due 
 to agreements in his child's immediate family: no felons, convicted or otherwise! So I had to move to my 
