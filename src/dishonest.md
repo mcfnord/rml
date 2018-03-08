@@ -7,7 +7,7 @@ In 2013, it became clear my friend would die. In December, I came to Tacoma to c
 and to give our daughter everything we could through the crisis and beyond. My friend's father had other 
 plans.
 
-# The alleged crime
+# New Year's Day 2015, 3am
 
 It meant the world to step out to a New Year's party with good friends. I asked everyone about the 
 toughest year of their life, cuz I had just finished mine. I got wild singing about the hard year behind 
@@ -26,23 +26,7 @@ The prosecutor wanted me to spend more than a year in prson for those seven word
 It takes work to translate a Facebook post into an arrest warrant. Three people worked hard to get to that 
 point. Two were dishonest, and one was in over her head.
 
-# Trials seek the whole truth
-
-Lindquist took a terrible case to trial. At first blush, when he went on television, he seemed to have the 
-ingredients a headline-craving prosecutor must love: A dangerous suspect, an allegation of a crime against 
-a judge, and an outrageous music video.
-
-[The petition contends Lindquist pays extra attention to criminal cases that receive media attention, and 
-seeks harsher penalties for defendants in such 
-cases.](http://www.thenewstribune.com/news/local/article26347357.html)
-
-What he had was a deliciously *specious* case.
-
-**specious**: *misleading in appearance, especially misleadingly attractive.*
-
-(If you want to understand narcissists, write this word at the top of your notes. It's on the quiz!)
-
-## Dishonest family lawyer
+# Dishonest family lawyer
 
 The first contact to law enforcement was made by an attorney. Great start! Attorneys are truthful, right?
 
@@ -58,16 +42,18 @@ And we know the Prosecutor knew or should have known there was clear evidence th
 contradicted her claim of 
 mortal fear.
 
-## Dishonest dad
+# Dishonest dad
 
 Key to the sexy news report is the fantastically false police report quoting Emily's dad, a retired 
-fireman. His claims were particularly skillful at sounding scary, and his credentials as a recent retiree of the fire department 
+fireman. He's particularly skillful at sounding scary, and his credentials as a recent retiree of the fire department 
 probably enhanced his believability with the interviewing officer. Here's the report:
 
-He's so dishonest that it's boring. Why he hates me relates to 
-some abnormal psychology that I might explain later. What 
-matters here is: The prosecutor claimed he read the surreal panorama of accusations and insinuations filed 
-in the custody dispute. He must have concluded the claimed highlighted by KIRO were false. Yet he still wanted a trial.
+Why he hates me relates to some abnormal psychology that I might 
+explain later. He's so dishonest that it's boring. What matters here 
+is: The prosecutor claimed he read the surreal panorama of accusations 
+and insinuations filed in the custody dispute. He must have concluded 
+the claims highlighted by KIRO were false. Yet he still wanted a 
+trial.
 
 ## Excited G.A.L. in too deep
 
@@ -88,6 +74,13 @@ were victims. Two said basically they
 didn't see the message as a serious threat, and the judge 
 called one person "brittle". 
 
+To be accused of threatening to murder a judge I had only great 
+feelings toward was particularly insulting and surreal. The judge had 
+ruled unequivocally 
+that the opposing attorney's request was without merit. I found the 
+judge involved to be brilliant and adorable, fully deserving of his 
+esteemed position as the county's lead justice.
+
 Say what you will about the people the prosecutor claimed
 were victims. My intent was never to communicate a threat
 to murder, and intent is a critical part of felony law.
@@ -100,70 +93,19 @@ Mark Lindquist dug up 7 people as victims, and in 7 distinct
 instances, the judge said nope. That's not one error, but 7 
 errors in judgement. That record is a crappy use of County resources.
 
-# Desperate, he doubles down
+# SCOTUS and me
 
-People in civil court often love the idea of involving the police. It can give a huge advantage to their 
-lot in civil court when they opposing party is in jail, or silent due to their Fifth Amendment right to be 
-so. Any sound prosecutor would see bright yellow flags when a party in a civil case insists they're 
-victims of a crime perpetrated by their opponent. But this prosecutor went on TV, and I believe that 
-prevented him from ever having a come-to-Jesus moment about the quality of his case.
+Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere 
+could be used against me.
 
-Every day I'm sure a prosecutor's office meets people trying to trick them into something. It's critically 
-important they get past the dishonesty. Lindquist's office did not, and so a judge did it for them. In the 
-mean time, so much court time and tax money was wasted. But when you speak inappropriately to the press, 
-as Lindquist did, you can't just drop it. It's so similar to his deplorable committment to hiding his 
-Public Record text messages after he shoves his foot in his mouth. He doubles down on bad ideas.
-
-From beginning to end, my case was handled by a deputy named Patrick Cooper. Since losing the case against 
-me, he has been promoted. This is consistent with my belief that I was tried to reduce risk Lindquist 
-incurred with his false and prohibited statements to the press. Loyalty, not success, was Cooper's valued 
-contribution.
-
-I remember the deputy prosecutor looking at me intensely after piling on the charges on the day the trial 
-began. He had just "thrown the book" at me. Why? Because that's what prosecutors do? Perhaps. 
-
-To be accused of threatening to murder a judge I had only great feelings toward was particularly insulting 
-and surreal. The judge had studied all the documents in my custody case, and ruled unequivocally that the 
-opposing attorney's request was without merit. 
-I found the judge involved to be brilliant and adorable, fully 
-deserving of his esteemed position as the county's lead justice.
-
-Most cases settle without a trial. Those cases don't result in RPC complaints like mine. But I endured a 
-trial, I was completely acquitted at trial, and so I have a rare opportunity to call out his behavior.
-
-## My testimony
-
-[You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
-
-# Speciousness is a narcissist go-to ploy
-
-I'm gonna riff a little about narcissists. It's a word that gets thrown around a lot, when we talk about 
-the President, and the Prosecutor. It's something more than just a self-centered person. It's someone who 
-is disturbingly self-centered. A narcissist is so self-centered that they will do *anything* to make you 
-focus on them, and their explanation of events. Specious claims are popular with narcissists because they 
-give them sheen and shimmer. Who cares what's true? What matters to them is what might seem true right now 
-that makes them look maximally good.
-
-When you try to understand how Lindquist dug so deep hiding his misbehavior from Nissen, just think how 
-well he hid the truth, and for how long. The ability to win now and look like a hero now is like a drug to 
-narcissists. They'll tell enormous lies to do it. Many lies hide the truth well... for a while. A 
-narcissist is in such a psychological panic about building up their image now that they'll grab at 
-whatever lie helps. They'll save later for later.
-
-A narcissist is dangerous because they will reject any explanation that doesn't revolve around them, and 
-they're often very persuasive with you about believing it. A narcissist will attack the messenger.
-
-*Cite Busto re: Merrival*
-
-# "Rounded him up"
-
-As you see in [the Bar Complaint](bc.html), one Friday at lunch I learned I was a wanted man. As I explain 
-in that Complaint, I was incredibly cooperative with the authorities. I considered not leaving Seattle 
-that Friday, knowing a Friday arrest means a weekend in jail. I resent very much the way Mark Lindquist 
-ignored my obvious cooperation when crafting his fantasy fiction about those events.
+I remember how surreal it became when the Supreme Court ruled in my favor, in a case incredibly similar to 
+my own. While the nation celebrated the marriage equality ruling, the SCOTUS ruling on *Alonis v. USA* was 
+as significant to speech advocates. In a case much more heinous and much more clear, the Supremes ruled 
+there was no real threat because there was no intention to threaten. Surely this meant the prosecutor 
+would drop the charges. And had he not gone on TV and said those things, I bet he would have.
 
 
-# The recall effort
+# The recall campaign
 
 Try to imagine my surprise when I'm out on bail and learn that citizens have accused Lindquist of serious 
 offenses in office, most notably an unhealthy pattern of going on TV to talk about people accused of 
@@ -182,18 +124,62 @@ Lindquist has committed offenses serious enough to merit a recall effort. Accord
 very likely this official committed acts that merit removal from office. Since then, the evidence has 
 grown stronger and louder.
 
-# SCOTUS and me
+# Desperate, he doubles down
 
-Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere 
-could be used against me.
+People in civil court often love the idea of involving the police. 
+Any sound prosecutor would see bright yellow flags when a 
+party in a civil case insists they're victims of a crime perpetrated by 
+their opponent. But this prosecutor went on TV, and I believe that 
+prevented him from ever having a come-to-Jesus moment about the quality 
+of his case.
+So a judge did it for them. 
+In the mean time, so much court time and tax money was wasted.
 
-I remember how surreal it became when the Supreme Court ruled in my favor, in a case incredibly similar to 
-my own. While the nation celebrated the marriage equality ruling, the SCOTUS ruling on *Alonis v. USA* was 
-as significant to speech advocates. In a case much more heinous and much more clear, the Supremes ruled 
-there was no real threat because there was no intention to threaten. Surely this meant the prosecutor 
-would drop the charges. And had he not gone on TV and said those things, I bet he would have.
+## Loyalty first
 
+From beginning to end, my case was handled by a deputy named Patrick Cooper. Since losing the case against 
+me, he has been promoted. This is consistent with my belief that I was tried to reduce risk Lindquist 
+incurred with his false and prohibited statements to the press. Loyalty, not success, was Cooper's valued 
+contribution.
 
+## My testimony
+
+[You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
+
+# Trials seek the whole truth
+
+Lindquist took a terrible case to trial. At first blush, when he went on television, he seemed to have the 
+ingredients a headline-craving prosecutor must love: A dangerous suspect, an allegation of a crime against 
+a judge, and an outrageous music video.
+
+[The petition contends Lindquist pays extra attention to criminal cases that receive media attention, and 
+seeks harsher penalties for defendants in such 
+cases.](http://www.thenewstribune.com/news/local/article26347357.html)
+
+What he had was a deliciously *specious* case.
+
+**specious**: *misleading in appearance, especially misleadingly attractive.*
+
+(If you want to understand narcissists, write this word at the top of your notes. It's on the quiz!)
+
+# Speciousness is a narcissist go-to ploy
+
+Narcissist. It's a word that gets thrown around a lot, when we talk about 
+the President, and the Prosecutor. It's something more than just a self-centered person. It's someone who 
+is disturbingly self-centered. A narcissist is so self-centered that they will do *anything* to make you 
+focus on them, and their explanation of events. Specious claims are popular with narcissists because they 
+give them sheen and shimmer. Who cares what's true? What matters to them is what might seem true right now 
+that makes them look maximally good.
+
+When you try to understand how Lindquist dug so deep hiding his misbehavior from Nissen, just think how 
+well he hid the truth, and for how long. The ability to win now and look like a hero now is like a drug to 
+narcissists. They'll tell enormous lies to do it. Many lies hide the truth well... for a while. A 
+narcissist is in such a psychological panic about building up their image now that they'll grab at 
+whatever lie helps. They'll save later for later.
+
+They're often very persuasive with you about believing it. A narcissist will attack the messenger.
+
+*Cite Busto re: Merrival*
 
 # Perception v. Reality
 

@@ -126,15 +126,14 @@ false and maligning innuendo.
 
 ## Claim: Investigators consider me a threat
 
-His investigators were bamboozled by dishonest complainants,
-but regardless of why his staff thought this, Lindquist saying 
-it to the press was an obvious violation of the Rules of 
-Professional Conduct.
-I was not at large, or on the run. I 
-was safely in the custody of the state. So why make people 
-hate and fear me? His own self-promotion is the only 
-explanation, and his very public statement, like the rest, 
-substantially endangered my right to a fair trial.
+His investigators were bamboozled by [dishonest 
+complainants](dishonest.html), but regardless of why his staff thought 
+this, Lindquist saying it to the press was an obvious violation of the 
+Rules of Professional Conduct. I was not at large, or on the run. I was 
+safely in the custody of the state. So why make people hate and fear 
+me? His own self-promotion is the only explanation, and his very public 
+statement, like the rest, substantially endangered my right to a fair 
+trial.
 
 ## Worst kind of prejudicial statements
 

@@ -13,13 +13,6 @@ messaging._
 His job is to **shape perceptions**. Will Mary Robnett need that service? Or will perceptions form based 
 on successes? I'm just spitballin' here.
 
-
-
-
-Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere
-could be used against me.
-
-
 # Long weekend in jail
 
 Any weekend in jail is a long one. I met some good people there. I felt uncomfortable walking around, and 
@@ -105,6 +98,9 @@ entertainment leader. He realized that he had seen me on the news. He said it wa
 hired based on what he knew.
 
 # Out on bail
+
+Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere
+could be used against me.
 
 When Mark Lindquist came into my life,, I was recovering from the most enormous blow of my life. He piled 
 a lot of pain on top. It was impersonal pain, the fear of the state's awesome power to accuse and 
