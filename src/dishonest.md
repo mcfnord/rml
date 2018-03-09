@@ -1,3 +1,4 @@
+<title>Dishonest - Pierce County Prosecutor Mark Lindquist</title>
 # Emily died
 
 My story began in Puerto Vallarta, Mexico over ten years ago. It 
@@ -37,13 +38,13 @@ I was incredibly worn out when I wrote seven words and fell asleep. The
 prosecutor wanted me to spend more than a year in prison for those 
 seven words.
 
-# Scary police reports
+## Scary police reports
 
 It takes work to translate a Facebook post into an arrest warrant. 
 Three people worked hard to get to that point. Two were dishonest, and 
 one was in over her head.
 
-# Dishonest family lawyer
+## Dishonest family lawyer
 
 The first contact to law enforcement was made by an attorney. Great 
 start! Attorneys are truthful, right?
@@ -61,7 +62,7 @@ of!" We do know she's capable of going from bored to terrified sometime
 know the Prosecutor knew or should have known there was clear evidence 
 that strongly contradicted her claim of mortal fear.
 
-# Dishonest dad
+## Dishonest dad
 
 Key to the scary news report is the fantastically false police report 
 quoting Emily's dad, a retired fireman. He's particularly skillful at 
@@ -105,8 +106,8 @@ I never intended to communicate a threat to murder, and intent is a
 critical part of felony law. Some of the people who claimed to be 
 victims worked very hard to project criminal intent upon me. Upon 
 realizing this, the prosecutor should have noticed and quit the whole 
-thing. 
-Mark Lindquist dug up 7 
+thing. ([Mark knows how intent works in felony law.](http://komonews.com/news/local/prosecutors-want-harsh-punishment-for-teen-suspects-in-accidental-gunfire-at-tacoma-school))
+Instead, Mark Lindquist dug up 7 
 people as victims, and in 7 distinct instances, the judge said nope. 
 That's not one error, but 7 errors in judgement. That record is a 
 crappy use of County resources. Why did Mark make these choices?
