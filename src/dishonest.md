@@ -37,6 +37,8 @@ I was incredibly worn out when I wrote seven words and fell asleep. The
 prosecutor wanted me to spend more than a year in prison for those 
 seven words.
 
+[You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
+
 # Scary police reports
 
 It takes work to translate a Facebook post into an arrest warrant. 
@@ -50,11 +52,11 @@ start! Attorneys are truthful, right?
 
 On the witness stand, my attorney asked her to measure the level of 
 fear she felt toward me, and she swore it was 4 out of 5. Pretty scary. 
-So we pressed play on this recording.
-
-*embed*
-
-She sure looked freaked out as it played. She confirmed her 4-of-5 fear 
+So we pressed play on the recording of her call to the 
+non-emergency police line
+She sure looked freaked out as it played, perhaps because in the 
+recording, she sounded bored and annoyed (and she always sounds 
+annoyed). After it played, she confirmed her 4-of-5 fear 
 metric, and repeated a dorky line, "We don't know what he's capable 
 of!" We do know she's capable of going from bored to terrified sometime 
 *after* calling the police on the non-emergency contact line. And we 
@@ -157,10 +159,6 @@ Cooper. Since losing the case against me, he has been promoted. This is
 consistent with my belief that I was tried to reduce risk Lindquist 
 incurred with his false and prohibited statements to the press. 
 Loyalty, not success, was Cooper's valued contribution.
-
-# My testimony
-
-[You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
 
 # Trials seek the whole truth
 
