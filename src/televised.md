@@ -94,28 +94,6 @@ because the recruiter had seen the television news. (The press had a right to fi
 violated three rules governing prosecutors with his contributions.) The deputy prosecutor would show up 
 unprepared for hearings, forcing us to reschedule.
 
-When Emily died, he moved me onto his livingroom futon, and I couldn't 
-move anymore. I had worked so hard, from dawn to night, to keep Emily 
-alive and our daughter emotionally well. I have 220 pages documentation 
-of these days written by the hospice staff that I can't read yet. In 
-the midst of it, and before, Emily's dad already began his freaky dirty 
-tricks on us. As she lost walking ability, he was already crafting lies 
-and  contrivedpanics to subvert us, but again, that's a story for another day. It 
-made us both incredibly angry. We never missed a single chemotherapy or 
-a family therapy session. Once her dad would show up with his 
-wives to abuse me in family therapy. Never saw him at chemo. Rarely saw 
-him in the house where she was dying..
-
-I'm saying here that I was already emotionally broken when Mark charged 
-me with 7 threats to murder. It has taken years to feel almost normal 
-again.
-
-My brother had generously housed me in his basement apartment, but as an accused felon, I had to leave due 
-to agreements in his child's immediate family: no felons, convicted or otherwise! So I had to move to my 
-older brother's garage attic. It's not suitable housing, but he does have a laid back mindset, sitting at 
-a little table in his front yard, using a lazy susan to separate blue glass from gravel, a blend of glass 
-and gravel Home Depot intentionally pre-blended. Both crises brought me much closer to my family.
-
 Eventually I got back to the singing groups Emily and I enjoyed before I moved to Tacoma. It was so 
 strange to feel safe and respected in Seattle again, while shuttling to Tacoma to face down the 
 intransigence of the prosecuting attorney, and endless dishonest schemes of Darin Murphy and Heather 
@@ -339,4 +317,31 @@ Mary Robnett will not waltz into this job. Change can only come when enough peop
 in building a PR scheme of tricks on TV and newsprint. How many millions in dirty schemes and huge fines 
 will Pierce County blow on this unapologetic liar before voters realize Mark Lindquist is a threat? Don't 
 wait. Round him up. Dont stop until this problem is solved in Pierce County.
+
+
+When Emily died, he moved me onto his livingroom futon, and I couldn't 
+move anymore. I had worked so hard, from dawn to night, to keep Emily 
+alive and our daughter emotionally well. I have 220 pages documentation 
+of these days written by the hospice staff that I can't read yet. In 
+the midst of it, and before, Emily's dad already began his freaky dirty 
+tricks on us. As she lost walking ability, he was already crafting lies 
+and  contrivedpanics to subvert us, but again, that's a story for another day. It 
+made us both incredibly angry. We never missed a single chemotherapy or 
+a family therapy session. Once her dad would show up with his 
+wives to abuse me in family therapy. Never saw him at chemo. Rarely saw 
+him in the house where she was dying..
+
+I'm saying here that I was already emotionally broken when Mark charged 
+me with 7 threats to murder. It has taken years to feel almost normal 
+again.
+
+My brother had generously housed me in his basement apartment, but as an accused felon, I had to leave due 
+to agreements in his child's immediate family: no felons, convicted or otherwise! So I had to move to my 
+older brother's garage attic. It's not suitable housing, but he does have a laid back mindset, sitting at 
+a little table in his front yard, using a lazy susan to separate blue glass from gravel, a blend of glass 
+and gravel Home Depot intentionally pre-blended. Both crises brought me much closer to my family.
+
+
+<center>[Ladybug.today](http://ladybug.today/)</center>
+
 
