@@ -62,9 +62,9 @@ five weeks later, when officers located my counsel outside
 a Superior Courtroom and notified him of the Probable Cause 
 for Arrest. My attorney called me around lunch time. At 
 1pm, my attorney told police that I would turn myself in 
-at the County City Building before 4:30pm. I left work 
+at the County-City Building before 4:30pm. I left work 
 early from my office in downtown Seattle, and introduced 
-myself to sheriffs inside the county City building at the 
+myself to sheriffs inside the County-City Building at the 
 agreed-upon time.
 
 ## Claim: Law Enforcement didn't wait

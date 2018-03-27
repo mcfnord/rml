@@ -194,41 +194,67 @@ fiction. It's also incredibly unjust for people caught up in his plans. Once acc
 respond to him without risking danger. Based on my own experience, and having studied the claims of his 
 many critics, I have the sense he doesn't believe in fighting fair.
 
-My family cautions me that Mark tries to hurt people who get in his way. The Busto investigation made this 
-pattern incredibly clear. He chose to break the rules governing lawyers when he spoke about me to the 
-press. He chose to try me based on the risk that his abuse would result in bad press or censure from the 
-Bar Association. Now that I've been acquitted and have come forward, he may seek to abuse me more. His 
-attorney, Mr. Fogg, demeans complainants in the press when justifying Mark's bad behavior. Mark engaged in 
-cybersquatting to undermine the campaign of a political opponent. Obsessed, he abused Ms. Nissen, Mr. Ames, and Ms. 
-Dalsing using powerful County resources. And the Busto Report concluded his public statements in response 
-to Mr. Merrival's whisleblower complaint were knowingly false and abusive.
+My family cautions me that Mark tries to hurt people who 
+get in his way. The Busto investigation made this pattern 
+incredibly clear. He chose to break the rules governing 
+lawyers when he spoke about me to the press. He chose to 
+try me based on the risk that his abuse would result in bad 
+press or censure from the Bar Association. Now that I've 
+been acquitted and have come forward, he may seek to abuse 
+me more. His attorney, Mr. Fogg, demeans complainants in 
+the press when justifying Mark's bad behavior. Mark engaged 
+in cybersquatting to undermine the campaign of a political 
+opponent. Obsessed, he abused Ms. Nissen, Mr. Ames, and Ms. 
+Dalsing using powerful County resources. And the Busto 
+Report concluded his public statements in response to Mr. 
+Merrival's whisleblower complaint were knowingly false and 
+abusive.
 
-So my family is wise to warn me. It won't surprise me when he maligns me again, questions my motives or sanity or 
-something, and of course Mr. Fogg will insist Mark's misbehavior is consistent with prosecutors over 
-decades. In a word, that's [gaslighting](https://en.wikipedia.org/wiki/Gaslighting). But if I remained 
-silent, I would be turning my back on the remarkably brave people who have already stood up to him. What 
-he did to me, he's done to many, including many who lacked the resources I have to resist.
+So my family is wise to warn me. It won't surprise me when 
+he maligns me again, questions my motives or sanity or 
+something, and of course Mr. Fogg will insist Mark's 
+misbehavior is consistent with prosecutors over decades. In 
+a word, that's 
+[gaslighting](https://en.wikipedia.org/wiki/Gaslighting). 
+But if I remained silent, I would be turning my back on the 
+remarkably brave people who have already stood up to him. 
+What he did to me, he's done to many, including many who 
+lacked the resources I have to resist.
 
-One of the Rules of Professional Conduct insists that statements to a large audience by a prosector about 
-a defendant should not risk raising *public opprobrium* about the accused. I laugh about this term. It 
-just means words that make the public hate you. Even truthful words may be prohibited under this Rule. The 
-accused is supposed to get silence from the prosecutor, so an impartial jury can be found. And the 
-prosecutor's case should be made to the court, not to the news-watching public.
+One of the Rules of Professional Conduct insists that 
+statements to a large audience by a prosector about a 
+defendant should not risk raising *public opprobrium* about 
+the accused. I laugh about this term. It just means words 
+that make the public hate you. Even truthful words may be 
+prohibited under this Rule. The accused is supposed to get 
+silence from the prosecutor, so an impartial jury can be 
+found. And the prosecutor's case should be made to the 
+court, not to the news-watching public.
 
-I remembered throughout the many hearings and the trial, I thought, "Dude, if you'd just drop this, I'd 
-walk away. You aren't the reason I'm here. You know your department got conned. You know you spoke some 
-terse, false, and maligning words about me. You don't know (yet) that my own verbal cannons can train on 
-you, too. You don't know it yet, but I, too, can raise public opprobrium toward your performance. You 
-slandered me based on seven words. I'm taking you down based on seven years. Fair's fair, I guess. If 
-that's how you wanna do this, OK."
+I remembered throughout the many hearings and the trial, I 
+thought, "Dude, if you'd just drop this, I'd walk away. You 
+aren't the reason I'm here. You know your department got 
+conned. You know you spoke some terse, false, and maligning 
+words about me. You don't know (yet) that my own verbal 
+cannons can train on you, too. You don't know it yet, but 
+I, too, can raise public opprobrium toward your 
+performance. You slandered me based on seven words. I'm 
+taking you down based on seven years. Fair's fair, I guess. 
+If that's how you wanna do this, OK."
 
-Now I've found a measure of fun and comfort assuming the persona of [Fake Mark 
-Lindquist](https://twitter.com/FakeMkLindquist/), the image-obsessed media hound who has hurt doe eyes for 
-everyone who isn't impressed with his badgering, cruel treatment of defendants and subordinants alike. I 
-borrow from the clear words of credible sources in court documents and official memoes. It's a turkey 
-shoot, because at this point the patterns of narcissistic abuse within the Prosecutor's Office are 
-numerous and clear. And I worry that people who can't laugh might succumb to despair. I remember that 
-right now there's a guy in jail who couldn't fight back against illicit prosecutor behavior as I have 
+Now I've found a measure of fun and comfort assuming the 
+persona of [Fake Mark 
+Lindquist](https://twitter.com/FakeMkLindquist/), the 
+image-obsessed media hound who has hurt doe eyes for 
+everyone who isn't impressed with his badgering, cruel 
+treatment of defendants and subordinants alike. I borrow 
+from the clear words of credible sources in court documents 
+and official memoes. It's a turkey shoot, because at this 
+point the patterns of narcissistic abuse within the 
+Prosecutor's Office are numerous and clear. And I worry 
+that people who can't laugh might succumb to despair. I 
+remember that right now there's a guy in jail who couldn't 
+fight back against illicit prosecutor behavior as I have 
 done.
 
 # See The custody trial
@@ -318,6 +344,7 @@ in building a PR scheme of tricks on TV and newsprint. How many millions in dirt
 will Pierce County blow on this unapologetic liar before voters realize Mark Lindquist is a threat? Don't 
 wait. Round him up. Dont stop until this problem is solved in Pierce County.
 
+# Collapse
 
 When Emily died, he moved me onto his livingroom futon, and I couldn't 
 move anymore. I had worked so hard, from dawn to night, to keep Emily 
@@ -342,6 +369,6 @@ a little table in his front yard, using a lazy susan to separate blue glass from
 and gravel Home Depot intentionally pre-blended. Both crises brought me much closer to my family.
 
 
-<center>[Ladybug.today](http://ladybug.today/)</center>
+<center>**[Ladybug Today](http://ladybug.today/)**</center>
 
 
