@@ -76,7 +76,7 @@ the subjects upon which a lawyer may make a statement, but statements on other m
 effect on a proceeding, <mark>particularly when they refer to</mark> a civil matter triable to a jury, <mark>a criminal matter, or any
 other proceeding that could result in incarceration</mark>. These subjects relate to:
 
-(1)  the character, credibility, reputation or criminal record of a party, suspect in a criminal investigation
+(1)  <mark>the character, credibility, reputation or criminal record of a</mark> party, <mark>suspect in a criminal investigation</mark>
 or witness, or the identity of a witness, or the expected testimony of a party or witness;
 
 (2)  in a criminal case or proceeding that could result in incarceration, the possibility of a plea of guilty
@@ -117,7 +117,7 @@ criminal proceedings.
 
 ## Additional Washington Comment (9)
 
-[9]  For additional guidance in applying this Rule, see the Guidelines for Applying Rule 3.6, reproduced in
+[9]  For additional guidance in applying this Rule, see the [Guidelines for Applying Rule 3.6](guidelines36.html), reproduced in
 the Appendix to the Rules of Professional Conduct.
 
 [Comments adopted effective September 1, 2006.]

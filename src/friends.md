@@ -1,6 +1,6 @@
 <title>Letter to Friends - Lindquist Bar Complaint</title>
 
-Feb 25th, 2018
+April 2, 2018
 
 Dear Friends,
 

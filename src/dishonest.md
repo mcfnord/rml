@@ -104,9 +104,12 @@ huge one. An arrest might be the culmination of police work, but it's literally 
 when his work *begins*. *Convictions* are the proper measure of a good prosecutor. And by that metric, 
 Lindquist's record is terrible.
 
-The recall cleared the first and most serious 
-[hurdle](http://www.thenewstribune.com/news/local/article30432828.html): A judge agreed there was enough evidence 
-to believe Mark Lindquist has committed offenses that merit removal from office. Since then, the evidence has 
+![](http://www.thenewstribune.com/news/local/crime/suxd2q/picture29747860/alternates/LANDSCAPE_768/recall%20A1)
+
+The recall cleared the first and most serious hurdle
+: A judge agreed there was enough evidence 
+to believe Mark Lindquist has
+[committed offenses that merit removal from office](http://www.thenewstribune.com/news/local/crime/suxd2q/picture29747860/alternates/LANDSCAPE_768/recall%20A1). Since then, the evidence has 
 grown much stronger.
 
 # SCOTUS and me
@@ -125,7 +128,7 @@ From beginning to end, my case was handled by a deputy named Patrick Cooper. Sin
 has been promoted. This is consistent with my belief that I was tried to reduce risk Lindquist incurred with his 
 false and prohibited statements to the press. Loyalty, not success, was Cooper's valued contribution.
 
-# Perception v. Reality
+# See Perception v. Reality
 
 At first blush, when Mark went on television, he seemed to have the ingredients a headline-craving prosecutor 
 must love: A dangerous suspect, an allegation of a crime against a judge, and an outrageous music video.
@@ -153,12 +156,53 @@ reality of their job performance. Lawyers in public office should probably be th
 [dishonest campaigns to mislead the public](http://www.thenewstribune.com/news/local/article197782954.html) about 
 their job performance.
 
+# Smear factory
+
+You can count on a certain kind of response from Mark Lindquist to any criticisms: He'll smear you. He'll malign you, impugn your motives, and argue that you're
+[just plain crazy](http://www.thenewstribune.com/news/local/crime/article41256369.html).
+
+
+_After he filed his whistleblower complaint and news stories appeared, Lindquist had his staffers issue statements suggesting Merrival was a disgruntled employee, and also told staffers 
+Merrival had a "meltdown."_
+
+_Those statements were untrue and designed to discredit Merrival, Busto wrote._
+
+_"I find that the PCPAO’s statements to the press in response to Merrival’s complaint were inaccurate and **intentionally misleading**," the report states. "Furthermore, by describing his 
+behavior as a ‘meltdown,’ Lindquist suggested that Merrival’s complaint was the product of a disorder, rather than a response to perceived grievances and injustices."_
+
+_Busto compared Lindquist’s "meltdown" statement to an earlier remark Lindquist made about Robnett, who left the prosecutor’s office in late 2011 following a disagreement with Lindquist._
+
+_Reportedly, Lindquist said Robnett had a "breakdown."_
+
+Now that's a lot to digest. If you disagree with him, there's something wrong with your head. His tax-payer funded attorney even [pulls these same moves for him](http://www.thenewstribune.com/news/local/crime/article173451496.html):
+
+*"We’ve had a series of politically motivated bar complaints filed by a single grievant."*
+
+I love this "politically motivated" smear. Let's explore it: Long before anyone had signed on to challenge Lindquist for the office,
+his attorney slung this idea that a bar complaint is politically motivated. If I think Lindquist is unqualified to touch tax funds or oversee anyone's
+career, you can bet I'm "politically motivated". I say literally that he shouldn't have a law license. I lay out precisely why, by explaining what he
+did to me, and concluding that he shouldn't have the power to do it to anyone. My *motive* is that he's unfit to be a *politician*. So... politically motivated? Yes, in the most honorable sense possible.
+
+I've never met this other grievant, but I'll tell you another thing: It's a short list of people with the position and
+resources to take on Lindquist, because he has a pattern of using and abusing his authority to hurt careers. He literally formed a list of 
+defense attorneys whose **clients** faced [tougher sentences](http://www.thenewstribune.com/news/local/crime/article29747605.html) because Lindquist didn't like the **attorney**. 
+If people harmed by false charges and prosecutions
+end up working together, that pattern does not surprise me one bit. 
+
+Pierce County can do so much better.
+Save sleaze-slinging and seductive smears
+for tweets by President Trump.
+I'm sure going public with my story and complaint to the Bar Association will entail the slings and arrows of this sleazeball guy in quotes that journalists dutifully report to the public.
+
+Having known many great leaders, I know this behavior is never a legitimate habit among them.
+
+
 # See In Conclusion
 
 Mark's improper statements to the press locked him in to prosecuting me. He was already taking criticism for 
 abusing media access when my trial began. So he made a Hail Mary play. After realizing the 
 Prosecutor's Office had been tricked into the arrest, he stacked up charges in a ploy to intimidate me into 
-settling for a misdemeanor. Everyone takes the plea. But I didn't.
+settling for a misdemeanor. Everyone takes the plea. For the love of a mother and child, I didn't take the plea.
 
 The trial judge rejected all 7 of Mark's claims of felony conduct, and didn't convict on any lesser crimes.
 

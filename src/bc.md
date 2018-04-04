@@ -104,7 +104,7 @@ ability to get a fair trial.
 
 This extrajudicial statement is a clear violation of your Rules 
 of Professional Conduct, and is false.
-What does it mean to round a man up? It means to take him 
+What does it mean to round a man up? It means to [take him](https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94)
 from his freedom, his home and friends. It means to 
 transfer his fate into the hands of another, his captor. It 
 implies effort, such as the effort of finding him, gaining 
