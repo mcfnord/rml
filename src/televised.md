@@ -87,24 +87,21 @@ hired based on what he knew.
 Being out on bail is surreal. Being on bail for a speech crime was another level. Anything I said anywhere
 could be used against me.
 
-When Mark Lindquist came into my life,, I was recovering from the most enormous blow of my life. He piled 
-a lot of pain on top. It was impersonal pain, the fear of the state's awesome power to accuse and 
-incarcerate. Don't underestimate the power of accusations to fuck up your life. I lost a valuable job lead 
-because the recruiter had seen the television news. (The press had a right to film me, but Lindquist 
-violated three rules governing prosecutors with his contributions.) The deputy prosecutor would show up 
+I think as the deputy prosecutor realized his case was goofy, the plan changed to stalling. the deputy prosecutor would show up 
 unprepared for hearings, forcing us to reschedule.
 
 Eventually I got back to the singing groups Emily and I enjoyed before I moved to Tacoma. It was so 
 strange to feel safe and respected in Seattle again, while shuttling to Tacoma to face down the 
 intransigence of the prosecuting attorney, and endless dishonest 
 schemes employed in the custody dispute.
-It became a double life for a while.
+
+For a while, I seemed to have a double life.
 
 # See Before my verdict
 
-As it happens, my parents are Pierce County Democrats since forever. The day before my verdict, we 
-attended a Dem fundraiser in downtown Tacoma. By pure luck, my assigned seat faced Mark. What a surreal 
-moment that was for me. He rode his phone all evening long. What a bizarre and insulting argument he made 
+My parents are Pierce County Democrats since forever. The day before my verdict, we 
+attended a Dem fundraiser in downtown Tacoma. By pure luck, my assigned seat faced Mark Lindquist. What a surreal 
+evening that was for me. He rode his phone all evening long. What a bizarre and insulting argument he made 
 to our state's Supreme Court, that the ownership of the phone was a loophole in our laws governing public 
 officials. I never asked any judge to believe something so outrageous. He spent tax funds lavishly on his 
 ridiculous position while my family spent painfully to counter his ridiculous claim that I should be 
@@ -121,7 +118,9 @@ got to learn all about them. The law calls the crime he tried me
 for a *true threat*. You know what I think: He tried me because he 
 went on TV and spoke improperly about me, and had to win to paper 
 over that bad choice. If we pretend that's untrue, where does that 
-leave him? It disturbs me that an American would believe seven 
+leave him? 
+
+It disturbs me that an American would believe seven 
 words could and should result in seven felonies and over a year 
 behind bars. Any seven words just aren't enough to determine 
 intended meaning. Next you'll see him trying someone for the work 
@@ -134,8 +133,10 @@ idea that Glenda Nissen committed this same
 crime](http://www.thenewstribune.com/news/local/crime/article26298505.html) 
 by sending a death threat to Mary Robnett, even though no forensic 
 evidence tied her to it, and other details didn't point to her, 
-either. Maybe as a writer of pulp fiction, he's unusually attached 
-to words. Perhaps. But really, I think it's deeper than that. I 
+either. 
+Maybe as a writer of pulp fiction, he's unusually attached 
+to words. 
+I 
 think Mark has the kind of connection to words and symbols that we 
 see in our President. In a post-factual world, symbols don't 
 represent or misrepresent the truth. Symbols become truth! It's 
@@ -146,23 +147,17 @@ activities further, I came to expect his two-sentence
 condemnations of criminal incidents in the fake or real press, on 
 KIRO FM, or on the TV news. This is a guy who thinks he can reach 
 more people with two sentences than with something longer. This is 
-a guy who would see the potential for fear from seven words.
-
-As a professional writer, I can comprehend how uniquely powerful a 
-few words can be. As a citizen, I'm disturbed by how deeply 
-Lindquist engages in shaping perceptions with just a few words, 
-precisely because I don't think the Prosecutor should be so 
-wrapped up in perceptions. The Prosecutor should be wrapped up in 
+a guy who would see the potential for fear or hope from seven words.
+That's fine, but it's not enough, and it shouldn't be [an obsession](http://www.thenewstribune.com/news/local/crime/article53206345.html).
+A Prosecutor shouldn't be so 
+wrapped up in perceptions. A Prosecutor should be wrapped up in 
 the totality of facts! Convictions, not arrests, should enthuse a 
 prosecutor. It's like Pierce County has chosen a prosecutor who 
-sees the job like an appearance on American Idol. It's a mismatch, 
-it's disturbing, and it makes me believe the Pierce County 
-judiciary is the only thing preventing a total collapse of 
-justice.
+sees the job like brief appearances on American Idol. 
 
-A prosecutor's job starts with an arrest. It ends with a 
+A prosecutor's job _starts_ with an arrest. It _ends_ with a 
 conviction. Mark hypes arrests because he's excited about getting 
-on TV, or the radio. I don't think he cares about the boring work 
+media attention. I don't think he cares about the boring work 
 of securing honest convictions.
 
 <center>[DempseyBarComplaint.info](bc.html)</center>

@@ -104,7 +104,7 @@ ability to get a fair trial.
 
 This extrajudicial statement is a clear violation of your Rules 
 of Professional Conduct, and is false.
-What does it mean to round a man up? It means to [take him](https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94)
+What does it mean to round a man up? It means to <a href=https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94 style=text-decoration:none>take him</a>
 from his freedom, his home and friends. It means to 
 transfer his fate into the hands of another, his captor. It 
 implies effort, such as the effort of finding him, gaining 
@@ -123,7 +123,7 @@ was needed and employed to gain my custody, which suggests
 I hold lawful authority in disdain, and maybe even put up a 
 fight. 
 _Guidelines for Applying Rule 3.6_
-allow him to [specify the time and place of arrest](guidelines36.html), which would
+allow him to <a href=guidelines36.html style=text-decoration:none>specify the time and place of arrest</a>, which would
 paint a picture quite contrary to the one he manufactured.
 The documented facts provide no defense for his
 false and maligning innuendo. 
@@ -132,9 +132,9 @@ false and maligning innuendo.
 
 His investigators were bamboozled by [dishonest 
 complainants](dishonest.html), but regardless of why his staff thought 
-this, Lindquist saying it to the press was an obvious violation of the 
-Rules of Professional Conduct. I was not at large, or on the run. I was 
-safely in the custody of the state. So why make people hate and fear 
+this, Lindquist saying it to the press was an obvious violation of Rule 3.6, especially as clarified in the [Guideline](guidelines36.html) for its application. 
+I was not at large, or on the run. I was 
+safely in the custody of the state. So why make people fear 
 me? His own self-promotion is the only explanation, and his very public 
 statement, like the rest, substantially endangered my right to a fair 
 trial.
@@ -151,7 +151,7 @@ unusually large audience, especially in the juror pool area,
 incarceration,
  + Likely to heighten public 
 condemnation and materially prejudice a trial, and
- + False, and therefore having no law enforcement purpose.
+ + False or unnecessary, and therefore having no law enforcement purpose.
 
 ## Censure is needed
 
@@ -170,6 +170,7 @@ permitted to practice law.
 ## References
 
 * [Rules of Professional Conduct 3.6: TRIAL PUBLICITY](rpc36.html)
+  * [APPENDIX - GUIDELINES FOR APPLYING RULE OF PROFESIONAL CONDUCT 3.6](guidelines36.html)
 * [Rules of Professional Conduct 3.8: SPECIAL RESPONSIBILITIES OF A PROSECUTOR](rpc38.html)
 * [Rules of Professional Conduct 8.4: MISCONDUCT](rpc84.html)
 

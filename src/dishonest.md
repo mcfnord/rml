@@ -109,7 +109,7 @@ Lindquist's record is terrible.
 The recall cleared the first and most serious hurdle
 : A judge agreed there was enough evidence 
 to believe Mark Lindquist has
-[committed offenses that merit removal from office](http://www.thenewstribune.com/news/local/crime/suxd2q/picture29747860/alternates/LANDSCAPE_768/recall%20A1). Since then, the evidence has 
+[committed offenses that merit removal from office](http://www.thenewstribune.com/news/local/article30432828.html). Since then, the evidence has 
 grown much stronger.
 
 # SCOTUS and me
@@ -158,9 +158,9 @@ their job performance.
 
 Karen Peterson was the executive editor of the _Tacoma News Tribune_. About Lindquist, she said:
 
-"[Ordinarily](http://archive.seattleweekly.com/news/962174-129/the-storybook-rise-of-the-pierce), I would not write a nearly full-page column explaining our news-gathering process and relationship with a source. However, the prosecutor’s office decided last week to publicly 
+_"[Ordinarily](http://archive.seattleweekly.com/news/962174-129/the-storybook-rise-of-the-pierce), I would not write a nearly full-page column explaining our news-gathering process and relationship with a source. However, the prosecutor’s office decided last week to publicly 
 accuse this newspaper and its individual staff members of misleading the public and withholding information. [I]t falls right in line with the way this prosecutor has 
-conducted business almost since the day we started covering him. He and his staff are never to be questioned. **It’s always someone else’s fault.** Apparently now it’s our turn."
+conducted business almost since the day we started covering him. He and his staff are never to be questioned. **It’s always someone else’s fault.** Apparently now it’s our turn."_
 
 _The paper had at first listened to his complaints and over time met with the prosecutor to discuss differences, Peterson said. "But since we published the first Dalsing story on June 22, 2014, he has been relentless in his demands for changes in a way I’ve encountered from no other source in my 30 years in this business."_
 
@@ -206,7 +206,8 @@ end up working together, that pattern does not surprise me one bit.
 Pierce County can do so much better.
 Save sleaze-slinging and seductive smears
 for tweets by President Trump.
-I'm sure going public with my story and complaint to the Bar Association will entail the slings and arrows of this sleazeball guy in quotes that journalists dutifully report to the public.
+I'm sure going public with my story and complaint to the Bar Association will evoke
+ the slings and arrows of this sleazeball guy in quotes that journalists dutifully report to the public.
 
 Having known many great leaders, I know this behavior is never a legitimate habit among them.
 
@@ -216,7 +217,7 @@ Having known many great leaders, I know this behavior is never a legitimate habi
 Mark's improper statements to the press locked him in to prosecuting me. He was already taking criticism for 
 abusing media access when my trial began. So he made a Hail Mary play. After realizing the 
 Prosecutor's Office had been tricked into the arrest, he stacked up charges in a ploy to intimidate me into 
-settling for a misdemeanor. Everyone takes the plea. For the love of a mother and child, I didn't take the plea.
+settling for a misdemeanor. Everyone takes the plea. For the love of a [mother and child](http://ladybug.today/), I didn't take the plea.
 
 The trial judge rejected all 7 of Mark's claims of felony conduct, and didn't convict on any lesser crimes.
 
