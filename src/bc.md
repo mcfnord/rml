@@ -121,8 +121,12 @@ I was unlikely to appear before a judge until after the weekend.
 Lindquist’s folksy language implies the force of the state 
 was needed and employed to gain my custody, which suggests 
 I hold lawful authority in disdain, and maybe even put up a 
-fight. The documented facts provide no defense for his
-false and maligning innuendo.
+fight. 
+_Guidelines for Applying Rule 3.6_
+allow him to specify the time and place of arrest, which would
+paint a picture quite contrary to the one he manufactured.
+The documented facts provide no defense for his
+false and maligning innuendo. 
 
 ## Claim: Investigators consider me a threat
 

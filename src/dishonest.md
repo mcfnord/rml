@@ -32,7 +32,7 @@ seven words.
 
 [You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
 
-# Scary police reports
+# See Scary police reports
 
 It takes work to translate a Facebook post into an arrest warrant. Three people worked hard to get to that point. 
 Two were dishonest, and one was in over her head.
@@ -156,7 +156,21 @@ reality of their job performance. Lawyers in public office should probably be th
 [dishonest campaigns to mislead the public](http://www.thenewstribune.com/news/local/article197782954.html) about 
 their job performance.
 
-# Smear factory
+Karen Peterson was the executive editor of the _Tacoma News Tribune_. About Lindquist, she said:
+
+"[Ordinarily](http://archive.seattleweekly.com/news/962174-129/the-storybook-rise-of-the-pierce), I would not write a nearly full-page column explaining our news-gathering process and relationship with a source. However, the prosecutor’s office decided last week to publicly 
+accuse this newspaper and its individual staff members of misleading the public and withholding information. [I]t falls right in line with the way this prosecutor has 
+conducted business almost since the day we started covering him. He and his staff are never to be questioned. **It’s always someone else’s fault.** Apparently now it’s our turn."
+
+_The paper had at first listened to his complaints and over time met with the prosecutor to discuss differences, Peterson said. "But since we published the first Dalsing story on June 22, 2014, he has been relentless in his demands for changes in a way I’ve encountered from no other source in my 30 years in this business."_
+
+_Nonetheless, more meetings ensued, along with day and night calls from Lindquist’s office to reporters, until the prosecutor’s office was seemingly attempting to dictate the opening paragraphs of stories. "This was no longer about correcting the record," Peterson wrote, "but shaping it."_
+
+Perhaps it's unsurprising that the Wikipedia page for Mark has experienced repeated vandalism attacks from [anonymous but suspicious](https://en.wikipedia.org/w/index.php?title=Talk:Mark_Lindquist&oldid=828668826#Vandalism_originating_from_Pierce_County_ISP) actors,
+and once was defaced with a mess of [fanciful draft prose](https://en.wikipedia.org/w/index.php?title=Mark_Lindquist&oldid=831767408) that cited Mark himself 
+and his fake news in local tabloids to explain the finer details of events in his public office career.
+
+# See Smear factory
 
 You can count on a certain kind of response from Mark Lindquist to any criticisms: He'll smear you. He'll malign you, impugn your motives, and argue that you're
 [just plain crazy](http://www.thenewstribune.com/news/local/crime/article41256369.html).
