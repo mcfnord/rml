@@ -2,7 +2,7 @@
 # Bar Complaint - draft
 
 Pierce County Prosecutor Mark Lindquist violated various Rules 
-of Professional Conduct when he appeared on KIRO Evening News to 
+of Professional Conduct when he appeared on _KIRO Evening News_ to 
 speak about my arrest, and when he made a statement cited
 in the news article that accompanied the news broadcast 
 published by KIRO on its website.
@@ -24,7 +24,7 @@ review and censure of the Bar Association.
 ## Public and prejudicial extrajudicial comments
 
 On the evening of my arraignment, Prosecutor Lindquist 
-appeared on KIRO Evening News, a program transmitted 
+appeared on _KIRO Evening News_, a program transmitted 
 through cables and terrestrial transmitters into homes in 
 Pierce County and throughout the Puget Sound area. That 
 same evening, KIRO published an article on its website 
@@ -123,7 +123,7 @@ was needed and employed to gain my custody, which suggests
 I hold lawful authority in disdain, and maybe even put up a 
 fight. 
 _Guidelines for Applying Rule 3.6_
-allow him to specify the time and place of arrest, which would
+allow him to [specify the time and place of arrest](guidelines36.html), which would
 paint a picture quite contrary to the one he manufactured.
 The documented facts provide no defense for his
 false and maligning innuendo. 
@@ -150,7 +150,7 @@ unusually large audience, especially in the juror pool area,
  + Focused on the reputation of a suspect facing potential 
 incarceration,
  + Likely to heighten public 
-condemnation and materially prejudicing a trial, and
+condemnation and materially prejudice a trial, and
  + False, and therefore having no law enforcement purpose.
 
 ## Censure is needed

@@ -236,4 +236,4 @@ The
 evidence is now abundantly clear, and the remedy is due: Pierce County law enforcement needs a new leader at the 
 top.
 
-<center>**[Bar Complaint](http://dempseybarcomplaint.info/)**</center>
+<center>[DempseyBarComplaint.info](bc.html)</center>
