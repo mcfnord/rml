@@ -135,7 +135,7 @@ complainants](dishonest.html), but regardless of why his staff thought
 this, Lindquist saying it to the press was an obvious violation of Rule 3.6, especially as clarified in the [Guideline](guidelines36.html) for its application. 
 I was not at large, or on the run. I was 
 safely in the custody of the state. So why make people fear 
-me? His own self-promotion is the only explanation, and his very public 
+me? His very public 
 statement, like the rest, substantially endangered my right to a fair 
 trial.
 
