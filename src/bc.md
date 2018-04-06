@@ -2,10 +2,9 @@
 # Bar Complaint - draft
 
 Pierce County Prosecutor Mark Lindquist violated various Rules 
-of Professional Conduct when he appeared on _KIRO Evening News_ to 
-speak about my arrest, and when he made a statement cited
-in the news article that accompanied the news broadcast 
-published by KIRO on its website.
+of Professional Conduct in verbal statements broadcast on _KIRO 
+Evening News_ and in a statement cited in the news article that 
+accompanied the news broadcast published by KIRO on its website.
 
 [http://DempseyBarComplaint.info/kiro](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
 
@@ -45,7 +44,7 @@ Lindquist.* **
 
 All three statements to the press are prejudicial to the cause 
 of justice, and two of the three are contradicted by facts 
-stated in the charging document by his deputy.
+stated in the charging document.
 An accurate statement by Lindquist might be: *“We waited over 
 a month, but the accused cooperated extra-ordinarily when 
 made aware of our warrant.”*
@@ -131,13 +130,13 @@ false and maligning innuendo.
 ## Claim: Investigators consider me a threat
 
 His investigators were bamboozled by [dishonest 
-complainants](dishonest.html), but regardless of why his staff thought 
-this, Lindquist saying it to the press was an obvious violation of Rule 3.6, especially as clarified in the [Guideline](guidelines36.html) for its application. 
-I was not at large, or on the run. I was 
-safely in the custody of the state. So why make people fear 
-me? His very public 
-statement, like the rest, substantially endangered my right to a fair 
-trial.
+complainants](dishonest.html), but regardless of why his staff 
+thought this, Lindquist saying it to the press was an obvious 
+violation of Rule 3.6, especially as clarified in the 
+[Guideline](guidelines36.html) for its application. I was not at 
+large, or on the run. I was safely in the custody of the state. 
+So why make people fear me? His very public statement, like the 
+rest, substantially endangered my right to a fair trial.
 
 ## Worst kind of prejudicial statements
 
@@ -151,7 +150,7 @@ unusually large audience, especially in the juror pool area,
 incarceration,
  + Likely to heighten public 
 condemnation and materially prejudice a trial, and
- + False or unnecessary, and therefore having no law enforcement purpose.
+ + False or prohibited, and therefore having no law enforcement purpose.
 
 ## Censure is needed
 
