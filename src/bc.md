@@ -69,7 +69,8 @@ agreed-upon time.
 ## Claim: Law Enforcement didn't wait
 
 This extrajudicial statement is a clear violation of 
-your Rules of Professional Conduct, and is false. 
+your Rules of Professional Conduct, and is false.
+
 Lindquist knew how I came into custody, as the 
 Charging Papers conclude:
 
@@ -103,6 +104,7 @@ ability to get a fair trial.
 
 This extrajudicial statement is a clear violation of your Rules 
 of Professional Conduct, and is false.
+
 What does it mean to round a man up? It means to <a href=https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94 style=text-decoration:none>take him</a>
 from his freedom, his home and friends. It means to 
 transfer his fate into the hands of another, his captor. It 
@@ -111,20 +113,28 @@ control of him, and taking him to the place of the captor’s
 choice. Another man might hide from being found, resist 
 losing independence, and defy efforts to be relocated. All 
 these images accompany law enforcement rounding a man up. 
+
 In each nuance, saying I was rounded up impugns my 
 character with imagery contrary to the fact that by 
 my own volition, under my own power, and at my own expense, 
 I immediately travelled 33 miles into the custody and 
 confinement of the state, knowing well through counsel that 
-I was unlikely to appear before a judge until after the weekend. 
+I was unlikely to appear before a judge until after the weekend. The police report says:
+
+** *Mr. Sosa did state that Dempsey turning himself in on Monday worked better for his schedule
+with an arraignment for Dempsey most likely held on Tuesday. When asked if this worked for us,
+D/Sgt. Hefty and I told Mr. Sosa it did not and it was preferrable that Dempsey contact us to surrender
+rather than us having to make contact with him in the community.* **
+
+While I deferred to the preferences of the arresting authority,
 Lindquist’s folksy language implies the force of the state 
 was needed and employed to gain my custody, which suggests 
 I hold lawful authority in disdain, and maybe even put up a 
 fight. 
 _Guidelines for Applying Rule 3.6_
 allow him to <a href=guidelines36.html style=text-decoration:none>specify the time and place of arrest</a>, which would
-paint a picture quite contrary to the one he manufactured.
-The documented facts provide no defense for his
+paint a picture quite contrary to the one he manufactured. 
+The documented facts provide no defense for Lindquist's
 false and maligning innuendo. 
 
 ## Claim: Investigators consider me a threat

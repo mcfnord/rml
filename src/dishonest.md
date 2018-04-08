@@ -4,6 +4,8 @@
 My story began in Puerto Vallarta, Mexico over ten years ago. It included a long prologue of complicated 
 relationships. Maybe it began the day I took this picture:
 
+![](ermobit2.png)
+
 In 2013, it became clear my friend would die. She was so much more tired. I had to be by her side for steps. I 
 never minded. Everything got complicated but I never minded. In December, I came to Tacoma to be a full time 
 father and partner through the crisis and beyond. After cruel suffering in hospice at home, in June, 2014, [she 
@@ -30,8 +32,6 @@ interpretation, probably obvious in any other state of mind. It was incredibly l
 when I wrote seven words and fell asleep. The prosecutor wanted me to spend more than a year in prison for those 
 seven words.
 
-[You can read my testimony and words from my accusers](http://tucc.us/dtm_cop_lies.html).
-
 # See Scary police reports
 
 It takes work to translate a Facebook post into an arrest warrant. Three people worked hard to get to that point. 
@@ -47,18 +47,16 @@ out as it played, perhaps because in the recording, she sounded bored and annoye
 After it played, she confirmed her 4-of-5 fear metric, and repeated a dorky line, "We don't know what he's 
 capable of!" We do know she's capable of going from bored to terrified sometime *after* calling the police on the 
 non-emergency contact line. And we know the Prosecutor must have reviewed this evidence that strongly 
-contradicted her claim of mortal fear.
+contradicted her claim of mortal fear. Isn't that what Mark meant by _ongoing investigation?_
 
 ## Dishonest dad
 
 Key to the scary news report is the fantastically false police report quoting Emily's dad, a retired fireman. 
-He's particularly skillful at sounding scary. Here's the report:
-
-*embed*
+He worked particularly hard to [sound scary](http://ladybug.today/dtm_cop_lies.html).
 
 Why he hates me relates to some abnormal psychology that I might explain later. He's so dishonest that it's 
 boring. What matters here is: The prosecutor claimed he read the surreal panorama of accusations and insinuations 
-filed in the custody dispute. He must have concluded the claims highlighted by KIRO were false. Yet he still 
+filed in the custody dispute. He must have concluded eventually the claims highlighted by KIRO were false. Yet he still 
 insisted on a trial.
 
 ## Excited G.A.L. in too deep
@@ -218,6 +216,8 @@ Mark's improper statements to the press locked him in to prosecuting me. He was 
 abusing media access when my trial began. So he made a Hail Mary play. After realizing the 
 Prosecutor's Office had been tricked into the arrest, he stacked up charges in a ploy to intimidate me into 
 settling for a misdemeanor. Everyone takes the plea. For the love of a [mother and child](http://ladybug.today/), I didn't take the plea.
+
+[You can read the trial testimony of myself and my accusors](http://tucc.us/dtm_cop_lies.html).
 
 The trial judge rejected all 7 of Mark's claims of felony conduct, and didn't convict on any lesser crimes.
 
