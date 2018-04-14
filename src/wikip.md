@@ -1,68 +1,33 @@
-# Pierce Justice
+# People whitewash Mark Lindquist's Wikipedia entry
 
-Welcome to Pierce Justice. This website documents the challenge of maintaining the 
-Wikipedia page of
 **[Mark Lindquist, American lawyer and author](https://en.m.wikipedia.org/wiki/Mark_Lindquist)**.
-In particular, this website focuses on the *Law Career* section.
 
-## Option A - Germane Facts with References
-
-Here's a summary of the law career of this elected official:
-
-_Lindquist has been with the Pierce County Prosecutor's Office for more than 20 years. He was 
-appointed in 2009, elected in 2010, and re-elected in 2014. His cases include the conviction 
-of Dominick Maldonado for the [Tacoma Mall shooting](https://en.wikipedia.org/wiki/Tacoma_Mall_shooting)._
-
-_In 2015, an Associated Press review of all Washington cases that were reversed on appeal 
-since 2012 because of prosecutor misconduct found that 17 of the 30 cases were in Pierce 
-County. In a ruling throwing out the conviction of Darcus Allen, getaway car driver of 
-Maurice Clemmons, the state Supreme Court determined the prosecutor "committed prejudicial 
-misconduct" that the Court found "particularly grievous". [(source)](https://www.seattletimes.com/seattle-news/crime/many-pierce-county-cases-reversed-because-of-prosecutors/)_
-
-_Lindquist's appearance on a national television program speaking about a trial in progress 
-caused the Washington State Bar Association’s Office of Disciplinary Counsel to schedule a 
-disciplinary hearing. [(source)](http://www.thenewstribune.com/news/local/crime/article173451496.html)_
-
-_The Supreme Court of Washington State ruled 9-0 against Lindquist in August 2015, concluding 
-that public officials can’t claim a blanket privacy exemption for public records created on 
-personal devices. The court’s precedent-setting decision also set guidelines for examining 
-such records. The California state Supreme Court recently referenced the Washington ruling 
-in a similar case. [(source)](http://www.thenewstribune.com/news/politics-government/article137860268.html)_
-
-_Based on his job performance in office, The Seattle Times, Washington State's largest 
-newspaper, called on Lindquist to resign. [(source)](https://www.seattletimes.com/opinion/editorials/pierce-county-prosecutor-mark-lindquist-should-resign/)_
-
-In Wikipedia lingo, this description presents a Neutral Point of View (NPOV), and
-is in compliance with standards that apply to any Biography of a Living Person (BLP).
-
-## Option B - A Glowing Review with no References
-
-Here's another summary of the law career of the same elected official:
+For many years, changes to the _Law Career_ section would be replaced with this simple, glowing review:
 
 _Lindquist has been with the Pierce County Prosecutor's Office for more than 20 years. He was 
 appointed in 2009, elected in 2010, and re-elected in 2014. As District Attorney, he has instituted 
 innovative crime-fighting initiatives._
 
 In Wikipedia lingo, this description violates many principles of NPOV (stating opinions as 
-facts, with no citation of reliable sources).
+facts, with no citation of reliable sources). I believe Mark's publicist at Simon & Schuster was the vandal.
 
-This is the preferred description of another editor. I call him *the vandal*. The vandal's 
-work history sounds right, but no source accompanies the claim about Mark's crime-fighting 
-initiatives. I do hope some involve capes. With no NPOV source cited, capes are as likely as 
-not. Someone claims Mark's an innovator, and I claim capes are involved. But neither of us 
-provide sources considered NPOVs. Until that changes, this summary doesn't meet 
-Wikipedia's standards, and shouldn't appear on the Wikipedia website.
+In March, 2018, James Lynch [attempted to deface the page](https://en.wikipedia.org/w/index.php?title=Talk:Mark_Lindquist&oldid=828668826#Vandalism_originating_from_Pierce_County_ISP). 
+Mr. Lynch earns $86,000/yr as Communication and Public Information Coordinator for the Prosecuting Attorney, Mr. Lindquist.
+
+I know this because he used his work computer, and so we requested that the county identify the operator of the IP address involved.
+
+The county provided detailed logs of external resources requested by the computer of jlynch.
+
+He visits:
+
+* [http://marklindquist.org/](http://marklindquist.org), the website of his boss.
+* [http://lindquistdental.org/](http://lindquistdental.org). There must be a dentist in Mark's family.
+* [http://satterberg.org/](http://satterberg.org). This is some kind of non-profit for the King County prosecutor's family?
+* [http://nwfacts.com/](http://nwfacts.com). A newspaper for black people in the Pacific Northwest.
+* [http://www.co.pierce.wa.us/admin/](http://www.co.pierce.wa.us/admin/). This is his job.
 
 
-# See Wikipedia runs on particular principles
-
-Wikipedia operates with a rather detailed and specific set of practices, lingo, and steps. 
-While anyone can change Wikipedia, practices are in place to encourage certain activities, 
-and stop others. A lot of thought has gone into developing thesse standards. As you will 
-see, the vandal turns this shorthand on its head, to use editing standards as a club against 
-information he wants to suppress.
-
-## NPOV - Neutral Point of View
+# See NPOV - Neutral Point of View
 
 [Wikipedia:Neutral point of view](https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view)
 is a fundamental Wikipedia principle.

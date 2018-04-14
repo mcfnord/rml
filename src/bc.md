@@ -105,7 +105,8 @@ ability to get a fair trial.
 This extrajudicial statement is a clear violation of your Rules 
 of Professional Conduct, and is false.
 
-What does it mean to round a man up? It means to <a href=https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94 style=text-decoration:none>take him</a>
+What does it mean to round a man up? It means to 
+<a href=https://www.quora.com/What-is-the-correct-way-to-turn-yourself-in-for-a-warrant/answer/David-Davidson-94 style=text-decoration:none>take him</a>
 from his freedom, his home and friends. It means to 
 transfer his fate into the hands of another, his captor. It 
 implies effort, such as the effort of finding him, gaining 
@@ -119,23 +120,19 @@ character with imagery contrary to the fact that by
 my own volition, under my own power, and at my own expense, 
 I immediately travelled 33 miles into the custody and 
 confinement of the state, knowing well through counsel that 
-I was unlikely to appear before a judge until after the weekend. The police report says:
-
-** *Mr. Sosa did state that Dempsey turning himself in on Monday worked better for his schedule
-with an arraignment for Dempsey most likely held on Tuesday. When asked if this worked for us,
-D/Sgt. Hefty and I told Mr. Sosa it did not and it was preferrable that Dempsey contact us to surrender
-rather than us having to make contact with him in the community.* **
-
-While I deferred to the preferences of the arresting authority,
-Lindquist’s folksy language implies the force of the state 
-was needed and employed to gain my custody, which suggests 
-I hold lawful authority in disdain, and maybe even put up a 
-fight. 
-_Guidelines for Applying Rule 3.6_
-allow him to <a href=guidelines36.html style=text-decoration:none>specify the time and place of arrest</a>, which would
-paint a picture quite contrary to the one he manufactured. 
-The documented facts provide no defense for Lindquist's
-false and maligning innuendo. 
+I was unlikely to appear before a judge until after the weekend.
+I deferred to the preferences of the 
+arresting authority, but Lindquist’s folksy language 
+implies the force of the state was needed and 
+employed to gain my custody, which suggests I hold 
+lawful authority in disdain, and maybe even put up 
+a fight. _Guidelines for Applying Rule 3.6_ allow 
+him to <a href=guidelines36.html 
+style=text-decoration:none>specify the time and 
+place of arrest</a>, which would paint a picture 
+quite contrary to the one he manufactured. The 
+documented facts provide no defense for 
+Lindquist's false and maligning innuendo.
 
 ## Claim: Investigators consider me a threat
 
@@ -164,7 +161,9 @@ condemnation and materially prejudice a trial, and
 
 ## Censure is needed
 
-Throughout his career as an elected official, Mark Lindquist has 
+Throughout his career as an elected official, 
+<a href=https://en.m.wikipedia.org/wiki/Mark_Lindquist style=text-decoration:none>Mark Lindquist</a>
+has
 violated RPC 3.6 and RPC 3.8. His misleading statements about me 
 to the press forced me to waive my jury trial, and threatened my 
 ability to get a fair one. That he uses the accused to gain 
