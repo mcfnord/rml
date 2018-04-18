@@ -42,8 +42,11 @@ prohibited by law, the identity of the persons involved;
 
 (2)  A request for assistance in obtaining evidence and information;
 
-(3)  A warning of danger concerning the behavior of a person involved <mark>when there is reason to believe that there
-exists the likelihood of substantial harm to an individual or to the public interest</mark>; and
+(3) <mark>A warning of danger concerning the 
+behavior of a person involved **when there is 
+reason to believe that there exists the likelihood 
+of substantial harm to an individual or to the 
+public interest**</mark>; and
 
 (4)
 

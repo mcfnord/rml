@@ -4,7 +4,7 @@
 # MISCONDUCT
 
 
-It is professional misconduct for a lawyer to:
+<mark>It is professional misconduct for a lawyer to:</mar>
 
 (a)  violate or attempt to violate the Rules of Professional Conduct, knowingly assist or induce another to do
 so, or do so through the acts of another;
@@ -12,9 +12,9 @@ so, or do so through the acts of another;
 (b)  commit a criminal act that reflects adversely on the lawyer's honesty, trustworthiness or fitness as a
 lawyer in other respects;
 
-(c)  engage in <mark>conduct involving dishonesty, fraud, deceit or misrepresentation</mark>;
+(c)  <mark>engage in conduct involving **dishonesty**, fraud, deceit or **misrepresentation**</mark>;
 
-(d)  <mark>engage in conduct that is prejudicial to the administration of justice;</mark>
+(d)  <mark>engage in conduct that is **prejudicial to the administration of justice**;</mark>
 
 (e)  state or imply an ability to influence improperly a government agency or official or to achieve results by
 means that violate the Rules of Professional Conduct or other law;
@@ -84,10 +84,15 @@ discriminatory basis does not alone establish a violation of this Rule.
 obligation exists. The provisions of Rule 1.2(d) concerning a good faith challenge to the validity, scope,
 meaning or application of the law apply to challenges of legal regulation of the practice of law.
 
-[5]  <mark>Lawyers holding public office assume legal responsibilities going beyond those of other citizens. A
-lawyer's abuse of public office can suggest an inability to fulfill the professional role of lawyers</mark>. The same is
-true of abuse of positions of private trust such as trustee, executor, administrator, guardian, agent and officer,
-director or manager of a corporation or other organization.
+[5] <mark>Lawyers holding public office assume 
+legal responsibilities going **beyond those of other 
+citizens**. A lawyer's abuse of public office can 
+suggest an **inability to fulfill the professional 
+role of lawyers**</mark>. The same is true of abuse 
+of positions of private trust such as trustee, 
+executor, administrator, guardian, agent and 
+officer, director or manager of a corporation or 
+other organization.
 
 
 #                                         Additional Washington Comment (6-7)

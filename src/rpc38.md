@@ -28,11 +28,18 @@ present client unless the prosecutor reasonably believes:
 
 (3)  there is no other feasible alternative to obtain the information;
 
-(f)  except for statements that are necessary to inform the public of the nature and extent of the prosecutor's
-action and that serve a <mark>legitimate law enforcement purpose, refrain from making extrajudicial comments that
-have a substantial likelihood of heightening public condemnation of the accused</mark> and exercise reasonable care to
-prevent investigators, law enforcement personnel, employees or other persons assisting or associated with the
-prosecutor in a criminal case from making an extrajudicial statement that the prosecutor would be prohibited
+(f) <mark>except for statements that are **necessary** 
+to inform the public of the nature and extent of 
+the prosecutor's action and that serve a 
+**legitimate law enforcement purpose**, refrain from 
+making extrajudicial comments that have a 
+**substantial likelihood of heightening public 
+condemnation of the accused**</mark> and exercise 
+reasonable care to prevent investigators, law 
+enforcement personnel, employees or other persons 
+assisting or associated with the prosecutor in a 
+criminal case from making an extrajudicial 
+statement that the prosecutor would be prohibited 
 from making under Rule 3.6 or this Rule.
 
 (g)  When a prosecutor knows of new, credible and material evidence creating a reasonable likelihood that a
