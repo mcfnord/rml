@@ -46,7 +46,7 @@ On the witness stand, my attorney asked her to measure the level of fear she fel
 out as it played, perhaps because in the recording, she sounded bored and annoyed (she always sounds annoyed). 
 After it played, she confirmed her 4-of-5 fear metric, and repeated a dorky line, "We don't know what he's 
 capable of!" We do know she's capable of going from bored to terrified sometime *after* calling the police on the 
-non-emergency contact line. And we know the Prosecutor must have reviewed this evidence that strongly 
+non-emergency contact line. And we know the prosecutor must have reviewed this evidence that strongly 
 contradicted her claim of mortal fear. Isn't that what Mark meant by _ongoing investigation?_
 
 ## Dishonest dad
@@ -81,7 +81,7 @@ surreal. I found him to be brilliant, fully deserving of his esteemed position a
 
 I never intended to communicate a threat to murder, and intent is a critical part of felony law. Some of the 
 people who claimed to be victims worked very hard to project criminal intent upon me. Upon realizing this, the 
-prosecutor should have noticed and quit the whole thing. ([Mark knows how intent works in felony 
+prosecutor should have quit the whole thing. ([Mark knows how intent works in felony 
 law.](http://komonews.com/news/local/prosecutors-want-harsh-punishment-for-teen-suspects-in-accidental-gunfire-at-tacoma-school)) 
 Instead, Mark Lindquist dug up 7 people as victims, and in 7 distinct instances, the judge said nope. That's not 
 one error, but 7 errors in judgement. That record is a crappy use of County resources. Why did Mark make these 
@@ -174,10 +174,12 @@ You can count on a certain kind of response from Mark Lindquist to any criticism
 [just plain crazy](http://www.thenewstribune.com/news/local/crime/article41256369.html).
 
 
-_After he filed his whistleblower complaint and news stories appeared, Lindquist had his staffers issue statements suggesting Merrival was a disgruntled employee, and also told staffers 
+_After he filed his whistleblower complaint and news stories 
+appeared, Lindquist had his staffers issue statements suggesting 
+Merrival was a disgruntled employee, and also told staffers 
 Merrival had a "meltdown."_
 
-_Those statements were untrue and designed to discredit Merrival, Busto wrote._
+_Those statements were **untrue** and **designed to discredit Merrival**, Busto wrote._
 
 _"I find that the PCPAO’s statements to the press in response to Merrival’s complaint were inaccurate and **intentionally misleading**," the report states. "Furthermore, by describing his 
 behavior as a ‘meltdown,’ Lindquist suggested that Merrival’s complaint was the product of a disorder, rather than a response to perceived grievances and injustices."_
@@ -195,11 +197,13 @@ his attorney slung this idea that a bar complaint is politically motivated. If I
 career, you can bet I'm "politically motivated". I say literally that he shouldn't have a law license. I lay out precisely why, by explaining what he
 did to me, and concluding that he shouldn't have the power to do it to anyone. My *motive* is that he's unfit to be a *politician*. So... politically motivated? Yes, in the most honorable sense possible.
 
-I've never met this other grievant, but I'll tell you another thing: It's a short list of people with the position and
-resources to take on Lindquist, because he has a pattern of using and abusing his authority to hurt careers. He literally formed a list of 
-defense attorneys whose **clients** faced [tougher sentences](http://www.thenewstribune.com/news/local/crime/article29747605.html) because Lindquist didn't like the **attorney**. 
-If people harmed by false charges and prosecutions
-end up working together, that pattern does not surprise me one bit. 
+It's a short list of people with the position and 
+resources to take on Lindquist, because he has a pattern of 
+using and abusing his authority to hurt careers. He literally 
+formed a list of defense attorneys whose **clients** faced 
+[tougher 
+sentences](http://www.thenewstribune.com/news/local/crime/article29747605.html) 
+because Lindquist didn't like the **attorney**.
 
 Pierce County can do so much better.
 Save sleaze-slinging and seductive smears
