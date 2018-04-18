@@ -11,7 +11,7 @@ innovative crime-fighting initiatives._
 In Wikipedia lingo, this description violates many principles of NPOV (stating opinions as 
 facts, with no citation of reliable sources). I believe Mark's publicist at Simon & Schuster was the vandal.
 
-In March, 2018, James Lynch [attempted to deface the page](https://en.wikipedia.org/w/index.php?title=Talk:Mark_Lindquist&oldid=828668826#Vandalism_originating_from_Pierce_County_ISP). 
+In March, 2018, James Lynch [attempted to deface the page](https://en.wikipedia.org/wiki/Talk:Mark_Lindquist). 
 Mr. Lynch earns $86,000/yr as Communication and Public Information Coordinator for the Prosecuting Attorney, Mr. Lindquist.
 
 I know this because he used his work computer, and so we requested that the county identify the operator of the IP address involved.
