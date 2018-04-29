@@ -1,6 +1,6 @@
 <title>Letter to Friends - Lindquist Bar Complaint</title>
 
-April 2, 2018
+April 20, 2018
 
 Dear Friends,
 
@@ -11,9 +11,17 @@ established by our state's Supreme Court to
 govern the behavior of all lawyers in our 
 state.
 
+<center><a href=http://ladybug.today/tweet.html>_and planted flowers_</a></center>
+
 I've made my full letter to the Bar Association available online.
 
 [http://DempseyBarComplaint.info](http://dempseybarcomplaint.info/)
+
+In addition, I've written this personal background explaining how I came to 
+this point: _[Dishonest](dishonest.html)_.
+
+
+## About today's complaint
 
 I've asked the Bar Association to act 
 in response to a clear pattern of malfeascance 
@@ -29,6 +37,8 @@ family and friends. I could choose to forget about the
 dark times and struggle that accompanied my arrest, 
 life as an accused felon, and full trial in a Tacoma 
 courtroom. 
+
+## Serious problem of leadership
 
 But in the aftermath, I've learned that
 my experience is not an isolated incident; Prosecutor Mark 
@@ -48,6 +58,8 @@ even when falsely accused. Facts are the
 beginning and end of a sound prosecution, but 
 Mr. Lindquist has shown a very loose and 
 opportunistic relationship with the facts.
+
+## Other investigation
 
 In addition to this bar complaint, I have also delivered inquiries to 
 the Pierce County Prosecuting Attorney's Office that will shed light on 

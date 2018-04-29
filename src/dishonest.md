@@ -188,30 +188,33 @@ _Busto compared Lindquist’s "meltdown" statement to an earlier remark Lindquis
 
 _Reportedly, Lindquist said Robnett had a "breakdown."_
 
-Now that's a lot to digest. If you disagree with him, there's something wrong with your head. His tax-payer funded attorney even [pulls these same moves for him](http://www.thenewstribune.com/news/local/crime/article173451496.html):
+Now that's a lot to digest. If you 
+disagree with him, there's something 
+wrong with your head.
 
-*"We’ve had a series of politically motivated bar complaints filed by a single grievant."*
-
-I love this "politically motivated" smear. Let's explore it: Long before anyone had signed on to challenge Lindquist for the office,
-his attorney slung this idea that a bar complaint is politically motivated. If I think Lindquist is unqualified to touch tax funds or oversee anyone's
-career, you can bet I'm "politically motivated". I say literally that he shouldn't have a law license. I lay out precisely why, by explaining what he
-did to me, and concluding that he shouldn't have the power to do it to anyone. My *motive* is that he's unfit to be a *politician*. So... politically motivated? Yes, in the most honorable sense possible.
-
-It's a short list of people with the position and 
-resources to take on Lindquist, because he has a pattern of 
-using and abusing his authority to hurt careers. He literally 
-formed a list of defense attorneys whose **clients** faced 
+It's a short list of people with the 
+position and resources to take on 
+Lindquist, because he has a pattern of 
+using and abusing his authority to hurt 
+careers. He literally formed a list of 
+defense attorneys whose **clients** faced 
 [tougher 
 sentences](http://www.thenewstribune.com/news/local/crime/article29747605.html) 
-because Lindquist didn't like the **attorney**.
+because Lindquist didn't like the 
+**attorney**.
 
-Pierce County can do so much better.
-Save sleaze-slinging and seductive smears
-for tweets by President Trump.
-I'm sure going public with my story and complaint to the Bar Association will evoke
- the slings and arrows of this sleazeball guy in quotes that journalists dutifully report to the public.
+Pierce County can do so much better. Save 
+sleaze-slinging and seductive smears for 
+tweets by President Trump. I'm sure going 
+public with my story and complaint to the 
+Bar Association will evoke the slings and 
+arrows of this sleazeball guy in quotes 
+that journalists dutifully report to the 
+public.
 
-Having known many great leaders, I know this behavior is never a legitimate habit among them.
+Having known many great leaders, I know 
+this behavior is never a legitimate habit 
+among them.
 
 
 # See In Conclusion

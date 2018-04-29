@@ -1,21 +1,27 @@
 <title>Bar Complaint - Pierce County Prosecutor Mark Lindquist</title>
-# Bar Complaint - draft
+
+April 20, 2018
+
+Washington State Bar Association  
+1325 4th Ave, Suite 600  
+Seattle, WA 98101
+
+Dear Ladies and Gentlemen,
 
 Pierce County Prosecutor Mark Lindquist violated various Rules 
 of Professional Conduct in verbal statements broadcast on _KIRO 
 Evening News_ and in a statement cited in the news article that 
 accompanied the news broadcast published by KIRO on its website.
-
-[http://DempseyBarComplaint.info/kiro](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
+([Exhibit 3](http://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653))
 
 On February 22th, 2015, Prosecutor Lindquist charged me 
 with four counts of Felony Harassment for posting a message 
-and video to Facebook, Cause No. 15-1-00747-7.
-The Prosecutor added 3 additional felonies before the 
+and video to Facebook, Cause No. 15-1-00747-7. (Exhibit 2)
+The prosecutor added 3 additional felonies before the 
 trial, including a Class B felony.
 **The Class B felony couldn't withstand a pre-trial motion, 
 and I was acquitted of all other charges after a bench 
-trial.**
+trial.** (Exhibit 4)
 
 The very public statements Lindquist made about me merit the 
 review and censure of the Bar Association.
@@ -38,8 +44,8 @@ The written journalism that accompanies the video of the
 broadcast published on kiro7.com says:
 
 ** *Lindquist said investigators consider Dempsey a threat, 
-so his office didn't wait to jail him. “This is an ongoing 
-investigation, but we wanted to move quick,” said 
+so his office didn't wait to jail him. "This is an ongoing 
+investigation, but we wanted to move quick," said 
 Lindquist.* **
 
 All three statements to the press are prejudicial to the cause 
@@ -56,15 +62,15 @@ based on Lindquist's false and maligning words to the press.
 ## Relevant facts
 
 Law enforcement became aware of the complaint on January 
-12th. I became aware of the complaint on February 20th, 
+12th. (Exhibit 1) I became aware of the complaint on February 20th, 
 five weeks later, when officers located my counsel outside 
 a Superior Courtroom and notified him of the Probable Cause 
-for Arrest. My attorney called me around lunch time. At 
+for Arrest. (Exhibit 1) My attorney called me around lunch time. At 
 1pm, my attorney told police that I would turn myself in 
 at the County-City Building before 4:30pm. I left work 
 early from my office in downtown Seattle, and introduced 
 myself to sheriffs inside the County-City Building at the 
-agreed-upon time.
+agreed-upon time. (Exhibit 2)
 
 ## Claim: Law Enforcement didn't wait
 
@@ -77,7 +83,7 @@ Charging Papers conclude:
 ** *The defendant’s attorney was contacted on Friday, 
 February 20 by law enforcement. At their request, the 
 defendant did turn himself in to the sheriff’s office 
-later that afternoon.* **
+later that afternoon.* ** (Exhibit 2)
 
 Knowing the enormous time elapsed between the 
 complaint and the warrant, I've wondered what 
@@ -175,11 +181,29 @@ concern. Justice in Pierce County faces clear, serious,
 documented, repeated danger as long as Mr. Lindquist is 
 permitted to practice law.
 
-## References
+Yours faithfully,
+
+John Dempsey
+
+### References
 
 * [Rules of Professional Conduct 3.6: TRIAL PUBLICITY](rpc36.html)
   * [APPENDIX - GUIDELINES FOR APPLYING RULE OF PROFESIONAL CONDUCT 3.6](guidelines36.html)
 * [Rules of Professional Conduct 3.8: SPECIAL RESPONSIBILITIES OF A PROSECUTOR](rpc38.html)
 * [Rules of Professional Conduct 8.4: MISCONDUCT](rpc84.html)
+
+### Exhibits
+
+* Exhibit 1: _Police Report_  
+    <img width=500 border=1 src=prefer.png>
+* Exhibit 2: _Charging Document_  
+    <img width=500 border=1 src=turnedin2.png>
+* Exhibit 3: _KIRO Evening News_
+  * Print journalism  
+    <img width=500 border=1 src=threaty2.png>
+  * Broadcasted statements  
+    See [http://DempseyBarComplaint.info/kiro](https://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
+* Exhibit 4: _Findings of Fact_
+    <img width=500 border=1 src=concl.png>
 
 
