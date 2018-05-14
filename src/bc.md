@@ -203,7 +203,7 @@ John Dempsey
     <img width=500 border=1 src=threaty2.png>
   * Broadcasted statements  
     See [http://DempseyBarComplaint.info/kiro](https://www.kiro7.com/news/police-father-made-death-threat-against-judge-thro/43394653)
-* Exhibit 4: _Findings of Fact_
+* Exhibit 4: _Findings of Fact_  
     <img width=500 border=1 src=concl.png>
 
 
