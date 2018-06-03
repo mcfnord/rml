@@ -49,3 +49,6 @@ not carrying out the business of Pierce County's largest
 and official law firm. That James Lynch has a government 
 job where his primary focus is getting his boss elected 
 should outrage all Pierce County taxpayers.
+
+<center>[ReplaceMarkLindquist.info](dishonestS4.html)</center>
+

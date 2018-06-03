@@ -128,16 +128,24 @@ false and prohibited statements to the press. Loyalty, not success, was Cooper's
 
 # See Perception v. Reality
 
-At first blush, when Mark went on television, he seemed to have the ingredients a headline-craving prosecutor 
+At first blush, when Mark [went on television](bc.html), he seemed to have the ingredients a headline-craving prosecutor 
 must love: A dangerous suspect, an allegation of a crime against a judge, and an outrageous music video.
 
 What he had was a deliciously *specious* case.
 
 **specious**: *misleading in appearance, especially misleadingly attractive.*
 
-When Pierce County paid for a report on Lindquist's poor leadership skills, Mark hired James Lynch II. Mr. Lynch 
-has worked for Pierce County Prosecuting Attorney's Office full-time for almost two years. Do you know how Mr. 
-Lynch describes his work? (I've added **bold**.)
+When Pierce County paid for a report on 
+Lindquist's poor leadership skills, Mark 
+hired James Lynch II. Mr. Lynch has worked 
+for Pierce County Prosecuting Attorney's 
+Office full-time for almost two years. Most 
+recently he [tried hiding information](https://maryforprosecutor.com/a-good-use-of-your-tax-dollars-erasing-embarrassing-lindquist-facts-from-wikipedia/) about 
+Lindquist on Wikipedia.
+
+Do you know how Mr. 
+Lynch describes his work? (I've added 
+**bold**.)
 
 _Communications expert with extensive experience and a proven ability to **shape perceptions** and manage media 
 relationships. Direct public outreach, handle crisis communications and develop press releases. Leverage 
@@ -145,14 +153,25 @@ interpersonal skills to build strong stakeholder relationships and lead high-per
 write **creative stories**. Produce and promote special projects across diverse media. Use digital tools, Internet 
 resources and social media to skillfully deliver clear, concise, informative messaging._
 
-Mr. Lindquist seems to believe he has been misunderstood. I believe he has been understood very well. He has 
-methodically developed ways to raise his profile in local tabloids and social media. He uses these channels to 
-present explanations that strongly contradict conclusions made by outsiders. While it looks fun, it's not a good 
-look for a prosecutor, whose first duty is to the court and its Rules of Professional Conduct. I don't think 
-there is any role for elected officials who emphasize perception-shaping in such a clear conflict with the 
-reality of their job performance. Lawyers in public office should probably be the last to participate in such 
-[dishonest campaigns to mislead the public](http://www.thenewstribune.com/news/local/article197782954.html) about 
-their job performance.
+Mr. Lindquist seems to believe he has been 
+misunderstood. I believe he has been 
+understood very well. He has methodically 
+developed ways to raise his profile in local 
+tabloids and social media. He uses these 
+channels to present explanations that 
+strongly contradict conclusions made by 
+outsiders. While it looks fun, it's not a 
+good look for a prosecutor, whose first duty 
+is to the court and its Rules of 
+Professional Conduct. I don't think there is 
+any role for elected officials who emphasize 
+perception-shaping in such a clear conflict 
+with the reality of their job performance. 
+Lawyers in public office should probably be 
+the last to participate in such [dishonest 
+campaigns to mislead the 
+public](http://www.thenewstribune.com/news/local/article197782954.html) 
+about their job performance.
 
 Karen Peterson was the executive editor of the _Tacoma News Tribune_. About Lindquist, she said:
 
