@@ -1,4 +1,4 @@
-# Pierce County Tax Dollar Sinkhole
+# Buy the news
 
 Q: What do you do when [you get bad 
 press?](https://en.m.wikipedia.org/wiki/Mark_Lindquist)
@@ -11,6 +11,21 @@ you!](http://www.courierherald.com/news/lindquist-discusses-public-safety-with-b
 * And best of all... Pierce County taxpayers foot the 
 bill!
 
+
+# Troubling
+
+Democratic government thrives on sunshine, the metaphor often used to describe a 
+spectrum of...
+
+In his extensive report...
+
+Social media is unregulated, and fake news press is easy to operate.
+
+Together, these tools make it easy to give the impression you're doing a great job.
+
+In reality, you're doing a terrible job.
+
+## Unaccountable media
 
 # State News
 

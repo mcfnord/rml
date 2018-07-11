@@ -252,7 +252,7 @@ advance of trial at a time when many, if not most pleas are negotiated<sup>6</su
 distribute the policy to DPAs; and, the PCPAO does not maintain a list of designated PIE
 witnesses.
 
-_**Summmary of the Evidence:**_ PCPAO adopted a PIE policy on September 17, 2013 based
+_**Summary of the Evidence:**_ PCPAO adopted a PIE policy on September 17, 2013 based
 on the Model Policy of the Washington Association of Prosecuting Attorneys (“WAPA”).<sup>7</sup>
 Upon adoption, representatives of the PCPAO met with each law enforcement agency in the
 County and the law enforcement officers” guilds to discuss the policy and to address any
@@ -335,7 +335,7 @@ officer prior to the Merrival Complaint because Penner had not received notice o
 pertaining to her, but the office has subsequently designated Heischman upon review of the
 evidence.
 
-_**Summmary of the Evidence**_: I review the evidence related to each of the detectives below.
+_**Summary of the Evidence**_: I review the evidence related to each of the detectives below.
 
 **a. Detective Mike Ames.** The PCPAO has identified Ames as a PIE
 officer. The PIE includes: declarations signed by Ames in Dalsing v. Pierce County that contain
@@ -412,6 +412,8 @@ Lindquist and the PCPAO. Robnett described Lindquist’s insistence on finding N
 information source as off-putting, misdirected and very strong — “not the way a prosecutor would
 talk to experienced detectives.”</mark>
 
+<div id='nissen-robnett'>
+
 <mark>As further evidence of Lindquist's singular focus on Nissen as a suspect, Robnett said
 that Lindquist “kind of flipped out” when Nissen filed a Public Records Act (“PRA”) action
 against the County after the settlement of her civil suit against Lindquist. Robnett said that she
@@ -456,18 +458,20 @@ the PCPAO had not finalized its PIE policy at the time and had no established pr
 submission of PIE. Sommerfeld, Penner and Provost all denied having any basis for believing
 that the letter was written to embarrass Wood.
 
-In light of this evidence, I fmd that Lindquist sought to focus the PCSD'S investigation of
-the Robnett death threat on Nissen and away from other possible suspects; and, Lindquist
+In light of this evidence, I find that <mark>Lindquist sought to focus the PCSD'S investigation of
+the Robnett death threat on Nissen and away from other possible suspects;</mark> and, Lindquist
 attempted to secure evidence during the investigation that Wagner supplied information about
 the PCPAO to Nissen.<sup>15</sup> However, I also further find the PCPAO had a legitimate basis for
 identifying Wood as a PIE officer and the PIE letter its DPA helped draft was not intended to
 embarrass him, notwithstanding any hustration that Lindquist had regarding Wood’s
 investigation of Nissen.
 
+</div>
+
 <hr>
 
 <sup>12</sup> Lindquist’s personal attorney attended the meeting by telephone.  
-<sup>13</sup> Adams’ office was physically located at the PCSD.
+<sup>13</sup> Adams’ office was physically located at the PCSD.  
 <sup>14</sup> Robnett recalled that Vansccy, to his credit, “stood up to Lindquist” and said, “If Adams says it’s privileged, then it is.”  
 <sup>15</sup> _See also_, "Lindquist Involvement in Deputy Investigation at Center of Phone Records Case", Tacoma News Tribune, June 10, 2015.
 
@@ -511,7 +515,7 @@ Penner’s Complaint added that Lindquist dubbed the attorneys who submitted dec
 deals.
 
 _Summary of the Findings of Fact_: Lindquist called the declarants in the Ames name-
-clearing matter the “confederacy of duncesf’ Felony Division Chief John Sheeran sent a letter to
+clearing matter the “confederacy of dunces" Felony Division Chief John Sheeran sent a letter to
 the declarants stating that they were mistaken about the facts stated in their declarations; the
 PCPAO made the declarations available for DPAs to review and Team Chiefs shared the
 declarants’ names with DPAs, but they did not circulate a list of declarants; senior leaders told
@@ -621,8 +625,8 @@ during plea negotiations.
 
 The instruction was also consistent with Lindquist’s political instincts. Penner reported
 and a senior leader confirmed that Lindquist responded, when he was told he had to treat
-Merrival the same after Merrival filed his Complaint: “I am a politician; you don’t understand;
-you need to attack the person who makes the accusations.”
+Merrival the same after Merrival filed his Complaint: <mark>“I am a politician; you don’t understand;
+you need to attack the person who makes the accusations.”</mark>
 
 The only unit that reported receiving a “no good deals“ instruction was the SAU.<sup>18</sup>
 Assistant Team Chief Heather DeMaine said that Homicide Division Chief Jared Ausserer
@@ -743,14 +747,14 @@ cell phone to private cell phone.
 _**Summary of the Evidence**_: The evidence pertaining to each of the allegations follows.
 
 **i. The PCPAO’s Policy.** By way of background, on April 26, 2013, Farina
-emailed PCPAO employees about the status of the Nissan v. Pierce County public records act
+emailed PCPAO employees about the status of the Nissen v. Pierce County public records act
 case, which sought Lindquist’s private cell phone records, and advised: “In the interest of
 employee privacy and to avert litigation, please be reminded that while it is sometimes
 unavoidable in serving the public, the use of personal phones for county business is
 discouraged.” According to Robnett and others, Lindquist regularly used his personal cell
-phone for County business. The Nissan case made clear the risks of such use, so the PCPAO
+phone for County business. The Nissen case made clear the risks of such use, so the PCPAO
 clarified the policy regarding the use of personal cell phones for County business to protect
-personal cell phone records and to “avert litigation,” like the _Nissan_ case.
+personal cell phone records and to “avert litigation,” like the _Nissen_ case.
 
 Later that year, on November 25, 2013, the PCPAO revised its “E—Mail, Internet Use, and
 Electronic Records Policy.” The office adopted the County policy with the following additions:
@@ -801,13 +805,12 @@ matter of PIE policy, not the office’s email policy. Regarding the alleged ins
 document “Brady” issues in email, his supervisor, Team Chief Maureen Goodman, recalled that
 Merrival had concerns about a Fife officer based on video footage in the criminal file. Goodman
 recalled telling Merrlval not to contact the officer because, if the footage indicated wrongdoing,
-then the officer had certain rights.22 Goodman said that she looked at the video, decided it was
+then the officer had certain rights.<sup>22</sup> Goodman said that she looked at the video, decided it was
 problematic for the officer, discussed the matter with Penner and Sheeran, and later cooperated
 with the detective assigned to the department’s IA investigation. Ultimately, the PCPAO
 dismissed the case and Fife fired the officer. According to Goodman, she responded to
 Merrival’s concerns, she followed proper procedures, the matter was investigated and eventually
 it became public. I find that the PCPAO’s response to these specific events was motivated by a
-
 legitimate effort to balance the rights of the officer and the office’s constitutional obligations,
 and not an effort to evade the PRA.
 
@@ -816,23 +819,13 @@ phone to private phone, about the reversal of the conviction in State v. Dorcas 
 asked Penner if he had read the Seattle Times article about the case and, when Penner said, “no,”
 Lindquist asked him to read it and call him back. When Penner returned the call, Lindquist
 admonished Penner for calling his personal cell phone from Penner’s work phone and told
-Penner to call back using Penner’s personal cell phone.23 The next day Lindquist told Penner
-that he did not understand the Court of Appeals decision in the Nissan litigation and again
+Penner to call back using Penner’s personal cell phone.<sup>23</sup> The next day Lindquist told Penner
+that he did not understand the Court of Appeals decision in the Nissen litigation and again
 admonished him, this time for not being a team player for putting Lindquist’s cell phone records
 at risk of disclosure.
 
-<hr>
-
-22 Goodman does not recall that she told Merrival, in particular, not to document the situation in an email. However,
-the alleged direction would be consistent with the PCPAO’s policy regarding emails described above.
-
-23 By calling Lindquist‘s personal cell phone from his work phone, Penner put Lindquist’s private cellphone
-number in his work phone call logs, which could be subject to a PRA request.
-
-
 Penner reiterated and confirmed these events in his interview. Lindquist responded that
 he was reaching out to Penner on a personal level as a friend to provide him with support. He
-
 said if Penner intended to discuss work, Penner should have returned the call to Lindquist’s work
 cell phone. Lindquist did not deny admonishing Penner for the return call.
 
@@ -842,11 +835,20 @@ of the article would be irrelevant to any expression of sympathy or understandin
 would only be important if Lindquist wanted to fashion a public statement in response to the
 decision, or discuss the impact of the decision on the case and/or the office, which are work-
 related conversations. Under these circumstances, I find that Lindquist told Penner he wasn’t a
-
 team player because Penner would not play along with Lindquist’s preference to have the
 conversation on a PRA-proof basis.
 
-3. Prejudicial Public Records. Finally, the Merrival Complaint alleged that
+<hr>
+
+<sup>22</sup> Goodman does not recall that she told Merrival, in particular, not to document the situation in an email. However,
+the alleged direction would be consistent with the PCPAO’s policy regarding emails described above.  
+<sup>23</sup> By calling Lindquist‘s personal cell phone from his work phone, Penner put Lindquist’s private cellphone
+number in his work phone call logs, which could be subject to a PRA request.
+
+
+# See Prejudicial Public Records
+
+Finally, the Merrival Complaint alleged that
 Lindquist prepared and sent an e—mail because he thought it would hurt the political campaign of
 a judicial candidate if it was produced in resPonse to a public disclosure request. Lindquist sent
 the email referred to in the Complaint, dated January 20, 2011, to members of leadership
@@ -861,7 +863,7 @@ According to Penner, he and former Homicide Chief Kevin McCann prosecuted a case
 November 2010 involving a defendant who assisted the accused murderer of the Lakewood
 police officers. Penner said that Lindquist assigned McCann to the trial and directed him to do
 any public appearances associated with it because McCann was campaigning for a judicial
-position at the time.24 Pierce County Superior Court Judge Stephanie Arend presided over the
+position at the time.<sup>24</sup> Pierce County Superior Court Judge Stephanie Arend presided over the
 trial and, according to Penner, seemed to treat McCann poorly for reasons that were unclear to
 them. Judge Arend treated Penner just fine, so he and McCann decided that Penner would argue
 important motions during the trial. Penner said that Lindquist spoke about running someone
@@ -877,8 +879,9 @@ Lindquist’s concerns afterwards and “everything worked out.”
 
 <hr>
 
-2“ Penner also emphasized that McCann was well-qualified to handle the case and was more experienced than
-Penner.
+<sup>24</sup> Penner also emphasized that McCann was well-qualified to handle the case and was more experienced than Penner.
+
+# See Retaliation against Judge Arend
 
 Lindquist’s former Chief Criminal Deputy Mary Robnett had a completely different
 recollection. She said that Lindquist was unhappy with Judge Arend and worked on several
@@ -886,21 +889,20 @@ drafts of an email stating that Judge Arend had done some things that were preju
 office and McCann. She confirmed that Lindquist assigned McCann to the case because he was
 running for office at the time and would get free publicity hom the trial. And, Robnett recalled
 that Judge Arend was critical of McCann, so Lindquist wrote the email to make her sorry for
-
 treating McCann that way. Lindquist told Robnett that it will look really bad when the TNT
 asked for the email during the next election cycle.
 
-I find that the allegation in the Merrival Complaint is credible, 13.6., Lindquist drafted the
+I find that the allegation in the Merrival Complaint is credible, 13.6., <mark>Lindquist drafted the
 “affidavits of prejudice” email for the purpose of retaliating against Judge Arend for her
 treatment of McCann. First, many witnesses confirmed that Lindquist supported McCann’s
 judicial aspirations in a variety of ways, some of which are described more fully below.
 Witnesses also said that Lindquist saw himself as a judge—maker; one former Superior Court
-judge said that Lindquist once stated, “I elect judges, the people don"t.“25 Most importantly,
+judge said that Lindquist once stated, “I elect judges, the people don"t."</mark><sup>25</sup> Most importantly,
 Robnett was one of Lindquist’s most trusted deputies at the time and was in a position to share
 with Lindquist his most intimate confidences. Her recollection is consistent with Penner’s and,
 in my opinion, she has more to lose than gain from revealing those confidences.
 
-D. Violation of State and Federal Labor Relations Acts
+# See Violation of State and Federal Labor Relations Acts
 
 Both the Merrival and the Penner Complaints allege that Lindquist engages in various
 activities that interfere with the operation of the Pierce County Prosecuting Attorney’s
@@ -910,14 +912,12 @@ Association (“Guild”), which is the DPA’s collective bargaining representa
 
 Allegation: Both Complaints alleged that Jim Schacht decided to run for the Guild’s First
 Vice President position in 2014 and afterwards DPA Erica Nohavec, a supporter of Lindquist’s,
-decided to run against him.26 Division Chief Tim Lewis allegedly instructed junior DPAs in the
-
+decided to run against him.<sup>26</sup> Division Chief Tim Lewis allegedly instructed junior DPAs in the
 Misdemeanor Division to vote for Nohavec, but Lindquist refused to take any action because it
 was a “Guild issue.”
 
 Summa_ry of the Factual Findings: Team Chief Erica Nohavec decided to run for the
 Guild position before DPA Jim Schacht and Lindquist did not encourage her to do so, at least in
-
 an effort to defeat him; Lindquist explicitly and implicitly communicated to leadership that they
 should encourage DPAs to vote for Nohavec instead of Schacht in the election; Misdemeanor
 Division Chief Tim Lewis questioned DPA Annie Guttierez about what went on at a Guild
@@ -926,20 +926,12 @@ Guild officer, reported Lewis” conduct to the Guild; Lindquist passed Guttiere
 promotion because she reported Lewis, one of his Division Chiefs, to the Guild; Lindquist has
 promoted the last four Guild Presidents to leadership positions in his administration.
 
-<hr>
-
-25 Judge Arend did not return my two telephone calls to her courtroom.
-2“ Merrival alleged that Lindquist encouraged her to oppose Schacht.
-
-Summgy of the Evidence: Lindquist said that Nohavec was already in the race when he
+Summary of the Evidence: Lindquist said that Nohavec was already in the race when he
 heard about it and he did not encourage her to run for the position. Team Chief Scott Peters said
-
 that he was the incumbent First Vice President of the Guild at that the time, but had decided to
 give up the position to run for President and replace Jared Ausserer when he was promoted out
 of the bargaining unit. Peters said that Nohavec was the first person who contacted him about
-
 the position, followed by Schacht a few days later. I find on the basis of this evidence that
-
 Nohavec decided to run before Schacht and Lindquist did not encourage her to do so, at least in
 an effort to defeat him.”
 
@@ -951,14 +943,12 @@ Nohavec over Schacht. Lewis said that Lindquist wanted to know from him whether 
 Misdemeanor DPAs were voting in the election. Lewis knew that Nohavec was a good friend of
 Lindquist's and he was fond of her work, so Lewis understood that Lindquist wanted the junior
 DPAs to support Nohavec. I find that Lindquist explicitly and irnplicitly communicated to
-
 leadership that they should encourage DPAs to vote for Nohavec instead of Schacht in the Guild
 election.
 
 Lewis said he asked at least one DPA, Armie Guttierez, if the Misdemeanor Division
 DPAs were voting and if Nohavec had their support. He said that Guttierez was uncomfortable
 with the question and told him that she had an obligation to tell the Guild’s Executive Board,
-
 which Lewis said he understood. He recalled that Guttierez was crying and he told her it was
 going to be OK.
 
@@ -975,19 +965,20 @@ Lisa Wagner (a Guild officer), who promised to keep her identity confidential.
 
 <hr>
 
-27" Nohavec is on leave of absence bout the office so I was unable to speak to her about the Guild election and could
-not confirm Lindquist’s claim that he did not encourage Nohavec to run for the position.
+<sup>25</sup> Judge Arend did not return my two telephone calls to her courtroom.  
+<sup>26</sup> Merrival alleged that Lindquist encouraged her to oppose Schacht.  
+<sup>27</sup> Nohavec is on leave of absence bout the office so I was unable to speak to her about the Guild election and could not confirm Lindquist’s claim that he did not encourage Nohavec to run for the position.
 
+# See Lewis questions Guttierez
 
 Subsequently, on two different occasions, Lewis questioned Guttierez to determine who
 had reported him to Wagner. During this process, Lewis offered Guttierez the opportunity to try
 a four-person homicide case, which shocked Guttierez because the prospect of trying a homicide
-case had never been discussed with her in her performance evaluations or otherwise.28 Finally,
+case had never been discussed with her in her performance evaluations or otherwise.<sup>28</sup> Finally,
 Lewis again questioned her about whether she had reported him saying, “There are questions on
 the 9th fioor [where the senior leadership offices are located]; people are questioning your
 judgment. Annie, did this come from you?” When she finally broke down and told Lewis,
 “yes,” he said, “I understand; I will go to 9 and fix this.“ He came back a few minutes later and
-
 said, “Annie, everything is going to be fine. You are going to get the next County Attorney II,”
 which would be a promotion for her.
 
@@ -1019,11 +1010,6 @@ Guild President until Lindquist promoted him to Homicide Division Chief; and, Sc
 current Guild President, followed Sheeran. Lindquist appointed Peters to the position of Team
 Chief of Team III when he assumed the role of Guild President.
 
-<hr>
-
-23 Assignment of a multi—person homicide case is a vote of confidence in the PCPAO and would be viewed
-favorably for promotion purposes.
-
 Lindquist explained this pattern by observing that leadership qualities are the same
 wherever they manifest themselves, so it makes sense for Guild Presidents to assume leadership
 positions in the office. Farina said that she understood the perception that Guild Presidents have
@@ -1034,16 +1020,20 @@ effective leadership selection tool, or a method of influencing the Guild and co
 it might explain the interest of N ohavec and other Lindquist supporters in seeking the Guild’s
 First Vice President position.
 
-2. Monitoring Guild Activities.
+<hr>
+
+<sup>28</sup> Assignment of a multi—person homicide case is a vote of confidence in the PCPAO and would be viewed
+favorably for promotion purposes.
+
+# See Monitoring Guild Activities
 
 Allegation: The Merrival Complaint fin'ther alleges that “Lindquist monitors all Guild
 
-Summgy of the Factual Findings: Lindquist closely monitored the activities of the
+Summary of the Factual Findings: Lindquist closely monitored the activities of the
 Guild, particularly as they pertained to matters important to him, such as the amicus brief in
-
 Dalsing; and, Lindquist rewarded and retaliated against DPAs’ because of their union activities.
 
-Summm of the Evidence: Lindquist said that he doesn’t ask what goes on in Guild
+Summary of the Evidence: Lindquist said that he doesn’t ask what goes on in Guild
 meetings, but “the information filters up to me.” One senior leader said he has been in
 
 leadership meetings and what happened in Guild meetings was discussed, so the information got
@@ -1073,7 +1063,7 @@ Annie Guttierez said that shortly after the meeting she saw Lindquist in Ruyf’
 thing the following Monday, Penner said that Lindquist called him into his office and asked,
 “What is wrong with Brian Leech,“ saying that Leech argued against the Dalsing amicus brief at
 the Guild meeting. Lindquist told Penner, “Talk to Dawn about moving him back to Remann
-Hall.”29 Penner said he never did talk with Farina; instead, he spoke with Sheeran a few days
+Hall.”<sup>29</sup> Penner said he never did talk with Farina; instead, he spoke with Sheeran a few days
 
 later, who said they were not going to move Leech.
 
@@ -1091,30 +1081,25 @@ seek the Lakewood Municipal Court Judge position. To support his candidacy, Lind
 Blinn from his Misdemeanor Division Chief position to leader of the homicide trial team,
 reclassified the position to a Division Chief to protect Blinn“ s salary, and renamed the position
 “Homicide Chief.“ Penner claimed that Lindquist believed that the title of Homicide Chief
-
 would help Blinn’s judicial application. Penner alleged that Lindquist made the change
 unilaterally and without notice to the Guild, despite the fact that it eliminated a bargaining unit
-
 position.
 
-Summm of the Factual Findings: Lindquist laterally transferred Blinn from his position
+Summary of the Factual Findings: Lindquist laterally transferred Blinn from his position
 as Misdemeanor Division Chief to Homicide Division Chief; Lindquist replaced Blinn with
-
 Lewis and upgraded Lewis“ classification to Division Chief, thereby removing his position from
 the Guild bargaining unit; the PCPAO upgraded Lewis" position unilaterally and without notice
 to the Guild; the evidence suggests that Lindquist’s motive in transferring Blinn was to keep him
 at the PCPAO, but the Homicide Chief position has been a stepping stone to a judgeship, which
-
 Blinn eventually took advantage of.
 
-Summa_ry of the Evidence: According to Lisa Hilligoss, the PCPAO’s Human Resources
+Summary of the Evidence: According to Lisa Hilligoss, the PCPAO’s Human Resources
 Manager, Blinn retained his position and salary as a Division Chief when he moved to the
 homicide position; it was a straight lateral transfer. Instead, the office reclassified Tim Lewis”
-
 County Attorney 3 position when he replaced Blinn as Misdemeanor Division Chief. Farina
 stated in an email to Hilligoss, dated September 24, 2013:
 
-Please draft a letter to Human Resources asking that Tim Lewis (CA3 position) be
+<ul>Please draft a letter to Human Resources asking that Tim Lewis (CA3 position) be
 reclassified to Senior Supervising Deputy Position (Misdemeanor Division
 Chief). Tim is being reassigned to our Misdemeanor Division as its Chief. Please
 state in the letter that Tim will supervise a division that files more than 10,000
@@ -1122,13 +1107,7 @@ case (sic) per year, with a staff of more than 29. Double check on the number of
 staff in the misdemeanor division. Please also state that we will absorb the costs
 in our 2013/2014 budget. Cindy can give you the cost of the reclass.
 Grant will be keeping his position and moving to the Homicide Team where he
-will be the lead attorney overseeing the homicide unit.
-
-<hr>
-
-29 Remann Hall houses the Juvenile Division and is reputedly where Lindquist transfers DPAs who are considered
-“malcontents.” See, Section V., infra.
-
+will be the lead attorney overseeing the homicide unit.</ul>
 
 Hilligoss admitted that the move was made unilaterally by the office, without notice to the Guild,
 with the effect of eliminating a position in the bargaining unit, the County Attorney 3 position
@@ -1138,17 +1117,25 @@ Regarding Lindquist’s motive for moving Blinn, Sheeran, Blinn’s brother-in�
 know this one pretty well — it was not done to promote Blinn’s judgeship; Mark wanted him to
 stay and gave him the position to encourage him to stay.” Sheeran said that Blinn took the
 position because it was interesting and he could try any homicide case in the office, but
-eventually Blinn “jumped” to the judiciary.30 Lindquist and Farina both confirmed that they
+eventually Blinn “jumped” to the judiciary.<sup>30</sup> Lindquist and Farina both confirmed that they
 made the move to encourage Blinn to stay with the PCPAO.
 
 That said, the movement from Homicide Chief to the judiciary is a phenomenon similar
 to the movement from Guild President to PCPAO leadership described above. Kevin McCann
 and Jerry Costello, who preceded Blinn, both moved from the Homicide Chief position to
-judgeships in Lakewood Municipal Court and Pierce County Superior Court respectively.31
+judgeships in Lakewood Municipal Court and Pierce County Superior Court respectively.<sup>31</sup>
 Undoubtedly, it was this history that caused many witnesses to speculate that Lindquist moved
 Blinn into the position to be next in line.
 
-E. Violation of Family Leave Act
+<hr>
+
+<sup>29</sup> Remann Hall houses the Juvenile Division and is reputedly where Lindquist transfers DPAs who are considered
+“malcontents.” See, Section V., infra.  
+<sup>30</sup> I did not interview Blinn because I was advised that he preferred not to participate, but would cooperate fully and
+honestly, if asked. I chose to honor his preference.  
+<sup>31</sup> The position was not classified as a Division Chief when McCann and Costello occupied it.
+
+# See Violation of Family Leave Act
 
 Allegation: The Penner Complaint alleged that Lindquist directed then Criminal Deputy
 Phil Sorenson to contact DPA Jared Ausserer, then SAU Team Chief, to return to the office from
@@ -1161,13 +1148,6 @@ Summary of the Evidence: Farina continued that Ausserer’s leave began on Decem
 cases until his leave ended on March 15, 2014. Farina further stated that the office did not
 instruct Ausserer to return to the office before his leave ended; he made the final charging
 decision after he came back.
-
-<hr>
-
-3” I did not interview Blinn because I was advised that he preferred not to participate, but would cooperate fully and
-honestly, if asked. I chose to honor his preference.
-31 The position was not classified as a Division Chief when McCann and Costello occupied it.
-
 
 Ausserer said that he told Lindquist that he planned to take a 3-month leave of absence
 and would return to the office one or two times a week to keep up with his cases. As it turned
@@ -1195,7 +1175,7 @@ direction on a day he was planning to visit the office anyway. He refused to re�
 Dalsing at that time, as Farina requested. He re-iiled them when he returned to work in mid-
 March after his leave.
 
-F. Violation of State and Federal Employment Laws
+# See Violation of State and Federal Employment Laws
 
 Both the Merrival and Penner Complaints contain numerous allegations of employment
 law violations. I will review those in the Merrival Complaint first, followed by the Penner
@@ -1218,7 +1198,7 @@ complaints came up: "I don't make the decisions; Dawn doesn't make the decisions
 pepulation of DPAs in the office is improving, and the population in the Misdemeanor Division
 in particular is on par with the local community.
 
-Summgy of the Evidence: Regarding the issue of minorities in leadership, Hilligoss said
+Summary of the Evidence: Regarding the issue of minorities in leadership, Hilligoss said
 that DPA James Curtis, who is African American, is Chair of the PCPAO’s Diversity
 Committee. In that capacity, she said that he attends the Team Chief meetings and the two
 leadership team meetings (a full day in the spring; 2%: days in the fall). While Curtis
@@ -1253,9 +1233,9 @@ l. Culturally Insensitive Remarks.
 Allegation: Merrival alleged that Lindquist made the following culturally insensitive
 remarks.
 
-Summgy of the Factual Findings: The evidence does not support the allegation.
+Summary of the Factual Findings: The evidence does not support the allegation.
 
-Summa_ry of the Evidence: The evidence of each alleged remark is summarized below.
+Summary of the Evidence: The evidence of each alleged remark is summarized below.
 
 a. “Are you going to the casino?” Merrival (a tribal member)
 alleged that Lindquist asked him this when they pass outside the courthouse. Lindquist agreed
@@ -1272,7 +1252,7 @@ persons participated 1n the conversation.
 
 c. “Tribal loyalty.” Merrival alleged that Lindquist refered to “tribal
 loyalty“ in his annual Speech to the office, ten, “people in the office need to stick together, those
-who do will succeed.“ Lindquist said that Peggy Noonan33 ends one of her books, “Be good to
+who do will succeed.“ Lindquist said that Peggy Noonan<sup>33</sup> ends one of her books, “Be good to
 your tribe,” a concept he finds useful and has used. Many witnesses confirmed that Lindquist
 relies on various business leadership books to guide his management of the office.
 
@@ -1298,25 +1278,26 @@ environment in the office. He said that, as the appellate courts have issued opi
 the use of PowerPoint in closing arguments, the Appeals Division Chief, Kit Proctor, has sent out
 emails admonishing DPAs about the use of PowerPoint and urging them to read the cases.34
 
-33 Peggy Noonan is an American author of several books on politics, religion, and culture, and a weekly columnist
+<hr>
+
+<sup>33</sup> Peggy Noonan is an American author of several books on politics, religion, and culture, and a weekly columnist
 for The Wall Street Journal.
-
-3“ DPA Annie Guttierez recalled that DPAs in the Misdemeanor Division have received training on the use of
+<sup>34</sup> DPA Annie Guttierez recalled that DPAs in the Misdemeanor Division have received training on the use of
 PowerPoint in closing arguments.
-
-3. Assigning DPA James Curtis to Prosecute a Predominately African
+<sup>35</sup> Assigning DPA James Curtis to Prosecute a Predominately African
 American Caseload.
+
+# See Race in Work Assignments
 
 Allegation: Merrival said that he believes Curtis, an African American DPA, has been
 pigeon-holed because of his race.
 
-Summw of the Factual Findings: Curtis is on the Gang Team at his own request
+Summary of the Factual Findings: Curtis is on the Gang Team at his own request
 because he wants to litigate Class A felonies and violent crimes and to help the Hilltop
-
 community where he lives. The PCPAO did not assign him to prosecute gangs because of his
 race.
 
-Summgy of the Evidence: Curtis works on the Gang Team prosecuting crimes
+Summary of the Evidence: Curtis works on the Gang Team prosecuting crimes
 committed by gangs, including Black gangs in the Hilltop area of Tacoma. He said that the
 allegation offended him and it was wrong to suggest that he targeted defendants based on race.
 Curtis recalled that he worked on his first gang case in the drug unit with Penner that involved a
@@ -1339,7 +1320,7 @@ Allegation: The Merrival Complaint alleged that leadership forced out a Hispanic
 for failing to prosecute cases aggressively, yet did not similarly target a Caucasian DPA who
 lacked aggressiveness, but displayed a Lindquist campaign poster in his office.35
 
-Summgy of the Factual Findings: Lindquist engaged in active performance management
+Summary of the Factual Findings: Lindquist engaged in active performance management
 of a Hispanic DPA who, by all accounts, had serious performance issues; the Caucasian DPA
 
 also had performance issues, but Lindquist did not take personnel action against him because he
@@ -1359,23 +1340,20 @@ his shortcomings because he was getting ready to retire.
 
 <hr>
 
-35 It is unclear whether the allegation is disparate treatment because of race or political activity.
+<sup>35</sup> It is unclear whether the allegation is disparate treatment because of race or political activity.
 
-
-
-‘5. Older DPAs Don’t Have a Future in the Office.
+# See Older DPAs Don’t Have a Future in the Office.
 
 Allegation: The Merrival Complaint alleged that Lindquist made statements to the effect
 that he keeps older DPAs around to cultivate the careers of younger ones.
 
-Summa_ry of the Factual Findings: Lindquist told a long-term prosecutor, “We are here to
+Summary of the Factual Findings: Lindquist told a long-term prosecutor, “We are here to
 cultivate the careers of younger attorneys. I expect you to assist.” The remark was made in the
 context of the transfers of the long-term DPA to try Class B/C felonies, and the transfer of a
 relatively inexperienced DPA, who was Lindquist’s campaign manager, to try Class A felonies,
-
 an assignment she sought.
 
-Summm of the Evidence: According to DPA Kawyne Lund, Lindquist made a similar
+Summary of the Evidence: According to DPA Kawyne Lund, Lindquist made a similar
 statement to her. Land is a County Attorney 4 who has been with the PCPAO since 1980. In
 2012, she was transferred against her wishes to the Appeals unit. Lund said she wanted to get
 back to a trial unit from the beginning of the assignment and finally got the word from Penner in
@@ -1383,7 +1361,6 @@ July 2014 that she was moving to Team 1 to prosecute Class B/ C felonies. Initia
 ecstatic with the transfer because she assumed that there was no opportunity to try Class A
 felonies, but learned later that day that DPA Jim Schacht was being transferred to Appeals and
 Bryce Nelson was replacing Schacht on Class A felonies. She expressed her displeasure to
-
 Penner, who said, “We have to give these young attorneys a chance.” Lund said she responded,
 “Why can’t he wait like the rest of us did?”
 
@@ -1417,10 +1394,10 @@ surround himself with physically attractive people; he offers jobs and assignmen
 people over potentially more qualified candidates; and, he jokingly used the phrase, “the person
 meets our hiring criteria,” as a euphemism for being physically attractive.
 
-Summgy of the Factual Findings: Lindquist has made remarks about the physical
+Summary of the Factual Findings: Lindquist has made remarks about the physical
 appearance of candidates and appearance is a factor in his decision-making.
 
-Summgy of the Evidence: Penner said the Lindquist has commented a couple of times,
+Summary of the Evidence: Penner said the Lindquist has commented a couple of times,
 “She meets our hiring criteria,” followed by a laugh, referring to the candidate’s appearance.
 Lindquist denied commenting on a candidate’s physical appearance, but said he has expressed
 the opinion that it is important to hire people who present well in court. Physical appearance is
@@ -1484,7 +1461,7 @@ Assistant, soon after she started. Conlee told him that she was hired as an extr
 assistant and shortly afterwards was hired to do communications work. Lindquist recalled that
 he wanted to “open [the hiring process] up,” but Farina said that she had a good person for the
 position who was articulate and a good writer. Farina said that Conlee was a volunteer legal
-assistant, but had done some communications work in a previous job.36 Farina said the move
+assistant, but had done some communications work in a previous job.<sup>36</sup> Farina said the move
 was a band aid fix; HR Manager Becky Stover had been doing both HR and communications and
 the office wanted to split the jobs. Stover said she was happy to focus on just one job and
 Conlee was competent and capable with relevant experience. Lindquist’s assistant, Kelly
@@ -1538,27 +1515,26 @@ to hire another male temporary, who both she and Lewis said was a very good lawy
 
 <hr>
 
-3‘5 Conlee’s resume indicates that she “Designed and drafted content for the website and for advertising brochures”
+<sup>36</sup> Conlee’s resume indicates that she “Designed and drafted content for the website and for advertising brochures”
 for the law firm that employed her immediately prior to her job at the PCPAO.
 
 
+# See The Trifecta
 
 This allegation and hiring process presents an opportunity to explain more fully the
 “trifecta,” the criteria Lindquist uses to assess the performance of his staff. As noted, Lindquist
 implemented a new performance evaluation form that emphasized a set of “core values,” which
 have come to be known as the “trifecta:”
 
-I Good Worker — Consistently carries out duties of the job, meets expectations, and
+<ul><li>Good Worker — Consistently carries out duties of the job, meets expectations, and
 performs professionally.
-
-I Good Colleague - Consistently promotes good will, supports co-workers, and
+<li>Good Colleague - Consistently promotes good will, supports co-workers, and
 treats them respectfully and professionally.
-
-I Good Emissa_ry for the Office — Consistently represents the office well with
+<li>Good Emissary for the Office — Consistently represents the office well with
 members of the justice system and the community at large, advances goals of the ofiice, and acts
-professionally.
+professionally.</ul>
 
-Note that only one of these three values focuses on good work; two of them instead focus
+Note that <mark>only one of these three values focuses on good work</mark>; two of them instead focus
 on relationships, both within and outside the office. In the case of the Misdemeanor hiring
 process, Lindquist emphasized the fact that the successful candidate was a good colleague, in. ,
 she got along well with her coworkers. I find that the candidate’s “cute” appearance for
@@ -1570,7 +1546,7 @@ person can learn trial skills, but not the ability to be a good colleague and a 
 
 <hr>
 
-37 Notably, being a good trial attorney does not appear to be a factor in Lindquist‘s assessment of whether a DPA is
+<sup>37</sup> Notably, being a good trial attorney does not appear to be a factor in Lindquist‘s assessment of whether a DPA is
 a good emissary of the PCPAO.
 
 
@@ -1586,19 +1562,17 @@ enjoyed his position and never sought a. leadership position. Penner's Complaint
 that Lindquist stated at leadership meetings that Merrival had a “meltdown” and was not acting
 “adult or mature.” Penner and Greer advised Lindquist to stop criticizing Merrival publicly.
 
-Summgy of the Factual Findings: The PCPAO issued statements to the press after
+Summary of the Factual Findings: <mark>The PCPAO issued statements to the press after
 Merrival filed his Complaint that he was disgruntled and unhappy because he was passed over
 for leadership positions; the PCPAO’s statements were inaccurate and intentionally misleading;
 Lindquist intended that the description of Merrival as a disgruntled employee would place him in
-a negative light and thereby minimize the impact of the Complaint on himself and the PCPAO.
+a negative light and thereby minimize the impact of the Complaint on himself and the PCPAO.</mark>
 
 Summary of the Evidence: Greer said that leadership gathered to respond to the TNT’s
 request for a comment about the Merrival Complaint, which was the office’s first notice of it.
-
 She said that the two statements were based on the group’s knowledge of Merrival’s employment
-
-history, 113., no one reviewed his employee file. Lindquist asked her to issue the written
-statement because the Chief of the Civil Division was not available.33
+history, _i.e._, no one reviewed his employee file. Lindquist asked her to issue the written
+statement because the Chief of the Civil Division was not available.<sup>38</sup>
 
 All leadership witnesses said that the characterization of Merrival as being “disgruntled”
 for being passed over was based on two things: (1) a statement by Merrival in the Complaint
@@ -1621,27 +1595,18 @@ included the following quote from him: “I’m not a disgruntled employee. I’
 committed to justice here.” Merrival said that he never sought appointment to Mark Lindquist’s
 administration — he did not want “any part of Mr. Lindquist’s administration.”
 
-
-<hr>
-
-3“ Greer pointed out that her written statement did not use the word, “disgruntled;“ the TNT article quoted her as
-saying Merrival was “unhappy that he has been passed over for leadership positions.” “Staffer Files Whistleblower
-Complaint Against Pierce County Prosecutor Mark Lindquist,” Tacoma News Tribune, May 13, 2015.
-
-
-HR Manager Lisa Hilligoss could not recall leadership referring to Merrival negatively
-until his complaint. She said that leadership has said that Merrival “retired on the job,“ but
+<mark>HR Manager Lisa Hilligoss could not recall leadership referring to Merrival negatively
+until his complaint.</mark> She said that leadership has said that Merrival “retired on the job,“ but
 indicated he was doing a “decent enough job.“ Hilligoss further stated that she sits at the table
 when promotions discussed and was not aware that Merrival was ever upset for not being
 promoted. Another DPA said that Lindquist always praised Merrival for the number of cases
 that he processed in the drug unit and said that iabeiing him “disgruntled” was “embarrassing.“
 One senior leader said that the label was Lindquist’s “sound bite” for Merrival.
 
-Multiple witnesses also confirmed that Lindquist said in a leadership meeting that
+<mark>Multiple witnesses also confirmed that Lindquist said in a leadership meeting that
 Merrival had a “meltdown.“ This statement is similar to what Lindquist was reported to have
-
 said when Robnett went on leave of absence and then quit her position as Chief Criminal
-Deputy, 1'. e. , that she had a “breakdown.”
+Deputy, 1'. e. , that she had a “breakdown.”</mark>
 
 <mark>I find that the PCPAO’s statements to the press in response to Merrival’s complaint were
 inaccurate and intentionally misleading.</mark> At most, Merrival’s Complaint and his statement to
@@ -1655,7 +1620,14 @@ grievances and injustices. I conclude that Lindquist used the “sound bite” o
 disgruntled employee to place him in a negative light and thereby minimize the impact of the
 Complaint on himself and the PCPAO.</mark>
 
-2. Steve Penner.
+<hr>
+
+<sup>38</sup> Greer pointed out that her written statement did not use the word, “disgruntled;“ the TNT article quoted her as
+saying Merrival was “unhappy that he has been passed over for leadership positions.” “Staffer Files Whistleblower
+Complaint Against Pierce County Prosecutor Mark Lindquist,” Tacoma News Tribune, May 13, 2015.
+
+
+# See Steve Penner
 
 Allegation: The Penner Complaint alleged that Penner suggested to Lindquist that he
 stop criticizing Merrival publicly, and that Lindquist’s comments could be the basis of a
@@ -1664,11 +1636,11 @@ leadership regarding Merrival and Farina criticized him for a comment supportive
 posted by his fiance on a TNT site.
 
 Summary of the Factual Findings: Penner told Lindquist that he should stop criticizing
-Merrival publicly; Penner’s resistance to labeling Merrival and Penner fiance’s support of him
+Merrival publicly; <mark>Penner’s resistance to labeling Merrival and Penner fiance’s support of him
 precipitated Lindquist to confront Penner about whether Penner should remain a senior leader in
-the office.
+the office.</mark>
 
-Summa_ry of the Evidence: Penner said he commented in a senior leadership meeting that
+Summary of the Evidence: Penner said he commented in a senior leadership meeting that
 they needed to stop criticizing Merrival publicly and shouldn’t use the word “meltdown.”
 
 During the meeting, Penner said that Farina chastised him about his fiance’s statement in the
@@ -1679,7 +1651,7 @@ take a walk with him and mentioned again that Penner was not showing leadership.
 afternoon Lindquist told Penner that the Chief of the Criminal Division might not be the best
 position for him. Lindquist asked Penner how many hours he worked and Penner responded that
 he worked 35-40 hours a week. Lindquist replied that it was not enough — he should be working
-50-60 hours a week.39
+50-60 hours a week.<sup>39</sup>
 
 Lindquist said that after the Merrival Complaint he told Penner that “now is the time for
 the Chief Criminal Deputy to step up and keep the staff focused on the mission at hand and avoid
@@ -1687,7 +1659,6 @@ the distractions." He further stated that the job cannot be done in 30-35 hours 
 people who are passionate about the office. When Penner said he cared about justice, Lindquist
 said he responded, “If you don’t put the time in, then use of the word “j ustice” is just a
 platitude.” Lindquist said that he expected Penner to offer to step up and work harder, but he did
-
 not hear that from him. Finally, Lindquist said that he had similar conversations with Penner
 previously.
 
@@ -1713,38 +1684,37 @@ however, that <mark>Penner’s resistance to labeling Merrival and his fiance’
 precipitated Lindquist to confront Penner about whether Penner should remain a senior leader in
 the office.</mark>
 
-35' The PCPAO is on a 35-hour workweek.
+<hr>
 
-4” Farina also acknowledged that Penner’s personal situation had affected his hours of work.
-
-“1 See “Preliminary Response to Grievance by Michael Ames, John Cain, and Steven Merrival against Pierce County
+<sup>39</sup> The PCPAO is on a 35-hour workweek.  
+<sup>40</sup> Farina also acknowledged that Penner’s personal situation had affected his hours of work.  
+<sup>41</sup> See “Preliminary Response to Grievance by Michael Ames, John Cain, and Steven Merrival against Pierce County
 Prosecutor Mark Lindquist and Pierce County Prosecutor’s Office Chief of Staff Dawn Farina,” pp. 1T-1 8.
 
-II. Abuse of Authority
+
+# See Abuse of Authority
 
 A. Media Statements Conveying Guilt
 
 Allegation: The Merrival Complaint alleged that Lindquist made statements to
 the media that conveyed the guilt of criminal defendants (citing examples).
 
-Summa_ry of the Factual Conclusions: Interpreting and applying the Rules of
-Professional Conduct {“RPC”} is beyond the scope of this investigation.
+Summary of the Factual Conclusions: <mark>Interpreting and applying the Rules of
+Professional Conduct {“RPC”} is beyond the scope of this investigation.</mark>
 
-Summgy of the Evidence: The allegation requires a legal analysis under the
+Summary of the Evidence: The allegation requires a legal analysis under the
 Rules of Professional Conduct. For example, RPC 3.6 Trial Publicity, subsection (a),
 provides:
 
 “A lawyer who is participating or has participated in the investigation or litigation
 of a matter shall not make an extrajudicial statement that the lawyer knows or
 reasonably should know will be disseminated by means of public communication
-
 and will have substantial likelihood of materially prejudicing an adjudicative
 proceeding in the matter.”
 
-RPC 3.8(f) also provides, in part, that a prosecutor shall “refrain from making
-
+[RPC 3.8(f)](rpc38.html) also provides, in part, that a prosecutor shall “refrain from making
 extrajudicial comments that have a substantial likelihood of heightening public
-condemnation of the accused. . . I”
+condemnation of the accused. . .”
 
 Lindquist said that he is acquainted with the RPCs and that public statements by
 him should be limited to the public record, including the affidavit of probable cause that
@@ -1752,74 +1722,97 @@ accompanies any criminal charges. Before making a statement, Lindquist said that
 reads the affidavit and uses only information in it that is admissible. Heather Songer, the
 office’s Communications Assistant, confirmed that Lindquist restated facts contained in
 the affidavit. Penner said that Lindquist told him that he should put information about the
-
-defendant’s criminal history in the probable cause summary so that Lindquist could tell
-the media about it.
+defendant’s criminal history in the probable cause summary <mark>so that Lindquist could tell
+the media about it.</mark>
 
 In any event, <mark>interpreting and applying the RPCs is beyond the scope of this
 investigation, so I will refrain from addressing the allegation.</mark> However, I requested
 copies all of the PCPAO’s public statements, which Songer provided to me on the disk
 attached as Exhibit 5. I understand that this allegation is a subject of a complaint to the
 Washington State Bar Association (“WSBA”), which has the jurisdiction and expertise to
-adjudicate it.42
+adjudicate it.<sup>42</sup>
 
-42 See also, Karen Peterson: “Prosecutors, Not TNT, Doing the Misleading,” Tacoma News Tribune, August 15,
-2015:
+<sup>42</sup> See also, Karen Peterson: “Prosecutors, Not TNT, Doing the Misleading,” Tacoma News Tribune, August 15, 2015.
 
-B. Exercising Undue Influence Over Media Coverage
+# See Exercising Undue Influence Over Media Coverage
 
 Allegation: The Merrival Complaint alleged that Lindquist “expends inordinate public
 resources” to secure favorable media coverage “that best promotes Lindquist or his version of
 events, and disparages his adversaries.”
 
-Summgy of the Factual Findings: Lindquist has not exercised “undue influence over
-media coverage;” however, Lindquist spends a substantial amount of time attempting to shape
-
+Summary of the Factual Findings: Lindquist has not exercised “undue influence over
+media coverage;” however, <mark>Lindquist spends a substantial amount of time attempting to shape
 the media’s coverage of himself and the PCPAO; and, the amount of time and effort Lindquist
+expends to secure favorable media coverage is greater than previous Pierce County Prosecutors
+and more than any other elected official who interacts with the TNT.</mark>
 
-expends to secure favorable media coverage 1“ greater than previous Pierce County Prosecutors
-and more than any other elected official who interacts with the TNT.
-
-Summa_ry of the Evidence: Lindquist said that he wants the public to know what the
+Summary of the Evidence: Lindquist said that he wants the public to know what the
 PCPAO is doing and why, which is the reason that he and the DPAs often appear in the media.
 
 He further stated that the office is very seldom misrepresented in the media, but when DPAs say
 that media coverage is inaccurate, he will give them a chance to set the record straight.
 
-Clearly, however, Lindquist’s media activity is a departure from the past. One PCPAO
+Clearly, however, Lindquist’s media activity is a <mark>departure from the past. One PCPAO
 staff person, who has worked for multiple Prosecutors, observed that the PCPAO was “more
-political" under Lindquist. The staff person noted that former Prosecutor Gerald Horne seldom
+political" under Lindquist.</mark> The staff person noted that former Prosecutor Gerald Horne seldom
 put out a press release (generally pertaining only to officer—involved incidents). In contrast,
 Lindquist took the position “from day one” that the office was going to communicate actively
 with the public. Each member of Lindquist’s senior leadership recalled making trips with him to
 the TNT’s offices, either to review stories that were slated for publication or, more frequently, to
-respond to stories, usually involving the Dalsing or Nissan cases.
+respond to stories, usually involving the Dalsing or Nissen cases.
 
-I contacted Karen Peterson, Executive Editor of the TNT, to get her response to
-this allegation, but she declined to speak with me. However, the TNT ran a column she
-wrote on August 15, 2015 in response to a Facebook post by Ausserer. Ms. Peterson
-noted, “Since he took office in 2009, Lindquist has been far quicker than any public
-official we deal with to pick up the phone and complain about a story.” In particular, she
-recounted numerous meetings with Lindquist about the Dalsing matter, “with hour-long
-phone calls to the reporter and editors, sometimes during work hours, sometimes late at
-night.” Lindquist generally recalled the meetings Ms. Peterson described in her column
-and said he “may have called the 'INT between 7:00 am. and 8:00 pm.” <mark>Lindquist’s
-“pattern” led Ms. Peterson to conclude, “This was no longer about correcting the record,
-but shaping it.”</mark> Finally, in response to this specific allegation in the Merrival Complaint,
-Ms. Peterson wrote:
+I contacted Karen Peterson, Executive 
+Editor of the TNT, to get her response 
+to this allegation, but she declined to 
+speak with me. However, the TNT ran a 
+column she wrote on August 15, 2015 in 
+response to a Facebook post by 
+Ausserer. Ms. Peterson noted, “Since he 
+took office in 2009, Lindquist has been 
+far quicker than any public official we 
+deal with to pick up the phone and 
+complain about a story.” In particular, 
+she recounted numerous meetings with 
+Lindquist about the Dalsing matter, 
+“with hour-long phone calls to the 
+reporter and editors, sometimes during 
+work hours, sometimes late at night.” 
+Lindquist generally recalled the 
+meetings Ms. Peterson described in her 
+column and said he “may have called the 
+'INT between 7:00 am. and 8:00 pm.” 
+<mark>Lindquist’s “pattern” led Ms. 
+Peterson to conclude, “This was no 
+longer about correcting the record, but 
+shaping it.”</mark> Finally, in 
+response to this specific allegation in 
+the Merrival Complaint, Ms. Peterson 
+wrote:
 
-We published this quote from Lindquist in a June 20 story: “The Prosecutor’s Ofnce retiled
+<ul>We published this quote from Lindquist in a June 20 story: “The Prosecutor’s Ofnce retiled
 charges against Lynn Dalsing when it learned she knew her husband was sexually abusing their
 daughter, and she facilitated this abuse by continuing to leave her daughter alone with him.”
 
 As with quotes made by deputy prosecutors in other stories, it was an allegation stated as a fact.
 And this one came after charges against Dalsing were dismissed.
 
-His continued pressing to influence our coverage might not violate the law, and
-anyone who is the subject of contentious coverage is welcome to be heard by
-editors before or after publication. But the degree and persistence of his time
-spent on his image may concern the citizens who pay his salary. Prosecutors are
-Spending a lot of time doing this on the clock.“13
+His continued pressing to influence our 
+coverage might not violate the law, and 
+anyone who is the subject of 
+contentious coverage is welcome to be 
+heard by editors before or after 
+publication. But the degree and 
+persistence of his time spent on his 
+image may concern the citizens who pay 
+his salary. Prosecutors are Spending a 
+lot of time doing this on the 
+clock.“<sup>43</sup></ul>
+
+<hr>
+
+<sup>43</sup> “Karen Peterson: Prosecutors, Not TNT, Doing the Misleading,” Tacoma News Tribune, August 15, 2015.  
+
+# See Media Focus
 
 Mary Robnett, Lindquist’s former Chief Criminal Deputy, observed <mark>"A lot of stuff he
 does is political; before he took over, the office was business; now it is ‘how is this going to
@@ -1842,49 +1835,73 @@ coverage of himself and the PCPAO; and, the amount of time and effort Lindquist 
 secure favorable media coverage” is greater than previous Pierce County Prosecutors and more
 than any other elected official the TNT deals with.</mark>
 
-C. Disregard of Apparent Conflicts of Interest
+# See Disregard of Apparent Conflicts of Interest
 
-Allegation: The Merrival Complaint alleged that Lindquist intervened individually as a
-party in the Nissan case (involving work texts on Lindquist’s personal phone), represented by
-attorney Stewart Estes of the Keating, Bucklin & McCormack, Inc. law firm. The Complaint
-claimed that Estes argued on Lindquist’s behalf against the County’s interests in fulfilling its
+Allegation: The Merrival Complaint 
+alleged that Lindquist intervened 
+individually as a party in the Nissen 
+case (involving work texts on 
+Lindquist’s personal phone), 
+represented by attorney Stewart Estes 
+of the Keating, Bucklin & McCormack, 
+Inc. law firm. The Complaint claimed 
+that Estes argued on Lindquist’s behalf 
+against the County’s interests in 
+fulfilling its
+PRA obligations, while representing the 
+County in other matters for which his 
+firm has been paid hundreds of 
+thousands of dollars.
 
-PRA obligations, while representing the County in other matters for which his firm has been paid
-hundreds of thousands of dollars.
-
-Findings of Fact: Estes represents Lindquist in the Nissan PRA litigation on a pro bono
-basis;“14 he has represented Lindquist in the Nissan case at the same time he has represented the
-County in other matters;45 neither Estes nor his firm represented the County during Lindquist’s
-administration prior to Estes“ appearance on behalf of Lindquist in December 2011; since that
-time, the County has paid Estes’ firm $5 87,268.63 for legal work on behalf of the County and
-Estes has represented the County in Dalsirig v. Pierce County, Ames v. Pierce County, Wright v.
-Pierce County, and matters concerning the marijuana initiative.
-
+Findings of Fact: Estes 
+represents Lindquist in the Nissen PRA 
+litigation on a pro bono 
+basis;<sup>44</sup> he has represented 
+Lindquist in the Nissen case at the 
+same time he has represented the County 
+in other matters;<sup>45</sup> neither 
+Estes nor his firm represented the 
+County during Lindquist’s 
+administration prior to Estes' 
+appearance on behalf of Lindquist in 
+December 2011; <mark>since that time, 
+the County has paid Estes’ firm 
+$587,268.63 for legal work on behalf of 
+the County</mark> and Estes has 
+represented the County in Dalsing v. 
+Pierce County, Ames v. Pierce County, 
+Wright v. Pierce County, and matters 
+concerning the marijuana initiative.
 
 <hr>
 
-43 “Karen Peterson: Prosecutors, Not TNT, Doing the Misleading,” Tacoma News Tribune, August 15, 2015.
-4“ Representing a client without charge.
+<sup>44</sup> Representing a client without charge.  
+<sup>45</sup> Estes’ alleged conflict of interest is a question of law, which I do not address in this report.
 
-45 Estes’ alleged conflict of interest is a question of law, which I do not address in this report.
+# See Evidence of Conflict of Interest
 
-
-
-
-Summgy of the Evidence: Lindquist said that when Nissen requested his personal cell
-phone records, the PCPAO’s Civil Division advised him not to turn them over. He wanted to be
-
-transparent and turn over more records than the Civil Division advised him to release, but when
-Nissen later modified the request to include “all telephone records,” he agreed to oppose the
-request. Lindquist said that the PCPAO represented the PCPAO and the County in the
-subsequent litigation?6 He believed that the Civil Division discussed the litigation and the
-PCPAO’S representation of Pierce County with the County’s Risk Management Department.
+Summary of the Evidence: Lindquist said 
+that when Nissen requested his personal 
+cell phone records, the PCPAO’s Civil 
+Division advised him not to turn them 
+over. He wanted to be transparent and 
+turn over more records than the Civil 
+Division advised him to release, but 
+when Nissen later modified the request 
+to include “all telephone records,” he 
+agreed to oppose the request. Lindquist 
+said that the PCPAO represented the 
+PCPAO and the County in the subsequent 
+litigation.<sup>46</sup> He believed that the Civil 
+Division discussed the litigation and 
+the PCPAO’S representation of Pierce 
+County with the County’s Risk 
+Management Department.
 
 Lindquist said that the Civil Division’s Litigation Team Lead, Dan Hamilton, wanted
 Lindquist to intervene in the action to assert his constitutional rights, which he ultimately agreed
 to do. The Civil Division recommended that he retain Stewart Estes to represent him. Lindquist
 insisted that the County “has not paid a dime” to Estes and his firm because Estes has worked for
-
 him on a pro bono basis. Lindquist believed that Estes first appeared on his behalf in the
 litigation in December 2011.
 
@@ -1892,15 +1909,14 @@ Farina said that she was present when Hamilton insisted that Lindquist intervene
 Nissen litigation. She recalled that Lindquist did not want to be a party but finally agreed.
 
 Regarding representation of the County, Farina stated that the Civil Division would not normally
-
 go to the County (e.g., the Risk Management Department) to get approval to appear on the
 County’s behalf in litigation.
 
 Hamilton said that he “worked over” Lindquist to convince him to intervene in
-the litigation. Hamilton was concerned about an earlier PRA case” and believed that
+the litigation. Hamilton was concerned about an earlier PRA case<sup>47</sup> and believed that
 Lindquist needed to be a party to assert various federal constitutional law claims.
 Hamilton said that Lindquist originally was willing to give up all of his private cell phone
-records (“as a politician, he didn’t seem to min ”), so the only reason Lindquist would
+records (“as a politician, he didn’t seem to mind”), so the only reason Lindquist would
 get involved in the case was to help the County. He pitched the idea to Lindquist of him
 intervening with Estes as his counsel, so long as Estes was willing to do it on a pro bono
 basis. Hamilton thought it would be a difficult sell if Lindquist had to pay Estes
@@ -1912,21 +1928,11 @@ recalled that Estes first appeared in the litigation in November or early Decemb
 He said that there was no quid pro quo offered to Estes to represent Lindquist because the
 County had no cases in the pipeline to offer him.
 
-<hr>
-
-4'5 The defendants in the Nissen litigation included Pierce County, the PCPAO and Lindquist.
-
-47" O'Neill v. City of Shoreline, 170 Wn.2d 138 (2010) (an electronic version of a document stored on a personal
-computer, including its embedded metadata, is a public record subject to disclosure).
-
-
-
 Hamilton also noted that the County’s and Lindquist’s interests were “cheek to
-jow .” He said it was in the County’s interest to protect the private records of all County
+jowl.” He said it was in the County’s interest to protect the private records of all County
 employees, whether it was Lindquist or another County employee, so it never dawned on
 him or others that there may be a conflict between them. Hamilton went on to say that
 their interests could diverge if the County wanted to give up Lindquist’s phone records,
-
 but it was the Prosecutor’s decision whether the County continued to oppose the record
 request.
 
@@ -1936,48 +1942,59 @@ against the County alone. If an individual employee is alleged to have committed
 tort, then his/her department is involved in making decisions about litigation strategy, but
 not litigation tactics. Also, if money is involved, then the Risk Management Department
 must be consulted because it is reSponsible for making payments. Hamilton explained
-that in the Nissan litigation, Lindquist was the individual personally involved as a named
-
+that in the Nissen litigation, Lindquist was the individual personally involved as a named
 defendant in the litigation, but he was also the head of the affected department, so he was
-the Civil Division’s “clien .”
+the Civil Division’s “client.”
 
 Pierce County Risk Manager Mark Maenhout said he asked Hamilton who
-represented the County in Nissan and Hamilton responded that the PCPAO was
+represented the County in Nissen and Hamilton responded that the PCPAO was
 responsible for making decisions about the case. Consequently, Maenhout said the Civil
-Division has kept him at an arms-length regarding Nissan matters and all decisions about
+Division has kept him at an arms-length regarding Nissen matters and all decisions about
 defense of the case. For example, he has had no discussions with the Civil Division
-about settlement of the Nissan litigation because “they manage the litigation." He noted
+about settlement of the Nissen litigation because “they manage the litigation." He noted
 that the County Code states that the Prosecutor or his/her designee and the Risk
 Management Department must both sign an agreement to settle a civil case, so the
-County could not settle Nissan without the Prosecutor’s approval (or visa versa).
+County could not settle Nissen without the Prosecutor’s approval (or visa versa).
 
 Regarding Lindquist’s retention of Estes as his individual counsel, Maenhout said that he
 first became aware of Estes’ involvement at the oral argument before the Washington Supreme
 Court. Maenhout said that neither Estes nor his firm had represented the County, at least during
 Lindquist’s administration, prior to Estes’ appearance on behalf of Lindquist in December
-2011.48 Since that time, the County has paid Estes“ firm $587,268.63 for legal work on behalf of
-the County, and Estes has performed work for the County in the following matters: Dolsing v.
-
-Pierce County, Amas v. Pierce County, Nissan 12. Pierce County, Wright v. Pierce County, and
+2011.<sup>48</sup> Since that time, the County has paid Estes“ firm $587,268.63 for legal work on behalf of
+the County, and Estes has performed work for the County in the following matters: Dalsing v.
+Pierce County, Ames v. Pierce County, Nissen 12. Pierce County, Wright v. Pierce County, and
 issues involving the marijuana initiative.
-
-D. Improper Use of Public Resources
-
-The Merrival Complaint made numerous allegations that generally portray the PCPAO as
-a politicized work environment. By way of context, numerous witnesses drew comparisons
-between the Lindquist administration and those of his predecessors. For example, one Team
-Chief said that politics under Lindquist’s administration is “more to the forefront” than under
-Prosecutors Ladenburg or Horne, who had strict policies that DPAs do their job and politics
-didn’t matter. A long-term DPA added that during Ladenburg’s two election campaigns, he told
-the DPAs he did not want their financial support or their volunteer work; doing good prosecution
-work should be their focus. He said the clear message was that politics and the work of the
-office were separate.
 
 <hr>
 
-43 The County paid Estes’ firm $1,348.32 during this time period for services provided by a firm lawyer as a neutral
-arbitrator.
+<sup>46</sup> The defendants in the Nissen litigation included Pierce County, the PCPAO and Lindquist.  
+<sup>47</sup> O'Neill v. City of Shoreline, 170 Wn.2d 138 (2010) (an electronic version of a document stored on a personal computer, including its embedded metadata, is a public record subject to disclosure).  
+<sup>48</sup> The County paid Estes’ firm $1,348.32 during this time period for services provided by a firm lawyer as a neutral arbitrator.
 
+# See Improper Use of Public Resources
+
+The Merrival Complaint made numerous 
+allegations that generally portray the 
+PCPAO as a politicized work 
+environment. By way of context, 
+numerous witnesses drew comparisons 
+between the Lindquist administration 
+and those of his predecessors. For 
+example, one Team Chief said that 
+politics under Lindquist’s 
+administration is “more to the 
+forefront” than under Prosecutors 
+Ladenburg or Horne, who had strict 
+policies that DPAs do their job and 
+politics didn’t matter. A long-term DPA 
+added that during Ladenburg’s two 
+election campaigns, he told the DPAs he 
+did not want their financial support or 
+their volunteer work; doing good 
+prosecution work should be their focus. 
+He said the clear message was that 
+politics and the work of the office 
+were separate.
 
 
 1. Political Support of Lindquist.
@@ -1985,21 +2002,18 @@ arbitrator.
 Allegation: Specifically, Merrival alleged that many, “if not all” employees fear not
 supporting Lindquist or his chosen political candidates.
 
-Summa_ry of the Factual Findings: The PCPAO is more politicized under Lindquist than
+Summary of the Factual Findings: The PCPAO is more politicized under Lindquist than
 his predecessors and DPAs, particularly newer DPAs, feel pressured to volunteer in support of
-
 his campaigns; Lindquist’s refusal to act in the face of complaints by PCPAO employees that
 their names were added to a Lindquist recall campaign Facebook group without their consent is
 clear evidence of this pressure, and Lindquist’s active support of campaign activities in his
 office; political support of Lindquist is not essential to advancement in the office because many
 persons in his leadership have either been neutral politically or supported other persons;
-
 however, DPAs must give Lindquist their unqualified loyalty in the office, or risk having their
 careers dead—ended.
 
-Summgy of the Evidence: Lindquist said that he could not speak to what employees felt,
+Summary of the Evidence: Lindquist said that he could not speak to what employees felt,
 but no one should feel pressured to be involved in his political campaigns. All witnesses said
-
 that Lindquist does not accept financial contributions to his campaigns from DPAs, but does
 accept volunteers, or ”sweat equity” as he told a couple of witnesses. One of them said that as
 time went by the takeaway for him was that sweat equity would be rewarded and participation
@@ -2011,7 +2025,7 @@ sometimes not in permanent positions. So, if they think that participating in a 
 campaign event will give them an advantage, then they do it, particularly if other DPAs were
 participating, too.
 
-A different Team Chief declared, “Absolutely, the office is political,” and noted that all
+A different Team Chief declared, <mark>“Absolutely, the office is political,”</mark> and noted that all
 the Misdemeanor DPAs attended Lindquist’s campaign kick-off wearing campaign t-shirts. He
 told the story of one DPA, whose girlfriend’s parents were in town and all of them had plans to
 go out to dinner. Unfortunately, the dinner conflicted with Lindquist‘s campaign kickoff. The
@@ -2042,7 +2056,7 @@ He said that some people enjoy politics and Lindquist is charismatic, so it is h
 difference between volunteerism and quid pro quo. Penner said he didn’t see a connection
 between political support and advancement.
 
-I find that the PCPAO is more politicized under Lindquist than his predecessors, and
+I find that <mark>the PCPAO is more politicized under Lindquist</mark> than his predecessors, and
 DPAs, particularly newer DPAs, feel pressured to volunteer in support of his campaigns.
 Lindquist’s refusal to act in the face of complaints by PCPAO employees that their names were
 added to a Lindquist campaign F acebook group without their consent is clear evidence of this
@@ -2052,29 +2066,26 @@ many persons in his leadership have either been neutral politically or supported
 However, it is important for DPAs to give Lindquist their unqualified loyalty in the office, or
 risk having their careers dead-ended. See, Section VI, fajita.
 
-2. Visible Positions in the Community.
+
+<hr>
+
+<sup>49</sup> The Facebook page apparently was created in response to the Lindquist recall campaign.
+
+# See Visible Positions in the Community
 
 Allegation: The Merrival Complaint alleged: “DPAs are encouraged to obtain visible
 positions in the community to bring favorable publicity to Lindquist’s office.” Merrival further
 stated that some DPAs were promised judicial appointments in exchange for their service.
 
-Summa_ry of the Factual Findings: DPAs are not required to obtain visible positions in
+Summary of the Factual Findings: DPAs are not required to obtain visible positions in
 the community to be a “good emissary“ of the office; Lindquist encourages persons interested
 in attaining public office to be active in their community; <mark>Lindquist has attempted to create a
 politically powerful office that can produce judges, and make DPAs interested in becoming
 judges beholden to him</mark>; the whistleblower complaints reflect, in part, a belief among career
-DPAs that the politicization of the PCPAO under Lindquist and the high value he places on
-loyalty to his administration <mark>interferes with the delivery of justice in Pierce County</mark>.
+DPAs that the <mark>politicization of the PCPAO under Lindquist and the high value he places on
+loyalty to his administration interferes with the delivery of justice in Pierce County</mark>.
 
-
-
-<hr>
-
-49 The Facebook page apparently was created in response to the Lindquist recall campaign.
-
-
-
-Summa_ry of the Evidence: As noted, one of the PCPAO’s core values is being a “good
+Summary of the Evidence: As noted, one of the PCPAO’s core values is being a “good
 emissary.” Initially, employees believed that required them to attain visible positions in the
 community. However, Lindquist explained to the office that “good emissary” instead meant
 that DPAs should engage in professional interactions with the public because the PCPAU serves
@@ -2088,22 +2099,36 @@ advises DPAs interested in running for public office to be out in their communit
 she said DPAs have chosen to run for Fire Commissioner because it is in the DPAs’ interest;
 firefighters are active politically and their support is helpful.
 
-Former Chief Criminal Deputy Mary Robnett said that Lindquist’s interest in judgeships
-was more active and political than Lindquist or Farina stated. She said that Lindquist expressed
-the belief that PCPAO should be a place that produced judges and he set out to make that a
-reality. “He wanted a political machine. He said he wanted the most politically powerful office
-in the County, and for Superior Court judges to be concerned that he could get people to run
-against them.” Former Team Chief Sunni Ko said that Lindquist also wanted DPAs to believe
-that he could make them judges and ask him for assistance so they would be beholden to him.
-A senior leader observed that Lindquist has always said that he could put people on the bench,
-so he engaged in resume—building, such as putting DPAs in the Homicide Chief position. A
-person who wanted to be a judge aligned themselves with Lindquist and it worked.
+Former Chief Criminal Deputy Mary 
+Robnett said that Lindquist’s interest 
+in judgeships was more active and 
+political than Lindquist or Farina 
+stated. She said that Lindquist 
+<mark>expressed the belief that PCPAO should 
+be a place that produced judges</mark> and he 
+set out to make that a reality. “He 
+wanted a political machine. He said he 
+wanted the most politically powerful 
+office in the County, and <mark>for Superior 
+Court judges to be concerned that he 
+could get people to run against them.”</mark> 
+Former Team Chief Sunni Ko said that 
+Lindquist also <mark>wanted DPAs to believe 
+that he could make them judges and ask 
+him for assistance so they would be 
+beholden to him. A senior leader 
+observed that Lindquist has always said 
+that he could put people on the bench, 
+so he engaged in resume—building, such 
+as putting DPAs in the Homicide Chief 
+position. A person who wanted to be a 
+judge aligned themselves with Lindquist 
+and it worked.</mark>
 
 One of the former DPAs who received Lindquist’s support and who now sits on the
 Pierce County Superior Court bench, Judge Phillip Sorenson, said that he felt no angst about.
 Lindquist encouraging DPAs to be a part of the political system as judges, mayors, precinct
 officers and members of various committees. He said DPAs are all members of the community
-
 and more involvement is better, and it is an added benefit if the involvement reflects well on the
 office.
 
@@ -2123,19 +2148,16 @@ relatively inactive in the TPCBA when Lindquist was appointed in 2009. They said
 of the local bar requested that the PCPAO, as the largest “law firm” in Pierce County, take a
 more active in bar activities. The Merrival Complaint essentially alleged that Lindquist“s efforts
 to assume a bigger presence in the TPCBA went too far. It claimed that leadership prepared
-
 work emails directing DPAs to vote in Bar elections, suggested who to vote for and then
 collected ballots to insure their delivery.
 
-Summgy of the Factual Findings: The PCPAO encouraged DPAs to become more
+Summary of the Factual Findings: The PCPAO encouraged DPAs to become more
 active in the Bar; Farina emailed DPAs to encourage them to vote in TPCBA elections and
-
 identified who from the office was running; senior leaders offered to take ballots to the Bar
-
 office; and, the names of DPAs who voted in the SAU were listed on a white board to pressure
 them publicly to vote.
 
-Summa_ry of the Evidence: Lindquist was unapologetic about the office’s efforts to
+Summary of the Evidence: Lindquist was unapologetic about the office’s efforts to
 encourage DPAs to become more active in the Bar; he said that building relationships in the Bar
 allows the PCPAO do its job better. He told Farina that leadership should email DPAs to
 encourage them to vote in TPCBA elections and to identify who from the office was running.
@@ -2143,7 +2165,6 @@ And, he had “no problem“ with senior leaders offering to take ballots to the
 
 Farina said that senior leaders instructed Team Chiefs to encourage DPAs to vote and to
 make sure they voted so that their voice could be heard within the Bar. In addition, Farina
-
 routinely sent out emails to DPAs when the TPCBA ballots were delivered, such as this one she
 sent on January 23, 2012:
 
@@ -2151,15 +2172,14 @@ It is imperative that our office vote for those attorneys who will effectively
 represent our best interests and the best interests of the justice system. Please
 give strong consideration to voting for Stephanie Bloomfield for Vice-President,
 and Grant Blinn, Michelle Luna-Green and Matthew Thomas for Trustee. . .If
-
 anyone would like me to return your completed ballot to the bar office, I would be
-happy to do so.“50
+happy to do so.“<sup>50</sup>
 
 The Merrival Complaint also alleged that “One unit advertised on their whiteboard a
 checklist of who had voted.” Farina was running for TPCBA President at the time, so the
 office’s “get out the vote” effort was especially intense. One DPA said the unit involved was the
 SAU, where the Team Chief wrote every DPA’s name on the white board and crossed out
-persons who had voted.51 She said that Felony Division Chief John Sheeran was collecting
+persons who had voted.<sup>51</sup> She said that Felony Division Chief John Sheeran was collecting
 ballots. The DPA kept telling Sheeran that she had not received a ballot, so he printed one off
 for her and gave it to her. At the end, only three attorneys (including her) did not have their
 names crossed out.
@@ -2167,8 +2187,11 @@ names crossed out.
 
 <hr>
 
-5” Blinn and Luna-Green were DPAs at the time; Thomas was a former DPA.
+<sup>50</sup> Blinn and Luna-Green were DPAs at the time; Thomas was a former DPA.  
+<sup>51</sup> A photograph of the white board is attached as Exhibit 6.  
 
+
+# See TPCBA lobbying
 
 
 
@@ -2181,13 +2204,11 @@ have her represent the PCPAO. Howe recalled that he told Sheeran that he didn’
 opposed her and didn’t know Farina well, so he was not going to vote. He said his decision was
 thoughtful, but he knew at the time that he was “committing employment suicide“ and would
 never be included in leadership. Consequently, he took a job at the AG’S office he had turned
-
 down a month earlier because of the pay cut. He said, “I left because it got to the point where
 there was no decision too small to politicize.”
 
 I find that the allegations in the Merrival Complaint are true and undisputed: the PCPAO
 encouraged DPAs to become more active in the Bar; Farina emailed DPAs to encourage them to
-
 vote in TPCBA elections and identified who from office was running; senior leaders offered to
 take ballots to the Bar office; and, the names of DPAs who voted in the SAU were listed on a
 white board to pressure them publicly to vote.
@@ -2199,13 +2220,13 @@ TPCBA Judicial Qualifications Committee to support his judicial candidates and t
 those he opposed. It stated that Farina appointed “inexperienced DPA Tim Lewis as Co—Chair“
 for that purpose.
 
-Summm of the Factual Findings: Lindquist has not affirmatively placed “his DPAs” on
+Summary of the Factual Findings: Lindquist has not affirmatively placed “his DPAs” on
 the TPCBA Judicial Evaluation Committee; Farina appointed Lewis and civil attorney Margaret
 Archer to co-chair the Committee because of their prior participation and to balance the
 leadership between civil and criminal attorneys; and, neither Lindquist nor “his DPAs” have had
-an inordinate or unfair influence on the Committee’s deliberations.52
+an inordinate or unfair influence on the Committee’s deliberations.<sup>52</sup>
 
-Summgy of the Evidence: Lindquist said it was not true that he placed “his DPAs” on
+Summary of the Evidence: Lindquist said it was not true that he placed “his DPAs” on
 Committee; he said he wasn’t even sure how he would do that. He also denied ever discussing
 with DPAs on the Committee who they should support. Farina explained that as TPCBA Vice
 President, she sat on the Committee for a year and got a chance to watch the “circus,” as she
@@ -2216,23 +2237,11 @@ civil, criminal and family law attorneys from various practice areas. She said t
 members would laugh at the suggestion that Lindquist controlled it; the membership includes
 criminal defense attorneys who have their own opinions.
 
-<hr>
-
-51 A photograph of the white board is attached as Exhibit 6.
-
-52 DPAs regularly appear before Pierce County judges so it is both appropriate and valuable to have their input on
-the Committee.
-
-
-
-
-
 Lewis said that Bar President Tom Quinlan, not Farina, suggested he volunteer for the
 Committee because Quinlan wanted greater participation from the Prosecutors office. When
 Farina was elected President of the Bar, she asked Lewis and Margaret Archer (a land use
 attorney from Gordon Thomas Honeywell) to serve as co-chairs. They sat down with Farina
 and developed a list of people who were representative and would show up and work regardless
-
 of the candidate. Lewis said that neither Lindquist nor Farina have ever suggested to him who he
 should support.
 
@@ -2258,23 +2267,18 @@ Lineberry and Williams, Archer said that Lewis recused himself from participatin
 evaluation, and all the candidates, including Lineberry, Williams and Sandy Allen, received the
 same “exceptionally well qualified rating.” She also said the McCann’s evaluation was not
 improperly influenced by Lindquist or the DPAs on the Committee — “The room was packed
-with criminal defense attorneys.”53 Regarding the Committee’s ratings of Robnett, she and a
+with criminal defense attorneys.”<sup>53</sup> Regarding the Committee’s ratings of Robnett, she and a
 former member of the Committee said that the rules protecting the confidentiality of the
 Committee’s proceedings prevented them from responding to specific questions about the
 deliberations involving individual candidates.“
 
-
 <hr>
 
-53 Sarah Richardson, Team Chief of Family Support, said that Lewis was appointed co-chair the year that she started
+<sup>52</sup> DPAs regularly appear before Pierce County judges so it is both appropriate and valuable to have their input on the Committee.  
+<sup>53</sup> Sarah Richardson, Team Chief of Family Support, said that Lewis was appointed co-chair the year that she started
 on the Committee. She said that she has not gotten any impression that Lewis has an agenda; he has been open and
 equal regarding his treatment of the candidates and has done a good job as co-chair. Richardson further stated that
 neither he nor Farina have attempted to influence her in any way. Finally, she recalled that Sorenson and Lineberry
-
-
-
-
-
 On the basis of this evidence, I find that Lindquist has not affirmatively placed “his
 DPAs“ on the TPCBA Judicial Evaluation Committee, although their participation is consistent
 with his desire that the PCPAO be more active in Bar activities; Farina appointed Lewis and
@@ -2282,7 +2286,8 @@ Archer to co-chair the Committee because of their prior participation and to bal
 leadership between civil and criminal attorneys; and, neither Lindquist nor “his DPAs” have had
 an inordinate or unfair influence on the Committee’s deliberations.
 
-III. Substantial and Specific Danger to the Public Health or Safety
+# See Substantial and Specific Danger to the Public Health or Safety
+
 A. Vindictive and Overzealous Prosecution
 
 Allegation: The Merrival Complaint alleged that Lindquist has engaged in vindictive and
@@ -2293,44 +2298,77 @@ reconsideration or to appeal. The Penner Complaint ihrther alleged that Penner r
 during the conversation with Civil Division Chief Doug Vanscoy’s “initial” proposal to “appeal
 and seek settlement of the civil suit.”
 
-Summm of the Factual Findings: No DPAs agreed that the PCPAO engaged in
-overzealous prosecution; I did not engage in fact-finding regarding the Dalsing case in an effort
-to avoid second-guessing a Superior Court judge, who carefully reviewed all the evidence and
-determined that the PCPAO engaged in vindictive prosecution of Dalsing; Asst. Chief Criminal
-Deputy Greg Greer initiated the Hilltop Gang cases; the office did not file the charges for the
-purposes of gaining publicity for Lindquist or the PCPAO; and, the Hilltop Gang cases were not
-brought for racial or political reasons. I further find that Lindquist involved Civil Division
-employees in the conversation among senior leaders about whether to appeal or seek
-reconsideration of the vindictive prosecution dismissal of the Dalsing criminal case; civil DPAs
-connected an appeal of the criminal matter with settlement of the civil case, but criminal DPAs
+Summary of the Factual Findings: No 
+DPAs agreed that the PCPAO engaged in 
+overzealous prosecution; <mark>I did not 
+engage in fact-finding regarding the 
+Dalsing case in an effort to avoid 
+second-guessing a Superior Court judge, 
+who carefully reviewed all the evidence 
+and determined that the PCPAO engaged 
+in vindictive prosecution of Dalsing;</mark> 
+Asst. Chief Criminal Deputy Greg Greer 
+initiated the Hilltop Gang cases; the 
+office did not file the charges for the 
+purposes of gaining publicity for 
+Lindquist or the PCPAO; and, the 
+Hilltop Gang cases were not brought for 
+racial or political reasons. I further 
+find that Lindquist involved Civil 
+Division employees in the conversation 
+among senior leaders about whether to 
+appeal or seek reconsideration of the 
+vindictive prosecution dismissal of the 
+Dalsing criminal case; civil DPAs 
+connected an appeal of the criminal 
+matter with settlement of the civil 
+case, but criminal DPAs rejected the 
+connection; I am unable to determine 
+from the evidence whether Vanscoy was 
+the civil DPA who made the suggestion.
 
-rejected the connection; I am unable to determine from the evidence whether Vanscoy was the
-civil DPA who made the suggestion.
-
-Summgy of the Evidence: Penner offered the opinion that there is “No real way to get
-underneath the claim of overzealous prosecution; the number of court filings 1s not a good
-indicator because the amount is affected by a lot of reasons.” Ironically, he said that prior
-
-appeared before the Committee during her tenure .and leadership did not seem to affect the outcome of their
-evaluation -— “The persons on the Committee are a tenacious bunch and would not let PCPAO favoritism go by. ”
+Summary of the Evidence: Penner offered 
+the opinion that there is “No real way 
+to get underneath the claim of 
+overzealous prosecution; the number of 
+court filings is not a good indicator 
+because the amount is affected by a lot 
+of reasons.” Ironically, he said that 
+prior appeared before the Committee 
+during her tenure .and leadership did 
+not seem to affect the outcome of their 
+evaluation -— “The persons on the 
+Committee are a tenacious bunch and 
+would not let PCPAO favoritism go by.”
 
 <hr>
 
-54 Archer added that she could not recall the Committee 3 discussions of Robnett anyway because it was early 1n her
-tenure on the Committee
+<sup>54</sup> Archer added that she could not recall the Committee 3 discussions of Robnett anyway because it was early in her
+tenure on the Committee.
 
+# See Trial Warrior culture
 
-
-
-Prosecutors expected DPAs to try a lot of cases and rewarded them for it — a “trial warrior”
-culture, as Lindquist described it. In contrast, Penner said that Lindquist emphasized resolving
-cases; “He is not really focused on prosecuting cases; he is a politician, 
-so his main concern from
-a prosecutorial perspective involves <mark>media cases that could affect the perception of the office and
-him</mark>.” Other DPAs, including those in leadership, agreed with Penner’s assessment; one said that
-Lindquist was known as “Misdemeanor Mark” when he was in the SAU, z'. e. , he would plea
-felonies to misdemeanor and try only the “sure wins.” In sum, as a general matter, no DPAs
-interviewed agreed that the PCPAO engaged in overzealous prosecution.
+Prosecutors expected DPAs to try a lot 
+of cases and rewarded them for it — a 
+“trial warrior” culture, as Lindquist 
+described it. In contrast, Penner said 
+that Lindquist emphasized resolving 
+cases; “He is not really focused on 
+prosecuting cases; he is a politician, 
+so his main concern from a 
+prosecutorial perspective involves 
+<mark>media cases that could affect the 
+perception of the office and 
+him</mark>.” Other DPAs, including 
+those in leadership, agreed with 
+Penner’s assessment; one said that 
+Lindquist was known as “Misdemeanor 
+Mark” when he was in the SAU, z'. e. , 
+he would plea felonies to misdemeanor 
+and try only the “sure wins.” In sum, 
+as a general matter, no DPAs 
+interviewed agreed that the PCPAO 
+engaged in overzealous prosecution.
 
 The Merrival Complaint identified the _Daising_ case and the Tacoma Hilltop Crips Gang
 Cases as examples of Lindquist’s vindictive and overzealous prosecutions respectively.
@@ -2345,29 +2383,61 @@ discretion was exercised wisely, the senior leader said. His/her admonition was,
 enforcement doesn’t bring the case, then you shouldn’t pursue it,“ 216., if the PCSD doesn’t
 believe there is enough evidence to bring the case, then the PCPAO shouldn’t file charges.
 
-Nor did any witness I interviewed agree with Merrival’s claim that “In March of 2010,
-Lindquist initiated a gigantic criminal prosecution, with perhaps the primary purpose of
-obtaining publicity himself, against 32 black defendants alleged to belong to the so called Hilltop
-gang using a singular conspiratorial argument.” Asst. Criminal Division Chief and head of the
-Gang Team (Team X) Greg Greer said that the theory of the prosecution was, “If you join a
-gang, you join an on-going conspiracy to commit a crime,” which would support a conspiracy
-conviction without getting a conviction for an individual act. He said he heard about the novel
-theory at a conference and learned that it had been used in Florida and New York. Greer stated
-that Judge Felnagle concluded after months of procedural wrangling that the broad theory was
-too big and required them to charge the defendants individually with a specific conspiracy.
+Nor did any witness I interviewed agree 
+with Merrival’s claim that “In March of 
+2010, Lindquist initiated a gigantic 
+criminal prosecution, with perhaps the 
+primary purpose of obtaining publicity 
+himself, against 32 black defendants 
+alleged to belong to the so called 
+Hilltop gang using a singular 
+conspiratorial argument.” Asst. 
+Criminal Division Chief and head of the 
+Gang Team (Team X) Greg Greer said that 
+the theory of the prosecution was, “If 
+you join a gang, you join an on-going 
+conspiracy to commit a crime,” which 
+would support a conspiracy conviction 
+without getting a conviction for an 
+individual act. He said he heard about 
+the novel theory at a conference and 
+learned that it had been used in 
+Florida and New York. Greer stated that 
+Judge Felnagle concluded after months 
+of procedural wrangling that the broad 
+theory was too big and required them to 
+charge the defendants individually with 
+a specific conspiracy.
 
-Greer added that once the cases were severed, the defense attorneys began looking at the
-underlying charges against the individual defendants. In the Raphael Justice case cited
-specifically by Merrival, Greer said that the defendant's conduct justified only an assault plea.
-Greer emphasized that from a prosecutorial standpoint the cases were very successful: 4,014
-total months imposed on 36 defendants; an average sentence of 112 months; and, an average
-sentence of 276 months for the defendants who went to trial. He claimed that the case decimated
-the gang; violent gang crime in the Hilltop area is non-existent by comparison; crimes are
-committed by gang members acting individually, rather than as a gang; and, based on feedback
-from Dept. of Corrections, gang members are now terrified that membership in the gang is
-enough to get them convicted of a crime. Finally, Greer said that neither the theory of the case
-nor his reason for bringing it were politically or racially motivated, although Lindquist has
-enjoyed the success of it for his and the office’s advantage.
+Greer added that once the cases were 
+severed, the defense attorneys began 
+looking at the underlying charges 
+against the individual defendants. In 
+the Raphael Justice case cited 
+specifically by Merrival, Greer said 
+that the defendant's conduct justified 
+only an assault plea. Greer emphasized 
+that from a prosecutorial standpoint 
+the cases were very successful: 4,014 
+total months imposed on 36 defendants; 
+an average sentence of 112 months; and, 
+an average sentence of 276 months for 
+the defendants who went to trial. He 
+claimed that the case decimated the 
+gang; violent gang crime in the Hilltop 
+area is non-existent by comparison; 
+crimes are committed by gang members 
+acting individually, rather than as a 
+gang; and, based on feedback from Dept. 
+of Corrections, gang members are now 
+terrified that membership in the gang 
+is enough to get them convicted of a 
+crime. Finally, Greer said that neither 
+the theory of the case nor his reason 
+for bringing it were politically or 
+racially motivated, although Lindquist 
+has enjoyed the success of it for his 
+and the office’s advantage.
 
 Both Judge Sorenson and DPA James Curtis echoed Greer’s sentiments. Sorenson
 explained that most of the defendants pled guilty to a conspiracy charge (over 20); almost all of
@@ -2417,16 +2487,24 @@ Importantly, he recalled that at a later meeting “some DPA connected the two c
 and the criminal cases, but the criminal DPAs were adamant that they were not going to do it.
 The criminal DPAs’ only concern was whether Dalsing was criminally culpable.
 
-I find that Lindquist involved Civil Division employees in the conversation among senior
-leaders about whether to appeal or seek reconsideration of the vindictive prosecution dismissal of
-the Dalsing criminal case. I further find that civil DPAS connected appeal of the criminal matter
-with settlement of the civil case, but that criminal DPAS rejected the connection. I am unable to
-determine from the evidence whether Vanscoy was the civil DPA who made the suggestion.
+I find that Lindquist involved Civil 
+Division employees in the conversation 
+among senior leaders about whether to 
+appeal or seek reconsideration of the 
+vindictive prosecution dismissal of the 
+Dalsing criminal case. I further find 
+that civil DPAS connected appeal of the 
+criminal matter with settlement of the 
+civil case, but that criminal DPAS 
+rejected the connection. I am unable to 
+determine from the evidence whether 
+Vanscoy was the civil DPA who made the 
+suggestion.
 
-B. Prosecutorial Misconduct
+# See Prosecutorial Misconduct
 
 Allegation: The Merrival Complaint contained a table of cases brought by the PCPAO
-where convictions were secured in the trial court only to be reversed on appeal.55 The Complaint
+where convictions were secured in the trial court only to be reversed on appeal.<sup>55</sup> The Complaint
 suggested that the PCPAO was “Top in Prosecutorial Misconduct Reversals.”
 
 Summary of the Factual Findings: DPA witnesses uniformly believed that the reasons for
@@ -2434,7 +2512,7 @@ the prosecutorial misconduct rulings by the appellate courts are complex and are
 overly zealous or vindictive prosecution encouraged by Lindquist or his leadership. The best
 evidence of the reasons for the rulings is found in the courts“ rulings.
 
-Summgy of the Evidence: Both leadership and DPA witnesses took great pains to
+Summary of the Evidence: Both leadership and DPA witnesses took great pains to
 explain that “prosecutorial misconduct” is a term of art that simply means error on a DPA’s part.
 No one placed the blame for any increase in the number of reversals on Lindquist or his
 administration, pointing out that the reversals often arise out of closing arguments, which
@@ -2444,22 +2522,17 @@ to a pattern of overly-aggressive or vindictive prosecution.
 The explanations offered by the witnesses for the office’s prosecutorial misconduct
 reversals included the following.
 
-I The appellate courts are more frequently deciding prosecutorial misconduct cases
+<ul><li>The appellate courts are more frequently deciding prosecutorial misconduct cases
 now and giving more credence to misconduct allegations.
 
-I Much of the conduct that has been reversed has been accepted for a long period of
+<li>Much of the conduct that has been reversed has been accepted for a long period of
 time; and, when one case is reversed. a long string of cases involving the same type of conduct or
 
-55 Witnesses pointed out some inaccuracies in the table of cases, ta, it included cases that preceded the Lindquist
-administration; and, in one instance, a listed case was out of Thurston County and not tried by the listed DPA.
-form of argument are overturned, a. 3., cases involving the use of PowerPoint in closing argument
-were overturned when one ruling made new law or clarified existing law.
-
-I According to Judge Sorenson, the four pages of prosecutorial misconduct cases
+<li>According to Judge Sorenson, the four pages of prosecutorial misconduct cases
 attached to the Merrival Complaint indicate an office dealing with a lot of crime and serious
 cases. One witness said that the PCPAO prosecutes more felonies and misdemeanors than the
 AG’s office or King County. So, many cases end up in front of Division II and the risk of a
-negative ruling is higher.
+negative ruling is higher.</ul>
 
 Witnesses said that continuing legal education classes on the appellate rulings are put on
 by various providers, including WAPA. In addition, the PCPAO leadership in both the Civil and
@@ -2479,7 +2552,14 @@ compare against other jurisdictions. However, I can confidently state that DPAs 
 PCPAO believe that the reasons for the rulings are complex and are not due to overly zealous or
 vindictive prosecution encouraged by Lindquist or his leadership.
 
-IV. Gross Waste of Public Funds
+<hr>
+
+<sup>55</sup> Witnesses pointed out some inaccuracies in the table of cases, ta, it included cases that preceded the Lindquist
+administration; and, in one instance, a listed case was out of Thurston County and not tried by the listed DPA.
+form of argument are overturned, _i.e._ cases involving the use of PowerPoint in closing argument
+were overturned when one ruling made new law or clarified existing law.
+
+# See Gross Waste of Public Funds
 
 A. Exorbitant External and Internal Defense Expenditures Protecting Self-Interests
 
@@ -2487,26 +2567,26 @@ Allegation: The Merrival Complaint alleged that the PCPAO has spent “likely in
 of a million dollars“ in DPA time and outside counsel fees related to defending Lindquist’s
 actions. The Penner Complaint elaborated that three recent lawsuits filed against the County
 claimed personal misconduct by Lindquist: Dalsfng (alleging malicious prosecution by the
-PCPAO); Nissan (public records lawsuit seeking copies of Lindquist’s personal cell phone
+PCPAO); Nissen (public records lawsuit seeking copies of Lindquist’s personal cell phone
 records); and, Ames (alleging that Lindquist wrongfully identified him as a PIE officer). The
 Penner Complaint alleged that the PCPAO hired Phil Talmadge to represent its interests and
 Stewart Estes to represent Lindquist. The Complaint further stated that “the majority of the
 briefing was conducted in—house, by senior DPAs during work hours.” The Penner Complaint
 also alleged that the briefs included an amicus brief to the Washington Supreme Court in the
-Nissan case to be filed by outside parties, including various labor organizations and the Guild.
+Nissen case to be filed by outside parties, including various labor organizations and the Guild.
 The brief was intended to complement a brief filed by the County in the case.
 
-Summgy of the Factual Findings: A committee of senior leaders of the PCPAO rewrote
-briefs in both the Nissan and Ames matters; the value of the time spent by senior leaders, which
+Summary of the Factual Findings: A committee of senior leaders of the PCPAO rewrote
+briefs in both the Nissen and Ames matters; the value of the time spent by senior leaders, which
 was extensive, is unknown; the County hired Phil Talmadge and Lindquist retained Stewart Estes
-to represent them in the Nissan matter; the committee of senior leaders also reworked an amicus
-brief in the Nissan litigation that the Guild and other labor unions agreed to sign.
+to represent them in the Nissen matter; the committee of senior leaders also reworked an amicus
+brief in the Nissen litigation that the Guild and other labor unions agreed to sign.
 
-Summgy of the Evidence: Penner said that every appellate brief in the Nissan litigation,
+Summary of the Evidence: Penner said that every appellate brief in the Nissen litigation,
 including the amicus brief filed by the Guild and other unions, and all the briefing in the Arnas
 litigation was done by a committee consisting at various time the following senior leaders of the
 PCPAO — Lindquist, Penner, Farina, Sheeran, Civil Division Chief Doug Vanscoy, Dan
-Hamilton, the lead Civil Division attorney on the Nissan case, and Mike Sommerfeld, the DPA
+Hamilton, the lead Civil Division attorney on the Nissen case, and Mike Sommerfeld, the DPA
 advisor to the PCSD. He said the group drafted the briefs over a few days, with the brief
 displayed on the screen and everyone giving their comments. Penner said that his concerns with
 the process included: It was a conflict of interest for PCPAO management to draft an amicus
@@ -2515,29 +2595,29 @@ records; it was a waste of time writing by committee and involving criminal atto
 civil briefs; and, outside firms were responsible for the litigation, so the briefing should not have
 been done in—house.
 
-Hamilton explained that the first Nissan case (“Nissen I”) went up to the
+Hamilton explained that the first Nissen case (“Nissen I”) went up to the
 Washington Supreme Court. He said that he handled the case through the Court of
 Appeals and the PCPAO hired outside counsel when it went to the Supreme Court.
 Hamilton said that the office assembled briefing sessions to rework some of his work
 product, as well the briefs drafted by outside counsel. He further explained that the
 plaintiffs filed “the same claims" later in a case that has been referred to as “Nissen II.”
-The PCPAO also hired outside counsel to represent the County in Nissan 11 and the in—
+The PCPAO also hired outside counsel to represent the County in Nissen 11 and the in—
 house briefing sessions repeated themselves in that matter, too. He said that the Civil
 Division and senior leaders were not satisfied with the work product they received from
 outside counsel and spent time re-working the briefs.
 
 Hamilton further explained that the office had similar issues with the work
-product of outside counsel in Amas as it had in Nissan. So, senior leaders worked
+product of outside counsel in Ames as it had in Nissen. So, senior leaders worked
 together to redraft briefs in that matter, too. Neither Penner nor Hamilton recalled
 “briefing by committee” in Daising, where outside counsel was brought in when it
 appeared that DPA Jim Richmond might become a witness.
 
 It is undisputed that Phil Talmadge represents the County and Stewart Estes represents
-Lindquist in the Nissan matter. Finally, the County has spent the following amounts to date on
-the Nissan, Dalsing and Amas matters: Nissan 1 and II ($530,901.20); Dalsing ($205,418.11);
-and Arnas ($240,573.73).
+Lindquist in the Nissen matter. Finally, the County has spent the following <mark>amounts to date on
+the Nissen, Dalsing and Ames matters: Nissen 1 and II ($530,901.20); Dalsing ($205,418.11);
+and Ames ($240,573.73).</mark>
 
-B. Rewarding Loyalty with Titles and Pay
+# See Rewarding Loyalty with Titles and Pay
 
 Allegation: The Merrival Complaint alleged that the PCPAO has created more positions
 with titles and pay and given them to less experienced deputies than previous administrations.
@@ -2546,14 +2626,13 @@ Summary of the Factual Findings: The PCPAO has created more positions in leaders
 than previous administrations, as explained below. I do not have the information necessary to
 determine if the individuals given those positions are less experienced.
 
-Summgy of the Evidence: It is undisputed that the Lindquist administration has created
+Summary of the Evidence: It is undisputed that the Lindquist administration has created
 leadership positions and titles that did not exist under previous Prosecutors. Generally speaking,
 
 Lindquist said that he wants people to feel reSponsible for their team and how it’s performing so,
 if the Division is large, he will break it up to create that sense of responsibility within the team.
 Other former DPAs said Lindquist’s motives were more cynical. One recalled Lindquist saying:
 “you give people titles; it doesn’t cost anything and it makes them feel good.” Another said his
-
 general philosophy was that persons in management positions were closer to him and had more
 allegiance to him.
 
@@ -2563,19 +2642,16 @@ them. Nor will I judge the experience and qualifications of those appointed to t
 because I think it would do them a disservice. I do find, however, that Lindquist added the
 positions identified below for the reasons stated.
 
-I Homicide Division and Felony Division: Penner said that the Criminal Division
+<ul><li>Homicide Division and Felony Division: Penner said that the Criminal Division
 of the PCPAO used to have 6 trial teams managed by a Chief Criminal Deputy and Asst. Chief
-
 Criminal Deputy. When Robnett resigned, Lindquist filled those positions and also created a
 Felony Division Chief. Farina noted that the PCPAO is an office of .220 employees, which
 became too big a load for Robnett, so Lindquist added a Felony Division Chief after she left.
 Then, as noted, Lindquist set up a homicide team, turned it into a Division and appointed Blinn
 as the Homicide Chief. As Division Chiefs, rather than Team Chiefs, the positions were not a
 part of the Guild bargaining unit and the incumbents lost the protection of the labor agreement.
-
-I Gang Team and Elder Abuse Unit. Greer said that gang cases used to be included
+<li>Gang Team and Elder Abuse Unit. Greer said that gang cases used to be included
 in Team 1 (Robbery and Assaults). Lindquist said that he created the Gang Team to place
-
 emphasis on those cases and to make sure someone was taking responsibility for them. Greer
 echoed Lindquist’s rationale; he said he wanted to focus on gang cases, which became more
 significant when he filed the Hilltop Gang case. The unit was created when he needed help after
@@ -2584,17 +2660,15 @@ fraud and abuse) was modeled after the gang unit, which was also a one-DPA unit 
 beginning. He said that separating elder-related work from the fraud unit was intended to build
 expertise and relationships in the elder community necessary to prosecute the cases successiiilly-
 Lindquist said he also wanted to communicate to the public that the cases were important.
-
-
-I Assistant Team Chiefs. These are also new positions under Lindquist. He said
+<li>Assistant Team Chiefs. These are also new positions under Lindquist. He said
 that the addition of the positions in the larger teams put someone in a position of authority when
 the Team Chief was in trial or absent. He said that the Assistant Team Chiefs feel more
 responsibility for the success of the team and begin to develop leadership skills. Other DPAs
 were not so sanguine. One said that the incumbents get status and a reduced work load; another
 noted that the Assistant now is the charging DPA, giving the Team Chief complete freedom,
-which might be necessary because Lindquist occupies so much of their time in conferences.
+which might be necessary because Lindquist occupies so much of their time in conferences.</ul>
 
-V. Retaliation
+# See Retaliation
 
 The Merrival and Penner Complaints alleged that Lindquist has reassigned or threaten to
 reassign the following DPAs and others for criticizing him too loudly or publicly.
@@ -2605,11 +2679,11 @@ Allegation: The Merrival Complaint alleged that Lindquist assigned DPA Jim Schac
 the Appeals Division when he questioned the directive about the Ames declarants. The Penner
 Complaint alleged that he was moved to Appeals “after speaking out against Lindquist.”
 
-Summm of the Factual Findings: Schacht’s candid conversation with Lindquist that was
+Summary of the Factual Findings: Schacht’s candid conversation with Lindquist that was
 critical in some respects of his administration was a motivating factor in Lindquist’s decision to
 transfer him to Appeals.
 
-Summgy of the Evidence: By all accounts, Schacht is a very good trial lawyer. He has
+Summary of the Evidence: By all accounts, Schacht is a very good trial lawyer. He has
 worked at the PCPAO since 1990. Schacht said that he was transferred in 2012 to Team 1
 (Robber/Assault) to handle pre-assigned Class A felonies after a stint in the federal prosecutor’s
 office. He said that the position was a good assignment for him. In May 2014, the office had a
@@ -2696,7 +2770,7 @@ attempted to ingratiate himself with Clarkson after Merrival and Penner filed th
 telling her that he made a mistake to transfer her and asking her where she saw herself in the
 office.
 
-Summgy of the Evidence: Lindquist recalled that the County Council was proposing to
+Summary of the Evidence: Lindquist recalled that the County Council was proposing to
 create a committee to make recommendations to them to fill a District Court seat that Kevin
 McCann was interested in. He explained that there had been a committee previously and the
 PCPAO did not have a seat on it. Lindquist said he told a Council member that he wanted to
@@ -2759,18 +2833,6 @@ whistleblower complaints, Lindquist arranged a meeting with her through her Team
 Benton. Lindquist told Clarkson that he recalled she gave him sound advice early in his
 administration that he could not hear or see it at the time. When Clarkson asked Lindquist
 whether he was apologizing, he responded, “Yes.” He admitted that his administration had
-
-<hr> 
-
-5’7 Remann Hall is geographically isolated from the County/City building. As noted, it is widely known as the
-transfer destination of persons perceived as malcontents by Lindquist and his senior leaders. PCPAO HR Manager
-Lisa Hilligoss said that an attorney from the AG’s office asked her: “Why do you send your derelicts out to Remann
-Hall? Everyone knows it.”
-
-53 Clarkson and Hershman, an Ame-s declarant, both said that they were talking one day in the pit and they saw
-Sheeran glaring at them. Sheeran denied it.
-
-
 treated her badly, her transfer to Remann Hall was not a wise use of her skills and the transfer
 was his mistake. He then asked her where Clarkson saw herself in the office. When Clarkson
 asked how she went hem rags to riches, Lindquist responded, “Well, I am wiser; I didn’t
@@ -2786,21 +2848,31 @@ opposition. Finally, Lindquist attempted to curry favor with Clarkson after Merr
 filed their Complaints by telling her that he made a mistake to transfer her and asking her where
 she saw herself in the office.</mark>
 
-C. Brian Leech
+<hr> 
+
+<sup>57</sup> Remann Hall is geographically isolated from the County/City building. As noted, it is widely known as the
+transfer destination of persons perceived as malcontents by Lindquist and his senior leaders. PCPAO HR Manager
+Lisa Hilligoss said that an attorney from the AG’s office asked her: “Why do you send your derelicts out to Remann
+Hall? Everyone knows it.”  
+<sup>58</sup> Clarkson and Hershman, an Ame-s declarant, both said that they were talking one day in the pit and they saw
+Sheeran glaring at them. Sheeran denied it.
+
+
+# See Brian Leech
 
 Allegation: The Penner Complaint alleged that Lindquist proposed moving DPA Brian
 Leech from the felony property crime team to Remann Hall after Leech spoke out against the
-proposed amicus brief in Nissan v. Pierce County.
+proposed amicus brief in Nissen v. Pierce County.
 
-Summgy of the Factual Findings: <mark>Lindquist proposed moving DPA Brian Leech from
+Summary of the Factual Findings: <mark>Lindquist proposed moving DPA Brian Leech from
 Team 3 (Property Crimes/Animal Cruelty) to Remann Hall after Leech spoke out at a Guild
 meeting against approving the proposed _Nissen_ amicus brief. In addition, on the same day that
 Lindquist met with Clarkson to apologize for transferring her (after the Complaints were filed),
 Farina met with Leech and asked him where he wanted to be in the office and whether he had
 any interest in being a judge.</mark>
 
-Summgy of the Evidence: The incident alluded to by Penner was discussed previously.
-To reiterate briefly, Leech commented at a Guild meeting that the Nissan amicus brief was not
+Summary of the Evidence: The incident alluded to by Penner was discussed previously.
+To reiterate briefly, Leech commented at a Guild meeting that the Nissen amicus brief was not
 accurate and the Guild needed more time to consider it; DPAs who supported the brief and
 Lindquist became upset with Leech because of his opposition; according to Penner, the following
 Monday, Lindquist called him into his office and asked, “What is wrong with Brian Leech [for
@@ -2820,7 +2892,7 @@ someone, and to let him know it was noticed. Penner said he spoke to Leech later
 “Here’s what I am supposed to tell you. . . 3’59 Afterwards, when asked, Penner told Lindquist
 that he spoke with Leech and told him that he failed to greet his coworkers, including Lindquist,
 and he should respond as a professional. Penner said Lindquist replied, <mark>"Don’t bring up my
-name; I don’t want my name involved in this."</mark> '50
+name; I don’t want my name involved in this."</mark><sup>60</sup>
 
 Lindquist said that he heard about a kerfuffle involving the amicus brief at a Guild
 meeting; he only later heard Leech’s name attached to opposition to the brief; he did not discuss
@@ -2865,26 +2937,23 @@ A former PCPAO colleague of Robnett’s told her that Lindquist was in damage co
 mode and either wanted to neutralize her or enlist her help. I find that Lindquist’s and <mark>Farinais
 outreach to Clarkson, Leech and Robnett were all attempts to neutralize them and to control the
 damage done by the Merrival and Penner Complaints.</mark> The finding is based on the status of
-Clarkson, Leech and Robnett — all persons of some influence61 who Lindquist had ostracized in
+Clarkson, Leech and Robnett — all persons of some influence<sup>61</sup> who Lindquist had ostracized in
 some way; the content of the outreach — both complimentary and solicitous; and, the timing of
 the contacts — after the Complaints.
 
 <hr>
 
-59 Leech told Penner that he didn’t hear either hello and did not intend to snub anyone.
+<sup>59</sup> Leech told Penner that he didn’t hear either hello and did not intend to snub anyone.  
+<sup>60</sup> Penner understood that Lindquist wanted the message to come from Penner, not from him, which Penner described as, “plausible deniability in a very unimportant situation.”  
+<sup>61</sup> Clarkson and Leech are both active politically in minority communities and Robnett is a well-respected trial lawyer in the community.
 
-5” Penner understood that Lindquist wanted the message to come from Penner, not from him, which Penner
-described as, “plausible deniability in a very unimportant situation.”
-
-
-
-D. Detective Glenda Nissen
+# See Detective Glenda Nissen
 
 Allegation: The Merrival Complaint alleged that Lindquist and the PCPAO retaliated
 against Nissen by interfering with her investigations, limiting her access to DPA support and
 limiting her case filings.
 
-Summm of the Factual Findings: The PCPAO requested in early 2015 that the PCSD
+Summary of the Factual Findings: The PCPAO requested in early 2015 that the PCSD
 remove Nissen from her appointment as the detective assigned to the SAU; when the PCSD
 refused, the PCPAO attempted to place substantial limitations on the interactions between her
 and the SAU DPAs and interviewers; <mark>the limitations were unlike any previously placed on a
@@ -2892,21 +2961,16 @@ police officer working with the PCPAO; and, the PCPAO placed the limitations on 
 with Nissen because she had filed numerous lawsuits and complaints against the office, which
 was the first time the PCPAO had to face this situation.</mark>
 
-Summgy of the Evidence: The PCSD designated Nissen as the detective assigned to
+Summary of the Evidence: The PCSD designated Nissen as the detective assigned to
 work with the PCPAO’s SAU in March 2015. Undersheriff Rob Masko said the Department
 appointed Nissen because she applied for the position with the encouragement of her supervisors.
 Upon learning of the appointment, Asst. Chief of the PCPAO’s Civil Division, Denise Greer,
-called and asked Masko to reconsider Nissan’s appointment. Masko told Greer that he would not
+called and asked Masko to reconsider Nissen’s appointment. Masko told Greer that he would not
 “monkey around with the process”: Nissen was ethical and did good work; and, his only concern
 was whether she could keep up with the caseload (she tended to focus on a couple of cases).
 Greer was very disappointed, according to Masko, and made the same request two weeks later.
 When Masko declined again, Greer said that the office couldn’t charge her cases. His response
 was, “she is working the cases and you will need someone to testify.”
-
-<hr>
-
-51 Clarkson and Leech are both active politically in minority communities and Robnett is a well-respected trial
-lawyer in the community.
 
 Asst. Team Chief of SAU, Heather DeMaine, said that she was charging cases solo in
 early 2015 because DPA Angelica Williams was on leave. DeMaine said she attended a meeting
@@ -2978,7 +3042,7 @@ the limitations were unlike any previously placed on a police officer working wi
 and, the PCPAO placed the limitations on interactions with Nissen because she had filed
 numerous lawsuits and complaints against the office.
 
-VI. Disregard of Merit Based Employment
+# See Disregard of Merit Based Employment
 
 Allegation: The Merrival Complaint alleged that Lindquist’s administration has
 substituted the merit system of employment with one based on unquestioned loyalty. Those who
@@ -2988,11 +3052,11 @@ DPAs who question him are considered “bad colleagues“ and receive disfavored
 Further, Lindquist does not hold loyal DPAs to the same standards as DPAs who are critical or
 question his directives.
 
-Summgy of the Factual Findings: DPAs who are loyal to Lindquist are deemed “good
+Summary of the Factual Findings: <mark>DPAs who are loyal to Lindquist are deemed “good
 colleagues,“ receive good assignments and are treated differently than those DPAs who fail to
-give him, in his opinion, their unequivocal support.
+give him, in his opinion, their unequivocal support.</mark>
 
-Summgy of the Evidence: In many respects, this allegation goes to the core of the
+Summary of the Evidence: In many respects, this allegation goes to the core of the
 Merrival and Penner Complaints, as well as the great frustration of some career prosecutors with
 the Lindquist administration. Lindquist said that Prosecutor Horne, his predecessor, emphasized
 a “trial warrior“ culture and rewarded DPAs who “racked up” a set number of trials in a year
@@ -3040,10 +3104,6 @@ her son’s school in the morning and arrived at the office between 11:00 am. an
 Employees reported that Brent Hyer regularly assisted his wife with cases and spent hours a day
 socializing and on his cell phone.
 
-<hr>
-
-'52 Brent Hyer told Sheeran and Hilligoss that he copied 26 out of the series’ 29 disks.
-
 Sheeran said that Brent Hyer claimed his copying was legal and directed Sheeran to the
 Fair Use doctrine and Sony Corp. of America v. Universal City Studios, Inc. , which Sheeran read
 to say that Hyer could make copies of copyrighted material for his own use. So, Sheeran told
@@ -3083,13 +3143,6 @@ she didn’t want to move Martinelli because of Martinelli’s attitude and deme
 in the criminal division. Richardson said that she had heard Martinelli had a negative attitude
 toward Lindquist and the office and Farina did not want the attitude spread to other parts of the
 office. Richardson said that she had not experienced any poor attitude on Martinelli’s part and
-
-<hr>
-
-‘53 Martinelli said that she supported Bertha Fitzer, who ran against Lindquist, and voiced some criticism of her
-experience trying a case with Lindquist. She said that she has been ostracized by Lindquist and his “cohort” ever
-since.
-
 told Farina that Martinelli had been doing good work in Family Support. Nonetheless, Farina
 told Richardsom that she did not intend to move Martinelli into the criminal division because of
 the “good colleague” prong of the trifecta. Farina said many people still had that concern, even
@@ -3115,10 +3168,16 @@ leadership’s tolerance of the Hyers’ performance and conduct, and its intole
 can only be explained by the difference in the loyalty Lindquist perceives the Hyers and
 Martinelli show him.</mark>
 
-Ginny, I appreciate the opportunity to serve Pierce County.
+<hr>
+
+<sup>52</sup> Brent Hyer told Sheeran and Hilligoss that he copied 26 out of the series’ 29 disks.  
+<sup>53</sup> Martinelli said that she supported Bertha Fitzer, who ran against Lindquist, and voiced some criticism of her
+experience trying a case with Lindquist. She said that she has been ostracized by Lindquist and his “cohort” ever
+since.  
+<sup>54</sup> I do not mean to suggest that the office's response to Ms. Hyer’s performance issues was inappropriate. The
+office’s response is relevant only as it compares to the PCPAO’s treatment of Ms. Martinelli and others considered
+to be disloyal or “malcontents.”
 
 <hr>
 
-'54 I do not mean to suggest that the office's response to Ms. Hyer’s performance issues was inappropriate. The
-office’s response is relevant only as it compares to the PCPAO’s treatment of Ms. Martinelli and others considered
-to be disloyal or “malcontents.”
+<center>[Mark Lindquist's law career](https://en.m.wikipedia.org/wiki/Mark_Lindquist#Law_career)</center>
