@@ -1,189 +1,254 @@
 # Declaration of Bertha Fitzer
 
-IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON
+IN THE SUPERIOR COURT OF THE STATE OF WASHINGTON 
 IN AND FOR THE COUNTY OF PIERCE
 
 In the Matter of: No. 15-2-10116-7
 
-The Recall of Mark Lindquist, DECLARATION OF BERTHA F ITZE
+The Recall of Mark Lindquist, DECLARATION OF 
+BERTHA F ITZE
 
-Pierce County Prosecuting Attorney RE: RECALL OF MARK LINDQUIST
+Pierce County Prosecuting Attorney RE: RECALL OF 
+MARK LINDQUIST
 
 
  
 
 Bertha Fitzer declares as follows:
 
-I am over the age of 18, am competent to testify, and have personal knowledge of the
-facts stated in this declaration.
+I am over the age of 18, am competent to testify, 
+and have personal knowledge of the facts stated in 
+this declaration.
 
 I. INTRODUCTION
 
-I am the managing partner of Fitzer, Leighton & Fitzer, PS. and have been in practice
-for 34 years. Our firm is exclusively involved in civil practice. From January 29, 2001 to
-September 10, 2010, I was employed as a Deputy Prosecuting Attorney (DPA) in the Pierce
-County Prosecutor’s Office, serving in the Civil. Felony and Juvenile Divisions.
+I am the managing partner of Fitzer, Leighton & 
+Fitzer, PS. and have been in practice for 34 
+years. Our firm is exclusively involved in civil 
+practice. From January 29, 2001 to September 10, 
+2010, I was employed as a Deputy Prosecuting 
+Attorney (DPA) in the Pierce County Prosecutor’s 
+Office, serving in the Civil. Felony and Juvenile 
+Divisions.
 
-I have attached as Exhibit 1 my complete C.V.. including professional activities and
-publications, to establish my credentials and competencies. Neither I, nor my firm, will
-benefit from Mr. Lindquist’s recall. My husband and. I are law partners and neither of us
-intend to seek any elected position.
+I have attached as Exhibit 1 my complete C.V.. 
+including professional activities and 
+publications, to establish my credentials and 
+competencies. Neither I, nor my firm, will benefit 
+from Mr. Lindquist’s recall. My husband and. I are 
+law partners and neither of us intend to seek any 
+elected position.
 
 11. MR. LINDS QUIST'S ACTIVITIES 2000 TO 2009
 
-This section of the declaration relates to the charges in Charge D of the Statement of
-Charges, which allege that Mr. Lindquist has used his office to pursue his own personal
-interests. It also relates to Charge F involving mismanagement of the Office of Pierce
+This section of the declaration relates to the 
+charges in Charge D of the Statement of Charges, 
+which allege that Mr. Lindquist has used his 
+office to pursue his own personal interests. It 
+also relates to Charge F involving mismanagement 
+of the Office of Pierce
 
 County Prosecuting Attorney.
 
-A. Charge D: Use of Office to Promote Mark Lindquist’s Literary
-Career.
+A. Charge D: Use of Office to Promote Mark 
+Lindquist’s Literary Career.
 
-At the time 1 was hired by then Prosecutor John Ladenburg, Mark Lindquist was a
-trial attorney in the Sexual Assault Unit, or Team 4. He had recently published “Never Mind
-Nirvana,” a book based loosely on his experiences as a deputy prosecuting attorney in this
+At the time 1 was hired by then Prosecutor John 
+Ladenburg, Mark Lindquist was a trial attorney in 
+the Sexual Assault Unit, or Team 4. He had 
+recently published “Never Mind Nirvana,” a book 
+based loosely on his experiences as a deputy 
+prosecuting attorney in this
 
-sexual assault unit. The following is a sample of his literary work during this period:
+sexual assault unit. The following is a sample of 
+his literary work during this period:
 
-- Pete’s current favorite is a quote from a trailer park rapist who preferred underage
-girls, especially cousins:
+- Pete’s current favorite is a quote from a 
+trailer park rapist who preferred underage girls, 
+especially cousins:
 
-<ul>I placed the defendant under arrest and read him his rights. When I
-asked him if he understood, he said, “What does a girl in Eatonviile say
-when she loses her Virginia»? ” I asked him again if he understood and he
-replied, “She says GET OFF ME, DAD, YOU’RE CR USHING MY
-SMOKES! ”</ul> - Mark Lindquist, Never Mind Nirvana, (V illard Books 2000) p. 26. [italics in original copy.]
+<ul>I placed the defendant under arrest and read 
+him his rights. When I asked him if he understood, 
+he said, “What does a girl in Eatonviile say when 
+she loses her Virginia»? ” I asked him again if he 
+understood and he replied, “She says GET OFF ME, 
+DAD, YOU’RE CR USHING MY SMOKES! ”</ul> - Mark 
+Lindquist, Never Mind Nirvana, (V illard Books 
+2000) p. 26. [italics in original copy.]
 
-In 2007, Mr. Lindquist published “The King of Methlehem.”l The publication of this
-book came several years after Mr. Lindquist assumed the position of team leader in the drug
-un1t. The book contains a number of derogatory comments about past and current members
-of the judiciary, using their actual names. Just before he published this book, he convinced
-Prosecutor Gerald Home that Mr. Horne should sign a contract with “Piranha
-Entertainment.” The contract specified that a production team would follow Mr. Lindquist
-and film his activities as a DPA. Attached hereto as Exhibit 2 is a true and correct copy of
-the proposed contract with Piranha Entertainment. I, and others within the office, opposed
-the use of the Prosecutor’s Office for this purpose and the contract was never executed.
+In 2007, Mr. Lindquist published “The King of 
+Methlehem.”l The publication of this book came 
+several years after Mr. Lindquist assumed the 
+position of team leader in the drug un1t. The book 
+contains a number of derogatory comments about 
+past and current members of the judiciary, using 
+their actual names. Just before he published this 
+book, he convinced Prosecutor Gerald Home that Mr. 
+Horne should sign a contract with “Piranha 
+Entertainment.” The contract specified that a 
+production team would follow Mr. Lindquist and 
+film his activities as a DPA. Attached hereto as 
+Exhibit 2 is a true and correct copy of the 
+proposed contract with Piranha Entertainment. I, 
+and others within the office, opposed the use of 
+the Prosecutor’s Office for this purpose and the 
+contract was never executed.
 
-B. Uses of Public Resources for Political Discourse.
+B. Uses of Public Resources for Political 
+Discourse.
 
-In November 2008, Mr. Lindquist appeared on local cable television as a
-commentator on the s1 gnlficance of the election returns. The Pierce County Code proh1b1ts
-the use of County property and/or the use of County employee services during County time
-except in the conduct of official business. Pierce County Code §3.12.030 (1). Nonetheless,
-shortly after his appearance on television, Mr. Lindquist reprised the role of political pundit
-at the Law :3: Justice t'oimctl Meeting nt'Hoventher ltitJi-i. The l_av.' S; insttce «Council is a
-County agency, created by ordinance. Pierce County Code §2.98.040 describes the Council“s
-function and purpose:
-The Council may address any criminal justice issues including, but not limited to, the
-following: criminal justice resources, jail management, mechanisms for
-communication of information about offenders including the feasibility of shared
-database access between state and local government, transition of offenders into
-Pierce County, equitable offender program siting and maintenance, appropriateness of
-offender housing under zoning and other laws, assessment of reentry services, and
-state/local cooperation in supervising offenders.
+In November 2008, Mr. Lindquist appeared on local 
+cable television as a commentator on the s1 
+gnlficance of the election returns. The Pierce 
+County Code proh1b1ts the use of County property 
+and/or the use of County employee services during 
+County time except in the conduct of official 
+business. Pierce County Code §3.12.030 (1). 
+Nonetheless, shortly after his appearance on 
+television, Mr. Lindquist reprised the role of 
+political pundit at the Law :3: Justice t'oimctl 
+Meeting nt'Hoventher ltitJi-i. The l_av.' S; 
+insttce «Council is a County agency, created by 
+ordinance. Pierce County Code §2.98.040 describes 
+the Council“s function and purpose: The Council 
+may address any criminal justice issues including, 
+but not limited to, the following: criminal 
+justice resources, jail management, mechanisms for 
+communication of information about offenders 
+including the feasibility of shared database 
+access between state and local government, 
+transition of offenders into Pierce County, 
+equitable offender program siting and maintenance, 
+appropriateness of offender housing under zoning 
+and other laws, assessment of reentry services, 
+and state/local cooperation in supervising 
+offenders.
 
-The Council may also advise the County Council, County Executive, and other
-governmental entities and make such recommendations as it deems appropriate on
-matters relating to law and justice in Pierce County.
+The Council may also advise the County Council, 
+County Executive, and other governmental entities 
+and make such recommendations as it deems 
+appropriate on matters relating to law and justice 
+in Pierce County.
 
-(0rd. 2007-69s § 1 (part), 2007; 0rd. 91-192 § 1 (part), 1992)
+(0rd. 2007-69s § 1 (part), 2007; 0rd. 91-192 § 1 
+(part), 1992)
 
-The Law & Justice Council is a County funded agency that meets in the County/City
-Building. Staff from the Pierce County Prosecutor’s office set up the meeting, take minutes,
-and provide the refreshments, including lunches that are provided at taxpayer expense to the
-County officials who attend.
+The Law & Justice Council is a County funded 
+agency that meets in the County/City Building. 
+Staff from the Pierce County Prosecutor’s office 
+set up the meeting, take minutes, and provide the 
+refreshments, including lunches that are provided 
+at taxpayer expense to the County officials who 
+attend.
 
-As author of the DOC Reportz, Gerald Home requested that I attend the Council’s
-monthly meetings to periodically update the Council with information pertaining to the Law
-& Justice Community Oversight Subcommittee. This standing subcommittee is the primary
-oversight mechanism to prevent the excessive “dumping” of released convicts in Pierce
-County. The Code outlines its duties:
+As author of the DOC Reportz, Gerald Home 
+requested that I attend the Council’s monthly 
+meetings to periodically update the Council with 
+information pertaining to the Law & Justice 
+Community Oversight Subcommittee. This standing 
+subcommittee is the primary oversight mechanism to 
+prevent the excessive “dumping” of released 
+convicts in Pierce County. The Code outlines its 
+duties:
 
-1. The subcommittee shall have oversight of all issues involving transition of
+1. The subcommittee shall have oversight of all 
+issues involving transition of
 
-offenders into the community, including review of county of origin and other
+offenders into the community, including review of 
+county of origin and other
 
-particulars of offenders released by the Department of Corrections, review of
-equitable offender program siting and maintenance, review of whether offender
-housing is appropriate under zoning and other laws, and contracting with the
+particulars of offenders released by the 
+Department of Corrections, review of equitable 
+offender program siting and maintenance, review of 
+whether offender housing is appropriate under 
+zoning and other laws, and contracting with the
 
-Department of Corrections for community centre] of offender placement in work
+Department of Corrections for community centre] of 
+offender placement in work
 
-release or residential reentry centers in Pierce County.
-Pierce County Code, §2.98.050(B)(l).
+release or residential reentry centers in Pierce 
+County. Pierce County Code, §2.98.050(B)(l).
 
-The day before the meeting, I received the agenda for the November 2008 meeting.
-The agenda listed the primary presentation as a political discussion of the election results by
-Mark Lindquist. I immediately emailed Mr. Home to inform him that this was an improper
+The day before the meeting, I received the agenda 
+for the November 2008 meeting. The agenda listed 
+the primary presentation as a political discussion 
+of the election results by Mark Lindquist. I 
+immediately emailed Mr. Home to inform him that 
+this was an improper
 
-use of County resources. Mr. Horne ignored my objections. He also obviously shared them
+use of County resources. Mr. Horne ignored my 
+objections. He also obviously shared them
 
-3 Bertha B. Fitzer, DOC Pciicies cf: Pierce County’s High Crime Rate, Office of the Pierce County Prosecutor,
-2007. This report was available to the public on the Pierce County Prosecutor’s website until Mr. Lindquist was
-appointed Prosecutor. I continued to work collecting the data regarding this issue, until Mr. Lindquist and Mr.
-Vanscoy removed me from the project after I announced my campaign.
+3 Bertha B. Fitzer, DOC Pciicies cf: Pierce 
+County’s High Crime Rate, Office of the Pierce 
+County Prosecutor, 2007. This report was available 
+to the public on the Pierce County Prosecutor’s 
+website until Mr. Lindquist was appointed 
+Prosecutor. I continued to work collecting the 
+data regarding this issue, until Mr. Lindquist and 
+Mr. Vanscoy removed me from the project after I 
+announced my campaign.
 
-DECLARATION OF FITZER, LEIGHTON &
-BERTHA B. FITZER
+DECLARATION OF FITZER, LEIGHTON & BERTHA B. FITZER
 
 RE: RECALL OF MARK LINDQUIST FEE£EH§TE1LEIS'
 
 P333 4 ”£25 1102 BROADWAY, SUITE 401
 
-TACOMA, WASHINGTON 98402-3526
-(253) 532-5324 FAX (253) 627-8928
+TACOMA, WASHINGTON 98402-3526 (253) 532-5324 FAX 
+(253) 627-8928
 
-informed me that 1 “had no sense of humor.” He was correct. I saw nothing amusing about
+informed me that 1 “had no sense of humor.” He was 
+correct. I saw nothing amusing about
 
-this misuse of public resources. Instead of focusing on issues associated with criminal
+this misuse of public resources. Instead of 
+focusing on issues associated with criminal
 
  
 
  
 
-TACOMA, WASHINGTON 98402-3526
-(253) 572-5324 FAX (253) 627-8928
+TACOMA, WASHINGTON 98402-3526 (253) 572-5324 FAX 
+(253) 627-8928
 
-1 with Mr. Lindquist. Just before the meeting began, Mr. Lindquist approached me and
-4
-justice, virtually the entire hour consisted of Mr. Lindquist’s discourse on the significance of
-5
-the presidential, state and local election results. There was no discussion of how these results
-6
-7 affected any of the legitimate concerns of the Council.
-a C. Charge F: Mr. Lindquist’s Mismanagement of Personal Caseload.
-9 The appellate courts have reversed a substantial number of the cases Mr. Lindquist
-10 has tried. The following chart contains the names, charges, grounds for reversal and what
-11 Mr. Lindquist did with the cases after they were reversed:
-12 Grounds for Results after
-1 3 Reversal Reversal
-14 State 12. Black lSt degree Rape Prosecutorial Misconduct, Plea to Child. Molest 2nd
-99-1-00845-8 of Child Comment on Defendantis 27 Months
-15 Right to Remain Silent
-State v. Walker Child Molest lSt Invalid search Child Molest 2 (X2)
-16 01-1—01657-3 (X2) warrant drafted by
-1'? 2"d (x2) Mr. Lindquist 41 months
-149 months f" __ __
-18 State v. Att. Child Rape Mr. Lindquist improperly Att. Sexual
-Hovdenes 3 moved for an order Exploitation of
-19 99-1-03641-9 Att. excluding defense expert minor
-Exploitation of Poss. of child porn (x1)
-20 Child 27 months (suspended)
-Poss. Child
-2 1 porn (x8)
-22 . . . . . .
-State v. Lunng Mr. Lmdquist improperly Dlsmlssed, parents
-23 McSorley ' (disabled 10 requested a jury unwilling to subject I
-03-1-02422—0 year old) instruction on an child to ordeal of a
-24 6 months affirmative defense that second trial
-the defense did not argue
-25 State v. Rape of Child Mr. Lindquist improperly Conviction
-Wickersham l5t moved for mistrial vacated, re-trial
-DECLARATION OF FITZER, LEIGHTON &
-BERTHA B. FITZER
-RE: RECALL OF MARK LINDQUIST FECEI'E§T EWS'
-Page 5 0f25 1102 BROADWAY, SUITE 401
+1 with Mr. Lindquist. Just before the meeting 
+began, Mr. Lindquist approached me and 4 justice, 
+virtually the entire hour consisted of Mr. 
+Lindquist’s discourse on the significance of 5 the 
+presidential, state and local election results. 
+There was no discussion of how these results 6 7 
+affected any of the legitimate concerns of the 
+Council. a C. Charge F: Mr. Lindquist’s 
+Mismanagement of Personal Caseload. 9 The 
+appellate courts have reversed a substantial 
+number of the cases Mr. Lindquist 10 has tried. 
+The following chart contains the names, charges, 
+grounds for reversal and what 11 Mr. Lindquist did 
+with the cases after they were reversed: 12 
+Grounds for Results after 1 3 Reversal Reversal 14 
+State 12. Black lSt degree Rape Prosecutorial 
+Misconduct, Plea to Child. Molest 2nd 99-1-00845-8 
+of Child Comment on Defendantis 27 Months 15 Right 
+to Remain Silent State v. Walker Child Molest lSt 
+Invalid search Child Molest 2 (X2) 16 01-1—01657-3 
+(X2) warrant drafted by 1'? 2"d (x2) Mr. Lindquist 
+41 months 149 months f" __ __ 18 State v. Att. 
+Child Rape Mr. Lindquist improperly Att. Sexual 
+Hovdenes 3 moved for an order Exploitation of 19 
+99-1-03641-9 Att. excluding defense expert minor 
+Exploitation of Poss. of child porn (x1) 20 Child 
+27 months (suspended) Poss. Child 2 1 porn (x8) 22 
+. . . . . . State v. Lunng Mr. Lmdquist improperly 
+Dlsmlssed, parents 23 McSorley ' (disabled 10 
+requested a jury unwilling to subject I 
+03-1-02422—0 year old) instruction on an child to 
+ordeal of a 24 6 months affirmative defense that 
+second trial the defense did not argue 25 State v. 
+Rape of Child Mr. Lindquist improperly Conviction 
+Wickersham l5t moved for mistrial vacated, 
+re-trial DECLARATION OF FITZER, LEIGHTON & BERTHA 
+B. FITZER RE: RECALL OF MARK LINDQUIST FECEI'E§T 
+EWS' Page 5 0f25 1102 BROADWAY, SUITE 401
 
 lp—J
 
@@ -191,59 +256,69 @@ lp—J
 
  
 
-2 Reversal Reversal
-3 constitutionally
-. prohibited due
-4 to double
-'eo I ardy.
-5 State v. Falier Prosecutorial Misconduct Retried,
-09—1-01865-2 . l in argument, improper currently on
-6 ' evidence appeal
-7 According to data obtained by The News Tribune, under Mr. Lindquist’s management,
-8
-Pierce County leads the state in cases overturned because of their ‘flagranf actions.3 The
-9
-cases listed above preceded that analysis.
-10
-Sound leadership can, and does, reduce or eliminate such errors. 1 was a member of
-11
-12 Trial Unit 2 from January 2006 until January 2010. As a member of Team 2, my supervisor
-13 encouraged us to prosecute aggressively financial crimes against the elderly, violent arsons,
+2 Reversal Reversal 3 constitutionally . 
+prohibited due 4 to double 'eo I ardy. 5 State v. 
+Falier Prosecutorial Misconduct Retried, 
+09—1-01865-2 . l in argument, improper currently 
+on 6 ' evidence appeal 7 According to data 
+obtained by The News Tribune, under Mr. 
+Lindquist’s management, 8 Pierce County leads the 
+state in cases overturned because of their 
+‘flagranf actions.3 The 9 cases listed above 
+preceded that analysis. 10 Sound leadership can, 
+and does, reduce or eliminate such errors. 1 was a 
+member of 11 12 Trial Unit 2 from January 2006 
+until January 2010. As a member of Team 2, my 
+supervisor 13 encouraged us to prosecute 
+aggressively financial crimes against the elderly, 
+violent arsons,
 
-14 and financial frauds, which affect large numbers of individuals and financial institutions. The
+14 and financial frauds, which affect large 
+numbers of individuals and financial institutions. 
+The
 
-15 I need to protect the public was foremost. My supervisor emphasized the special role that
+15 I need to protect the public was foremost. My 
+supervisor emphasized the special role that
 
-16 prosecutors had in the justice system, and provided clear instructions on proper argument. As
-17 : a result, to my knowledge, the Court of Appeals has not reversed any of the cases I tried
+16 prosecutors had in the justice system, and 
+provided clear instructions on proper argument. As 
+17 : a result, to my knowledge, the Court of 
+Appeals has not reversed any of the cases I tried
 
-18 during my four years in the felony division for prosecutorial misconduct or my legal errors.4
-19 I D. Charge K: Mr. Lindquist’s Union Activities.
+18 during my four years in the felony division for 
+prosecutorial misconduct or my legal errors.4 19 I 
+D. Charge K: Mr. Lindquist’s Union Activities.
 
 2 o
 
-2 1 Until his appointment to the position of Chief Criminal Deputy in 2009, Mr. Lindquist
-22 was active in the Pierce County Prosecuting Attorneys Association (hereafter r""PCPAA'”).
+2 1 Until his appointment to the position of Chief 
+Criminal Deputy in 2009, Mr. Lindquist 22 was 
+active in the Pierce County Prosecuting Attorneys 
+Association (hereafter r""PCPAA'”).
 
 2 3
 
 24 _ —
 
-3 The News Tribune, April 19, 2015.
-4 One case, State v. Lorry Hayes, involved an attempt to expand the law relating to R101.) to include accomplice
+3 The News Tribune, April 19, 2015. 4 One case, 
+State v. Lorry Hayes, involved an attempt to 
+expand the law relating to R101.) to include 
+accomplice
 
-2 5 I liability. Several of the charges were reversed on factual insufficiency. However all identity theft convictions
-were affirmed and there was no need to retry the case. See State v. Lorry Hayes, 164 Wn. App. 459 (2011).
+2 5 I liability. Several of the charges were 
+reversed on factual insufficiency. However all 
+identity theft convictions were affirmed and there 
+was no need to retry the case. See State v. Lorry 
+Hayes, 164 Wn. App. 459 (2011).
 
  
 
-' DECLARATION OF FITZER, LEIGHTON &
-BERTHA B. FITZER
-RE: RECALL OF MARK LINDQUIST FEDZRE‘E} EWS'
+' DECLARATION OF FITZER, LEIGHTON & BERTHA B. 
+FITZER RE: RECALL OF MARK LINDQUIST FEDZRE‘E} EWS' 
 Pagv 6 0f25 1102 BROADWAY, SUITE 401
 
-TACOMA, WASHINGTON 98402-3526
-(253) 5r2-5s24 FAX (253) 52r-ae2a
+TACOMA, WASHINGTON 98402-3526 (253) 5r2-5s24 FAX 
+(253) 52r-ae2a
 
 10
 
@@ -1016,13 +1091,17 @@ dirty tricks to try to derail any opposition to him.
 
 i F. Mr. Lindquist’s Use of the Union for His Own Political Purpose
 
-Without my knowledge or consent. Mr. Lindquist provided a copy of the March 26,
+Without my knowledge or consent. Mr. Lindquist 
+provided a copy of the March 26,
 
-2010 letter to the president of the Pierce County Prosecutors Attorney Association (PCPAA),
+2010 letter to the president of the Pierce County 
+Prosecutors Attorney Association (PCPAA),
 
-John Sheeran. Ms. Robnett called her letter a “warning,” not a reprimand. A warning letter is
+John Sheeran. Ms. Robnett called her letter a 
+“warning,” not a reprimand. A warning letter is
 
-not a disciplinary action and cannot be grieved, but a reprimand is. Because I could not
+not a disciplinary action and cannot be grieved, 
+but a reprimand is. Because I could not
 
 grieve a letter of warning, there was no justification for breaching my confidentiality by
 
@@ -1241,12 +1320,18 @@ l
 
 8 Appeals to reverse both the conviction and the original sentence of 171 months.
 
-9 In dealing with the letter of reprimand, I cited this case as an example of evidence that
-10 I was being singled out for adverse treatment. On May 6, 2010, the Chief Civil Deputy, Mr.
-11 Vanscoy, wrote to state that Mr. Lindquist would not discuss the case of State v. Venegas.
-l2 Attached hereto as Exhibit 15 is a true and correct copy of this letter.
-l3 Nine months after the case was reversed, Mr. McCann allowed the defendant to plea to a
-14 single count of second-degree child assault. He recommended that the defendant receive the low
+9 In dealing with the letter of reprimand, I cited 
+this case as an example of evidence that 10 I was 
+being singled out for adverse treatment. On May 6, 
+2010, the Chief Civil Deputy, Mr. 11 Vanscoy, 
+wrote to state that Mr. Lindquist would not 
+discuss the case of State v. Venegas. l2 Attached 
+hereto as Exhibit 15 is a true and correct copy of 
+this letter. l3 Nine months after the case was 
+reversed, Mr. McCann allowed the defendant to plea 
+to a 14 single count of second-degree child 
+assault. He recommended that the defendant receive 
+the low
 :: end of the standard range, or 31 months.
 
 1 7 In 2010, I filed a public disclosure request for any disciplinary actions against these two
@@ -1308,35 +1393,54 @@ exposition on all the derogatory letters is beyond the scope of this declaration
 
 letter lilrther supports charges that Mr. Lindquist abuses the power of his office.
 
-As noted above, Charge F involves Mr. Lindquist’s mismanagement of the office,
-which results in numerous reversals for prosecutorial misconduct. Mr. Lindquist”s
-mismanagement stems from his complete inability to recognize prosecutorial misconduct.
-(See discussion in Part II, C above). His personal record in this area establishes this fact. I
+As noted above, Charge F involves Mr. Lindquist’s 
+mismanagement of the office, which results in 
+numerous reversals for prosecutorial misconduct. 
+Mr. Lindquist”s mismanagement stems from his 
+complete inability to recognize prosecutorial 
+misconduct. (See discussion in Part II, C above). 
+His personal record in this area establishes this 
+fact. I
 
-raised this issue throughout the 2010 election. My first speech on this topic drew another
-official “warning.” In this letter, Chief of Staff Dawn Farina took me to task for a campaign
-speech I gave on Saturday, June 19, 2010. The theme of this speech was that Mr. Lindquist,
-as a trial attorney, had repeatedly been reversed for prosecutorial misconduct and other trial
-irregularities. I focused on the cost of second trials and his decision to avoid second trials by
-letting the defendants plea to lesser charges. I obtained the data for this speech from a public
-records request answered by his office. Attached hereto as Exhibit 16 is a true and correct
-copy of that portion of Mr. Lindquist’s public disclosure response, which showed there were
-nine reversals of felony cases handled primarily or jointly by Mr. Lindquist.
+raised this issue throughout the 2010 election. My 
+first speech on this topic drew another official 
+“warning.” In this letter, Chief of Staff Dawn 
+Farina took me to task for a campaign speech I 
+gave on Saturday, June 19, 2010. The theme of this 
+speech was that Mr. Lindquist, as a trial 
+attorney, had repeatedly been reversed for 
+prosecutorial misconduct and other trial 
+irregularities. I focused on the cost of second 
+trials and his decision to avoid second trials by 
+letting the defendants plea to lesser charges. I 
+obtained the data for this speech from a public 
+records request answered by his office. Attached 
+hereto as Exhibit 16 is a true and correct copy of 
+that portion of Mr. Lindquist’s public disclosure 
+response, which showed there were nine reversals 
+of felony cases handled primarily or jointly by 
+Mr. Lindquist.
 
-Neither Mr. Lindquist, Ms. Robnett nor Ms. Farina, were present at this event. Mr.
-McCann appeared as a candidate for district court judge. As I was speaking, I noticed that he
+Neither Mr. Lindquist, Ms. Robnett nor Ms. Farina, 
+were present at this event. Mr. McCann appeared as 
+a candidate for district court judge. As I was 
+speaking, I noticed that he
 
 was frantically texting someone.
 
-Three days later, Ms. Farina delivered another letter of warning. She accused me of
-“dishonesty” for the statements I made on June 19, 2010 about Mr. Lindquist’s record.
-Attached hereto as Exhibit 17 is a true and correct copy of this letter. I objected to this letter
-and pointed out that I had relied on the data provided by the prosecutor’s public records
+Three days later, Ms. Farina delivered another 
+letter of warning. She accused me of “dishonesty” 
+for the statements I made on June 19, 2010 about 
+Mr. Lindquist’s record. Attached hereto as Exhibit 
+17 is a true and correct copy of this letter. I 
+objected to this letter and pointed out that I had 
+relied on the data provided by the prosecutor’s 
+public records
 
-officer. After the speech, the office “amended” this public disclosure response to show that
+officer. After the speech, the office “amended” 
+this public disclosure response to show that
 
-DECLARATION or FITZER, LEIGHTON &
-BERTHA B. FITZER
+DECLARATION or FITZER, LEIGHTON & BERTHA B. FITZER
 
 RE: RECALL OF MARK LINDQUIST FE'EEEE’T EWS'
 
@@ -1395,12 +1499,17 @@ Farina.
 
 I. Intimidation of Other Members of the Public.
 
-In addition to misusing the disciplinary process, Mr. Lindquist used the power of his
-office to intimidate members of the community. Prior to the letter of reprimand, l was the
-Chair-Elect of the Mary Bridge Children’s Hospital Foundation.13 I had served as a Director
-on that board since 2003. My husband and I had personally raised close to $200,000 for the
-Child Abuse Intervention Department (CAID). CAlD works closely with the schools, law
-enforcement and the Prosecutor’s Office to investigate and treat child abuse.
+In addition to misusing the disciplinary process, 
+Mr. Lindquist used the power of his office to 
+intimidate members of the community. Prior to the 
+letter of reprimand, l was the Chair-Elect of the 
+Mary Bridge Children’s Hospital Foundation.13 I 
+had served as a Director on that board since 2003. 
+My husband and I had personally raised close to 
+$200,000 for the Child Abuse Intervention 
+Department (CAID). CAlD works closely with the 
+schools, law enforcement and the Prosecutor’s 
+Office to investigate and treat child abuse.
 
 Periodically, Mary Bridge, and the other participants, renew their commitment to
 cooperation by signing “protocols.” During the summer of 201 0, a protocol signing was
@@ -1875,8 +1984,9 @@ Criminal
 State v. Douglas, Pierce County Superior Court (2010)
 Arson in First Degree, (Exceptional: 8 times the standard range)
 
-State v. Larry Hayes, Pierce County Superior Court (2009)
-Leading Organized Crime (RICO). Sentence 180 months (exceptional)
+State v. Larry Hayes, Pierce County Superior Court 
+(2009) Leading Organized Crime (RICO). Sentence 
+180 months (exceptional)
 
 State v. Stone Phillip, Pierce County Superior Court (2009)
 Securities Fraud; Sentence 215 months (exceptional)
@@ -1887,8 +1997,9 @@ Fraud prosecution of sexual predator. Sentence 79 months consecutive to sex crim
 State v. Moseley, Pierce County Superior Court (2008)
 Attempted Arson prosecution of inmate at Special Commitment Center
 
-State v. Calhoun, Pierce County Superior Court (2008)
-RICO case. Pled as charged: Sentence 198 months
+State v. Calhoun, Pierce County Superior Court 
+(2008) RICO case. Pled as charged: Sentence 198 
+months
 
  
 
@@ -2667,13 +2778,20 @@ Fraud cases with multiple counts. unlike other types of crimes. typically involv
 and multiple victims. This fact means that the attorney handling the case typically prepares the
 case as a series of smaller cases within the larger whole.
 
-These numbers also mean that the cases handled by this team impact a greater number of the
-members of the public. For example, in the RICO case I tried this summer. State v. Larry Hayes,
-the defendant had the credit card number of over 800 members of the public. The RICO case that
-Lisa and I settled in 2008, likewise had many victims and hundreds of thousands of dollars of
-losses to banks and individuals. The individuals who commit these crimes wreck havoc on the
-credit and lives of thousands of people. Moreover. these individuals are frequently extremely
-dangerous. The RICO charges that this office has brought frequently involve issues of witness
+These numbers also mean that the cases handled by 
+this team impact a greater number of the members 
+of the public. For example, in the RICO case I 
+tried this summer. State v. Larry Hayes, the 
+defendant had the credit card number of over 800 
+members of the public. The RICO case that Lisa and 
+I settled in 2008, likewise had many victims and 
+hundreds of thousands of dollars of losses to 
+banks and individuals. The individuals who commit 
+these crimes wreck havoc on the credit and lives 
+of thousands of people. Moreover. these 
+individuals are frequently extremely dangerous. 
+The RICO charges that this office has brought 
+frequently involve issues of witness
 
 intimidation, threats and a subculture of violence. It is for this reason that RICO is a level IX
 charge and a strike offense.
@@ -4213,42 +4331,64 @@ Via Hand Delivery
 
 Dear Bertha,
 
-You are attempting to turn your personal grudges into a political agenda. 1 am aware of some of
+You are attempting to turn your personal grudges 
+into a political agenda. 1 am aware of some of
 
-your previous spats where you escalated your petty complaints -- against Judge Elaine Houghton,
+your previous spats where you escalated your petty 
+complaints -- against Judge Elaine Houghton,
 
-against the Pierce County Prosecutors’ Association, and now against the colleagues you unjustly
+against the Pierce County Prosecutors’ 
+Association, and now against the colleagues you 
+unjustly
 
-attack in your 13 page “formal response” of April 13th, 2010. Your unjust attack on your
+attack in your 13 page “formal response” of April 
+13th, 2010. Your unjust attack on your
 
-colleagues is the most reprehensible aspect of your letter.
+colleagues is the most reprehensible aspect of 
+your letter.
 
-As for your view that we have an “adversarial posture,“ you created this when you announced your
+As for your view that we have an “adversarial 
+posture,“ you created this when you announced your
 
-candidacy after receiving a reprimand for mismanagement of your caseload. From the time you
-moved out of Team 11, you likely knew your mismanagement would be discovered. I will continue
+candidacy after receiving a reprimand for 
+mismanagement of your caseload. From the time you 
+moved out of Team 11, you likely knew your 
+mismanagement would be discovered. I will continue
 
-to treat you fairly as a deputy prosecutor, but you are going to be accountable to your supervisors,
-to me, and to the public, consistent with our core values.
+to treat you fairly as a deputy prosecutor, but 
+you are going to be accountable to your 
+supervisors, to me, and to the public, consistent 
+with our core values.
 
-If you really believed all the charges you made and you had the integrity you claim, you would
-move on, but I don’t think you believe all your allegations. For example, you know we’ve never
+If you really believed all the charges you made 
+and you had the integrity you claim, you would 
+move on, but I don’t think you believe all your 
+allegations. For example, you know we’ve never
 
-had any “past disputes” about importing “partisan politics into the office.” This never happened.
+had any “past disputes” about importing “partisan 
+politics into the office.” This never happened.
 
-You claim that a “passion for justice” offends me. As a member of this office, you should know
+You claim that a “passion for justice” offends me. 
+As a member of this office, you should know
 
-that a passion for justice would not offend anyone here. What offends people are your false
-allegations, your lack of candor, your lack of self-awareness, and your unwillingness to accept
+that a passion for justice would not offend anyone 
+here. What offends people are your false 
+allegations, your lack of candor, your lack of 
+self-awareness, and your unwillingness to accept
 
-responsibility. If you ever want to be successml and happy in this office or any professional
-environment, you will need to be more honest with yourself and those you work with. If you treat
+responsibility. If you ever want to be successml 
+and happy in this office or any professional 
+environment, you will need to be more honest with 
+yourself and those you work with. If you treat
 
-your colleagues with respect, they will reciprocate.
+your colleagues with respect, they will 
+reciprocate.
 
-Chief Criminal Deputy Mary Robnett will respond further to your letter. Meanwhile, you would do
-well to quit making excuses, quit your political posturing, quit talking about working for the public
-and start actually doing it.
+Chief Criminal Deputy Mary Robnett will respond 
+further to your letter. Meanwhile, you would do 
+well to quit making excuses, quit your political 
+posturing, quit talking about working for the 
+public and start actually doing it.
 
 ank you,
 
@@ -4714,125 +4854,145 @@ captions and superimposed text.
 
 ## The Prejudieial Slides
 
-One photograph of money seized by police was superimposed 
-with the heading, “MONEY 15 MORE IMPORTANT THAN HUMAN 
-LIFE," though those words were not used in testimony. 
-Another slide contained a photo of the victim superimposed 
-with the heading, “DEFENDANT'S GREED AND CALLOUS DISREGARD 
-FOR HUMAN LIFE” and with text describing the distribution 
-of the stolen proceeds among the robbery participants. A 
-photo of the defendant and his family eating a lobster 
-dinner following the robbery was captioned, “THIS 15 HOW 
-YOU MURDER AND ROB N 5, NEXT TIME IT WILL BE MORE MONEY," 
-an admissible statement attributed to Walker. Further, 
-Walker’s booking photograph was altered with the caption, 
-“WE ARE GOING TO BEAT THIS,” another admitted statement 
-attributed to Walker. Over 100 of the prosecution's slides 
-stated that Walker was “GUILTY" in bright red 
-lettering. One series of slides suggested Walker was guilty 
-because he used the money to purchase video games and 
-lobster.
+One photograph of money seized by police was 
+superimposed with the heading, “MONEY 15 MORE 
+IMPORTANT THAN HUMAN LIFE," though those words 
+were not used in testimony. Another slide 
+contained a photo of the victim superimposed with 
+the heading, “DEFENDANT'S GREED AND CALLOUS 
+DISREGARD FOR HUMAN LIFE” and with text describing 
+the distribution of the stolen proceeds among the 
+robbery participants. A photo of the defendant and 
+his family eating a lobster dinner following the 
+robbery was captioned, “THIS 15 HOW YOU MURDER AND 
+ROB N 5, NEXT TIME IT WILL BE MORE MONEY," an 
+admissible statement attributed to Walker. 
+Further, Walker’s booking photograph was altered 
+with the caption, “WE ARE GOING TO BEAT THIS,” 
+another admitted statement attributed to Walker. 
+Over 100 of the prosecution's slides stated that 
+Walker was “GUILTY" in bright red lettering. One 
+series of slides suggested Walker was guilty 
+because he used the money to purchase video games 
+and lobster.
 
-Walker's counsel failed to object to the slides, and the 
-jury convicted him on all charges. Walker appealed on the 
-grounds of prosecutorial misconduct, improper jury 
-instructions, and ineffective assistance of counsel. The 
-Washington Court of Appeals affirmed the convictions.
+Walker's counsel failed to object to the slides, 
+and the jury convicted him on all charges. Walker 
+appealed on the grounds of prosecutorial 
+misconduct, improper jury instructions, and 
+ineffective assistance of counsel. The Washington 
+Court of Appeals affirmed the convictions.
 
 ##Prosecutor Crossed the Llne
 
-The Washington Supreme Court unanimously reversed the 
-conviction and remanded the case for a new trial due to 
-prosecutorial misconduct. Generally, a defendant “has the 
-burden of showing the prosecutor's conduct was both 
-improper and prejudicial in the context of the entire 
-trial,” and must also show that an instruction would not 
-have cured the prejudice if raised for the first time on 
-appeal, according to the court.
+The Washington Supreme Court unanimously reversed 
+the conviction and remanded the case for a new 
+trial due to prosecutorial misconduct. Generally, 
+a defendant “has the burden of showing the 
+prosecutor's conduct was both improper and 
+prejudicial in the context of the entire trial,” 
+and must also show that an instruction would not 
+have cured the prejudice if raised for the first 
+time on appeal, according to the court.
 
-Multimedia resources and visual aids can and should be used 
-in closing arguments to help the jury understand the 
-evidence and issues, but the slides in this case “served no 
-legitimate purpose" and “obfuscated the complicated facts" 
-in this case, the majority opined. The prosecution’s 
-addition of inflammatory captions and text to admitted 
-exhibits constituted the presentation of altered evidence 
-to the jury, according to the majority. The majority also 
-held that the additional text violated Oregon Rule of 
-Professional Conduct 3.4(e), which prohibits expression of 
-personal opinion on the defendant's guilt, and found the 
-sheer volume of improper slides presumptively prejudicial. 
-The court suggested trial judges preview attorneys’ 
-PowerPoint presentations to the jury to avoid future 
-retrial.
+Multimedia resources and visual aids can and 
+should be used in closing arguments to help the 
+jury understand the evidence and issues, but the 
+slides in this case “served no legitimate purpose" 
+and “obfuscated the complicated facts" in this 
+case, the majority opined. The prosecution’s 
+addition of inflammatory captions and text to 
+admitted exhibits constituted the presentation of 
+altered evidence to the jury, according to the 
+majority. The majority also held that the 
+additional text violated Oregon Rule of 
+Professional Conduct 3.4(e), which prohibits 
+expression of personal opinion on the defendant's 
+guilt, and found the sheer volume of improper 
+slides presumptively prejudicial. The court 
+suggested trial judges preview attorneys’ 
+PowerPoint presentations to the jury to avoid 
+future retrial.
 
 ## Race Improperly Highlighted
 
-The concurring justices—noting that many of the PowerPoint 
-slides presented “actual quotations from or portions of 
-photos from properly admitted evidence, or both," and were 
-thus “fair game during closing"—found the use of altered 
-evidence to be less pervasive than the majority. The 
-concurrence focused instead on the prosecutor’s improper 
-emphasis on race, observing that even if admitted into 
-evidence, presenting exhibits and testimony in a fashion 
-unfairly emphasizing a defendant’s race is impermissible.
+The concurring justices—noting that many of the 
+PowerPoint slides presented “actual quotations 
+from or portions of photos from properly admitted 
+evidence, or both," and were thus “fair game 
+during closing"—found the use of altered evidence 
+to be less pervasive than the majority. The 
+concurrence focused instead on the prosecutor’s 
+improper emphasis on race, observing that even if 
+admitted into evidence, presenting exhibits and 
+testimony in a fashion unfairly emphasizing a 
+defendant’s race is impermissible.
 
-The concurring judges reasoned that an admitted statement 
-containing the “n-word," when combined with an admitted 
-photo depicting the defendant eating a lobster dinner with 
-his family, essentially “altered " the photo because the 
+The concurring judges reasoned that an admitted 
+statement containing the “n-word," when combined 
+with an admitted photo depicting the defendant 
+eating a lobster dinner with his family, 
+essentially “altered " the photo because the 
 “n-word" stressed defendant's race. Similarly, the 
-concurrence found that the defendant's booking photo was 
-“doubly altered” when captioned with the defendant's 
-statement, “We are going to beat this." The prosecutor 
-excised the booking photo from a photo lineup that was 
-admitted into evidence, and superimposed on it the 
-defendants quote. The concurrence noted that standing alone 
-and unaltered, presentation of these two items of evidence 
-at closing would have been proper. But when presented 
-together, the prosecutor impermissibly emphasized the 
-defendant's race, where racial motive was either alleged or 
+concurrence found that the defendant's booking 
+photo was “doubly altered” when captioned with the 
+defendant's statement, “We are going to beat 
+this." The prosecutor excised the booking photo 
+from a photo lineup that was admitted into 
+evidence, and superimposed on it the defendants 
+quote. The concurrence noted that standing alone 
+and unaltered, presentation of these two items of 
+evidence at closing would have been proper. But 
+when presented together, the prosecutor 
+impermissibly emphasized the defendant's race, 
+where racial motive was either alleged or 
 relevant.
 
 ##Proper versus Improper Slides
 
-ABA Section of Litigation leaders agree that reversal was 
-proper. “There was no way to separate the outcome from the 
-conduct of the prosecutor," says Dawn Du Verney, 
-Philadelphia, PA, cochair of the Section of Litigation's 
-Criminal Litigation Committee. “The prosecutor not only 
-presented the evidence, but usurped the jury's role as 
-trier of fact by telling the jurors how to think about the 
-evidence and what to conclude as well,” she explains.
+ABA Section of Litigation leaders agree that 
+reversal was proper. “There was no way to separate 
+the outcome from the conduct of the prosecutor," 
+says Dawn Du Verney, Philadelphia, PA, cochair of 
+the Section of Litigation's Criminal Litigation 
+Committee. “The prosecutor not only presented the 
+evidence, but usurped the jury's role as trier of 
+fact by telling the jurors how to think about the 
+evidence and what to conclude as well,” she 
+explains.
 
-“Demonstrative pieces used during closings are supposed to 
-summarize facts and evidence, but the evidence was peppered 
-with opinion and argument. The concern is that the jury 
-would be confused as to what is actually evidence versus 
-what is actually the prosecutor's argument," states D. 
-Grayson Yeargin, Washington, D.C., cochair of the Sections 
-Civil Rights Litigation Committee. The prosecution may have 
-also overreached into the jury's role by captioning photos 
-with witness testimony, according to Yeargin. “It's for the 
-jury to connect the dots between the pieces of evidence, 
-and by presenting evidence in that way, the jury could be 
-misled into thinking those two things must be linked in the 
-evidence," observes Yeargin.
+“Demonstrative pieces used during closings are 
+supposed to summarize facts and evidence, but the 
+evidence was peppered with opinion and argument. 
+The concern is that the jury would be confused as 
+to what is actually evidence versus what is 
+actually the prosecutor's argument," states D. 
+Grayson Yeargin, Washington, D.C., cochair of the 
+Sections Civil Rights Litigation Committee. The 
+prosecution may have also overreached into the 
+jury's role by captioning photos with witness 
+testimony, according to Yeargin. “It's for the 
+jury to connect the dots between the pieces of 
+evidence, and by presenting evidence in that way, 
+the jury could be misled into thinking those two 
+things must be linked in the evidence," observes 
+Yeargin.
 
-The Waiker court did not draw a bright line governing the 
-content of PowerPoint slides, but Section leaders agree 
-that a key criterion is whether the visual aid helps or 
-confuses the jurors. “The demarcation line is where you 
-cross the line of advocacy into confusion. That's when the 
-courts get involved and it should be stopped," opines Yea 
-rgin.
+The Waiker court did not draw a bright line 
+governing the content of PowerPoint slides, but 
+Section leaders agree that a key criterion is 
+whether the visual aid helps or confuses the 
+jurors. “The demarcation line is where you cross 
+the line of advocacy into confusion. That's when 
+the courts get involved and it should be stopped," 
+opines Yea rgin.
 
-Trial attorneys are advised to skip the theatrics, to be 
-mindful to present only admitted evidence, and to present 
-admitted evidence in an evenhanded way. “Anything that is 
-on the edge, you may just want to artfully allude to it," 
-recommends Du Verney.
+Trial attorneys are advised to skip the theatrics, 
+to be mindful to present only admitted evidence, 
+and to present admitted evidence in an evenhanded 
+way. “Anything that is on the edge, you may just 
+want to artfully allude to it," recommends Du 
+Verney.
 
 Related Resources
 
@@ -4860,29 +5020,34 @@ REAR MORE"
 H Court Enforces Limits on Duty to Preserve Evidence
 is No Results? No Fees in Civil Rights Case
 
-n Agreement to Arbitrate Upheld after LLC Converted to Corporation
-a: Law Finn's “Dishonest" Conduct Merits Sanctions
+n Agreement to Arbitrate Upheld after LLC 
+Converted to Corporation a: Law Finn's “Dishonest" 
+Conduct Merits Sanctions
 
-s Attomey-Client Privilege Does Not Apply to Risk Managers
+s Attomey-Client Privilege Does Not Apply to Risk 
+Managers
 
-e To Enforce a Settlement, JUrisdiction Must Be Expressly Retained
+e To Enforce a Settlement, JUrisdiction Must Be 
+Expressly Retained
 
-1» Severe Attorney Sanction Imposed For Asking Wrong Question
+1» Severe Attorney Sanction Imposed For Asking 
+Wrong Question
 
-» Energy Markets Exempted from Price Manipulation Claims
+» Energy Markets Exempted from Price Manipulation 
+Claims
 
-:6 Plaintiff Must Prove Service on Motion to Vacate Default Judgment
+:6 Plaintiff Must Prove Service on Motion to 
+:Vacate Default Judgment
 
-a Delaware Rapid Arbitration Act Promises Speedy Arbitrations
-PUBLIGATIG’NS
+a Delaware Rapid Arbitration Act Promises Speedy 
+Arbitrations PUBLIGATIG’NS
 
 Litigation Haws '
 
    
    
 
-a Epimg suit.
-a Back Issues
+a Epimg suit. a Back Issues
 
 Litigation
 

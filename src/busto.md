@@ -404,6 +404,8 @@ from an article that the death threat investigation had not identified a suspect
 
 # See Nissen
 
+[also see PierceJustice](top.html)
+
 <mark>Robnett, the object of the death threat, confirmed that both she and Lindquist believed
 that Nissen sent the death threat and were concerned that the PCSD was not doing enough to
 investigate the matter. Robnett also recalled that Lindquist wanted to know whether Wagner
@@ -472,7 +474,7 @@ investigation of Nissen.
 
 <sup>12</sup> Lindquist’s personal attorney attended the meeting by telephone.  
 <sup>13</sup> Adams’ office was physically located at the PCSD.  
-<sup>14</sup> Robnett recalled that Vansccy, to his credit, “stood up to Lindquist” and said, “If Adams says it’s privileged, then it is.”  
+<sup>14</sup> Robnett recalled that Vanscoy, to his credit, “stood up to Lindquist” and said, “If Adams says it’s privileged, then it is.”  
 <sup>15</sup> _See also_, "Lindquist Involvement in Deputy Investigation at Center of Phone Records Case", Tacoma News Tribune, June 10, 2015.
 
 
@@ -1281,9 +1283,9 @@ emails admonishing DPAs about the use of PowerPoint and urging them to read the 
 <hr>
 
 <sup>33</sup> Peggy Noonan is an American author of several books on politics, religion, and culture, and a weekly columnist
-for The Wall Street Journal.
+for The Wall Street Journal.  
 <sup>34</sup> DPA Annie Guttierez recalled that DPAs in the Misdemeanor Division have received training on the use of
-PowerPoint in closing arguments.
+PowerPoint in closing arguments.  
 <sup>35</sup> Assigning DPA James Curtis to Prosecute a Predominately African
 American Caseload.
 
@@ -1387,7 +1389,7 @@ making the statement; she recounted the statement contemporaneously in a text me
 coworker; and, Lindquist agreed that he transferred Nelson to Class A felonies (instead of Lund)
 because he was “trying to cultivate the careers of the young trial attorneys.”
 
-6.. Lindquist Prefers to Hire Physically Attractive People.
+# See Lindquist Prefers to Hire Physically Attractive People.
 
 Allegation: The Penner Complaint alleged generally that Lindquist prefers to hire and
 surround himself with physically attractive people; he offers jobs and assignments to attractive
@@ -1824,7 +1826,7 @@ office based, in part, on how much publicity (positive and negative) it was goin
 For example, Robnett recalled a comment made by Lindquist after the murders of the four
 Lakewood police officers. She said that Lindquist spent significant time at the crime scene.
 Later, he commented that he was going to have to run for re-election and would get $100K of
-free publicity from the murders. Lindquist’s comment was continued by other witnesses.</mark>
+free publicity from the murders. Lindquist’s comment was confirmed by other witnesses.</mark>
 
 In sum, I do not find that Lindquist has exercised “undue influence over media
 coverage.” As Judge Sorenson observed, “Lindquist is an elected official; he has as much access
