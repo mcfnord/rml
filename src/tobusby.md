@@ -1,3 +1,270 @@
+In response:
+
+Mr. Fogg summarizes events and claims reported to the PCPAO that
+arrived in their probable cause declaration. Some of these are
+false claims, for example, there were no taunting videos from me,
+regardless of what Ms. Young's clients claimed.
+
+I was not charged with a count of Intimidating 
+a Judge and 3 counts of Felony Harassment. I was charged on Feb 23rd
+with 4 counts of Felony Harassment, and Judge Tollefson was not
+any count at that time. The four alleged victims on Feb 23rd were:
+D & M Murphy, and H. Young and C. Hansen.
+
+Mr. Fogg's summary of his Exhibit B is incomplete, as he omits
+the attributed reporting that "Lindquist says investigators consider
+x a threat." 
+
+Mr. Fogg's summary of Exhibit C is confused about which victims
+were added in the summer, but it's accurate to say
+that August 20th concluded with 7 felony charges against me.
+
+Mr. Fogg's claim that Judge Culpepper granted my motion to dismiss
+the Intimidating a Judge violation is close to my recollection,
+except the procedure eliminating the charge was a _pre-trial motion_,
+with no jury seated or trial actually started. This ruling, to my
+layman understanding, meant not that the crime didn't occur, but
+that it _could not have occurred_.
+
+Mr. Fogg's claim that on October 7th, 2015, Judge Culpepper
+acquitted me based<ul>largely on the fact that most of the alleged
+victims were not Facebook "friends" with Mr. Dempsey and therefore
+did not receive his alleged threat</ul>is incorrect. While his Exhibit D
+makes note of these details, Facebook friend connections are not
+mentioned in Judge Culpepper's oral verdict, nor did the 
+ability of any alleged victim to see my friend-protected post play
+any role in Judge Culpepper's decision, because access to a threat
+is not a factor or defense in Washington's direct threat (real threat?)
+case law.
+Instead, Judge Culpepper
+ruled that I did not have the motive to communicate a threat,
+a critical component of all felonies. Judge Culpepper's oral
+verdict is my Exibit.x.
+
+"Lindquist said investigators consider Dempsey a threat" is not information 
+contained in the Declaration for Determination of Probable Cause. An 
+accurate statement would be that _alleged victims_ consider Dempsey a 
+threat. Investigators only conclude their view that I communicated a threat 
+to murder that they expand to four counts of the crime apparently based on 
+the length of a list of people they assembled during an apparent 
+investigation. 
+
+As well, Mr. Lindquist's claim that he "rounded me up" is not information
+protected by RPC 3.6, as it is not the fact of, time, or
+place of an arrest. Rather, it's a characterization of an arrest
+unspecific to any place and particular to vernacular typically
+applied to cattle. 
+
+Mr. Fogg claims<ul>RPC 3.6(a) must function consistently with the 
+generally-recognized duties of an elected prosecutor, which include 
+educating the public about crime in their community, about the nature and 
+reasoning behind their office's charging decisions, and about the criminal 
+justice system generally</ul> is misapplied here. Educating the public about 
+crime fairly entails encouraging people to lock their car doors at night, 
+and take walks with a friend, and this specific matter is not about the 
+criminal justice system generally. RPC 3.6 establishes clear rules 
+information disclosures that "the nature and reasoning behind a charging 
+decision" cannot exceed. I would have no objection had the prosecutor
+made statements about the nature and extent of his actions, which
+would be that he asked and I agreed to submit to arrest based on 4 counts of
+communicating a threat to murder. Mr. Fogg's
+_Functions and Duties of the Prosecutor_ don't seek to exceed the
+clear limits placed on prosecutors by RPC 3.6.
+
+Mr. Fogg has misinterpreted RPC 3.6 cmt. 1, which also does not
+advocate for statements outside the limits presented in the Rule.
+The fact, time, and place of the arrest and specification of
+charges are exactly the "information about legal proceedings themselves".
+cmt 1 might continue that the public has a "right to know about threats
+to its safety and measures aimed at assuring its security" but these
+tasks do not exceed the clear limitation of RPC 3.6, as once I was
+in custody, I could not be a threat. A genuine "measure aimed at
+assuring public security" might be increased night patrols during
+a crime wave, or other measure addressing an active safety threat.
+
+Mr. Fogg argues that RPC 3.8(f) was not violated. It was. 
+RPC 3.8(f) only adds limitations on prosecutors. The nature and
+extent of the prosecutor's action was, as previously stated,
+that he asked and I agreed to submit to arrest based on 4 counts of
+communicating a threat to murder. His claim that "investigators consider
+Dempsey a threat" and that "we rounded him up" are not protected under
+RPC 3.8(f), as they do not serve a legitimate law enforcement purpose.
+No investigator declares they considered me a threat, and the folksy
+characterization of an arrestee roundup is misleading in ways
+explained previously, and outside the protections regarding the fact, time,
+and place of arrest.
+
+RPC 3.8 cmt 5 does not justify these prohibited statements, and
+"the announcement of an indictment, for example, will necessarily
+have severe consequences for the accused." Such an announcement is limited
+to the fact, time, and place of arrest, and I agree such statements
+would have severe consequences for the person involved. Mr. Lindquist's
+statements that exceeeded the clear limits of RPC 3.6 (7)(iii) 
+have severe consequences that are not tolerated by under RPC rules.
+
+So I disagree with Mr. Fogg's view that RPC 3.6 and RPC 3.8 were not
+violated.
+
+Mr. Fogg claims that the statement "we moved quick" is protected
+under RPC 3.6 (b)(3), but it is not. The Rule is clear, that a prosecutor
+can state that an investigation of a matter is in progress. This does
+not protect self-congratulatory statements or specific statements
+about an investigation's developments, only that an investigation is
+in progress. Could you imagine another prosecutor, Robert Mueller,
+saying, "We rounded up Manifort today. We wanted to move quick" and
+then defending his public statement using RPC 3.6(b)(3)? A statement
+that an investigation is in progress is a precise, limited statement 
+with no wiggle room provided for additional details or high-fives.
+It is not, as Mr. Fogg claims, "scheduling or result of any step in
+litigation" as "rounding up" is a (misleading) _characterization_ of an 
+arrest (not a fact of, time, or place of arrest), and "we didn't wait"
+is not a report of a scheduled event or step of litigation. Rather,
+it's a subjective evaluation of PCPAO performance that seems to
+represent cheerleading and mislead the public about urgency
+unreflected in the actual timeline.
+
+In summary so far, I dispute the safe harbor status
+of statements to the press that 
+"investigators consider Dempsey a threat" so the PCPAO 
+"move[d] quick" to "round him up" for reasons I've covered.
+
+Compare to a protected statement: "Alleged victims consider
+Dempsey a threat, so at our request, he appeared at the courthouse
+at 4pm and was arrested for 4 counts of Felony Harassment. This is an
+ongoing investigation."
+
+In the modified statement, note the absence of ambiguity, subjective
+claims of swiftness, and cattle-oriented imagery.
+
+Mr. Fogg claims I'm lying regarding waiving a jury trial due to Mr. 
+Lindquist's prohibited statements. His claim is insulting. The fact is that 
+I waived the jury at the appropriate time to do so, and with much effort.
+His Exhibit E makes the sequence of events clear:
+
+On September 22nd, I waived my right to a jury.
+On September 28, the next day of trial acitivities, Judge Culpepper
+said he could not act as finder of fact because he is a friend of 
+Judge Tollefson. That afternoon, I argued successfully that the
+offense against Judge TOllefson _could not have occurred_. With
+the charge eliminated, I was able to waive my right to a jury a second
+and final time before the trial began.
+
+Mr. Fogg seems to have reversed my motives in his determination of 
+dishonesty. How would I waive a jury trial "because of concern about bias 
+_from the assigned trial judge_"? The trial judge's concern about his own 
+bias forced me to withdraw my waiver until I was able to eliminate the cause 
+of the judge's bias concern, and waive again. Where's the lie? I was not in 
+a position to schedule a trial in another court, but strenuously resisted a 
+jury trial for the exact reasons stated. In his footnote 6, Mr. Fogg
+notes the facts correctly, and now I've noted the motives that led to
+those facts. Mr. Busby, do you see evidence of a lie here?
+
+Mr. Fogg claims "very strong policy reasons why the.... Grievance should be 
+dismissed outright." I've disputed his claim that RPC 3.6(b) protects the 
+statements. He's also claiming my successful effort to waive the jury trial 
+adds up to "none of the alleged prejudice" actually materializing. What 
+materialized was "the poisoning of the well" where it became hard to find a 
+jury I know to be unexposed to the prohibited public statements. Far from 
+cause for dismissal, that I felt it necessary to waive my jury trial at 
+considerable effort and some risk of failure should give pause to any 
+advocate of justice who values what Justice Scalia called the "gold standard 
+of American justice".
+
+Mr. Fogg claims elected prosecutors must be "given a degree of latitude to 
+explain the nature and basis for" charges. Mr. Fogg characterizes the 
+prohibited statements as "basic", and appears to argue that "latitude" 
+implies a shift from the clearly-demarked RPC 3.6 statements into those 
+"basic" ones that are, in fact, prohibited by the Rule. Mr. Fogg goes on to 
+express concern for prosecutors state-wide. I am not aware of chronic 
+violators of RPC 3.6 outside Pierce County. In my own King County, the 
+elected prosecutor is able to stay within the rules, primarily by witholding 
+statements until the accused are convicted of crimes. This is one 
+straightforward remedy to the fear Mr. Fogg expresses about "muzzled 
+prosecutors". 
+
+Apparently convinced that I'm asking the ODC to enforce standards 
+exceeding those clearly stated in RPC 3.6(b), Mr. Fogg paints a dystopic 
+outcome where "criminal defendants and prosecutors' political opponents" 
+gain a "powerful new weapon with which to harass and impugn elected 
+officials for simply doing their job." I'm seeking nothing more than
+application of RPC 3.6(b), rather than any change to it. 
+Many of the "basic comments" Mr. Lindquist made to KIRO are also
+prohibited statements, and I have offered many basic statements
+that would clearly meet the safe harbor provisions of RPC 3.6(b).
+So I'm struggling to envision the dystopia groundswell criminal defendants 
+and political opponents might gain against prosecutors. But as a thought
+experiment, let's
+imagine a total replacement of RPC 3.6(b) with a prohibition of all
+statements about the accused. Does Mr. Fogg believe defendants would
+abandon 5th Amendment protections and instead speak publicly about
+the prosecutor or details of the arrest or any other topic? If so,
+these statements still can be used against the defendant in court by
+the prosecutor. Is it realistic to believe this would be the outcome
+of this change? 
+
+Mr. Fogg's dystopia includes political opponents. Within this thought 
+experiment of silence pertaining to the accused, a prosecutor can speak 
+freely after a trial concludes. Is it particularly unusual to envision the 
+state or actors within it bound to silence while facing withering criticism 
+by political opponents? Executives including the nation's President 
+presumably face sensitive geopolitical matters where silence is a requisit 
+even while political opponents make hay with speculation. It is not the duty 
+of the ODC to protect the political aspirations of lawyers who hold public 
+office.
+
+Mr. Fogg has located a website I maintain and publish on the public
+internet. I've included one document he mentions, a _Malfeasance Guide_,
+as Exhibit.x. Of x entries documenting malfeasance by Mr. Lindquist,
+one is a summary and HTML presentation of the letter you, Mr. Busby,
+provided to Mr. Lindquist announcing your decision to recommend a public
+disciplinary hearing, now scheduled for December. I leave it as an exercise
+to the reader to determine whether it's fair to call the prohibited
+statements Mr. Lindquist made on _Nancy Grace_ as malfeasance.
+
+In Footnote 7, Mr. Fogg identifies an account and specific tweet on 
+Twitter.com where I present a caricature of Mr. Lindquist, and lampoon
+and satarize him. The specific tweet Mr. Fogg quotes deserves
+additional exploration, as its language is hyperbolic, but its substance
+is a very serious criticism of his performance in office.
+FUSE voter's guide
+declaration of Buried the guy
+
+In fact, I am actively involved in the campaign to remove Mr. Lindquist.
+However, I strongly dispute Mr. Fogg's claim that my motive is animosity
+toward "Lindquist, the PCPAO, and the justice system generally". This is
+probably Mr. Fogg's most offensive claim.
+
+"Prosecutor Lindqist is a public official tasked with explaining to the 
+public the work his office does."
+
+I can envision many ways to meet this task, described here as a duty,
+without violating RPC 3.6.
+
+Being a lawyer sounds like a hard job. Being a lawyer who is an elected 
+official appearing on regionally broadcast television also sounds hard. This 
+is because the rules are strict, and that's because the strict rules are 
+established by the state's Supreme Court to defend the cause of justice. 
+Lawyers who cannot meet this high, important standard cannot be lawyers 
+safely in Washington State. 
+
+
+considering for a moment a prohibition 
+of 
+statements about the merely 
+accused
+But 
+it's hard to comprehend
+why a criminal defendant would waive his 5th Amendment right to silence
+to instead get vocal. What does this dystopia look like ?The prosecutor's 
+proper response 
+would be
+to collect these statements and present them to the court.
+
+
+
+
+
+
 The ethics of the N-word are a useful exercise. 
 Satirical use by a citizen in a political campaign 
 is irrelivant to this complaint. But misuse in 
