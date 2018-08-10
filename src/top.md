@@ -27,10 +27,10 @@ include:
 
  * Lindquist retaliates against employees who criticize him. 
  * Lindquist urged "no good deals" for a group of defense attorneys who were critical of him.
+ * Lindquist inquired several times about the attractiveness of a job applicant.
  * Lindquist said, according to several witnesses, that the 2009 Lakewood shooting of four police officers was worth **"$100,000 of free publicity"** for his pending re-election campaign.
 
 ### Links
- * Key excerpts (coming)
  * [Full Report](busto.html)
 
 ### Press
@@ -82,7 +82,7 @@ him unable to serve in this elected office.
 
 ### Links
 
- * [Full Report](grace.html)
+ * [Full Letter](grace.html)
 
 ### Press
 
@@ -92,7 +92,7 @@ him unable to serve in this elected office.
                                                                                                                                      
 # Dempsey bar complaint
 
-EXECUTIVE SUMMARY: Televised statements on _KIRO Evening News_, a regional television program, about the accused. 
+EXECUTIVE SUMMARY: Televised prohibited statements on _KIRO Evening News_, a regional television program, about the accused. 
 The prosecutor's seven felony claims were each **dismissed with prejudice** through a bench trial. Referred to 
 Washington State Bar Association June, 2018, and now **under investigation** by Scott Busby, Senior Disciplinary 
 Counsel.

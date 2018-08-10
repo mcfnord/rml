@@ -404,26 +404,27 @@ from an article that the death threat investigation had not identified a suspect
 
 # See Nissen
 
-[also see PierceJustice](top.html)
+_This is an excerpt from the independent investigation of Mark Lindquist comissioned by Pierce County in response to two detailed whistleblower complaints from top deputies.
+You can find out more at [the PierceJustice website](top.html)_
 
 <mark>Robnett, the object of the death threat, confirmed that both she and Lindquist believed
 that Nissen sent the death threat and were concerned that the PCSD was not doing enough to
 investigate the matter. Robnett also recalled that Lindquist wanted to know whether Wagner
 provided Nissen with the information contained in the email Nissen sent to the TNT critical of
 Lindquist and the PCPAO. Robnett described Lindquist’s insistence on finding Nissen’s
-information source as off-putting, misdirected and very strong — “not the way a prosecutor would
-talk to experienced detectives.”</mark>
+information source as **off-putting, misdirected and very strong — “not the way a prosecutor would
+talk to experienced detectives.**”</mark>
 
 <div id='nissen-robnett'>
 
 <mark>As further evidence of Lindquist's singular focus on Nissen as a suspect, Robnett said
-that Lindquist “kind of flipped out” when Nissen filed a Public Records Act (“PRA”) action
+that **Lindquist “kind of flipped out”** when Nissen filed a Public Records Act (“PRA”) action
 against the County after the settlement of her civil suit against Lindquist. Robnett said that she
 had considered filing a lawsuit against Nissen at the time of the civil suit but later decided
 against it. Nevertheless, Lindquist continued to press Robnett to sue Nissen. The conversation
 came to a head in October 2011. Robnett had a pointed discussion with Lindquist, told him that
-she was not prepared to sue Nissen and then left on a long road trip. She decided during the trip
-that she could no longer work for Lindquist and the PCPAO and resigned upon her return.</mark>
+she was not prepared to sue Nissen and then left on a long road trip. **She decided during the trip
+that she could no longer work for Lindquist** and the PCPAO and resigned upon her return.</mark>
 
 Commissioner and former DPA Craig Adams reported that the PCSD got a tip that
 another person associated with the “Craig’s List” murder cases (which Robnett prosecuted) could
@@ -431,23 +432,23 @@ have authored the death threat. Adams recalled that he was called into a meeting
 Farina, Robnett and his superiors in the Civil Division<sup>12</sup> and was questioned about his
 conversations with the Sheriff about the new suspect. Adams, who was the DPA assigned to the
 PCSD, said that his communications with the Sheriff were privileged and he could not disclose
-them unless the Sheriff waived the privilege. Lindquist dismissed Adams and asked the Sheriff
-to join the meeting, where Lindquist and his staff requested he waive the privilege. The Sheriff
+them unless the Sheriff waived the privilege. <mark>Lindquist dismissed Adams and asked the Sheriff
+to join the meeting, where **Lindquist and his staff requested he waive the privilege**. The Sheriff
 refused. Lindquist summoned Adams again and asked him to produce other evidence about the
-investigation of the “Craig’s List” suSpeet. Adams said that Lindquist and the others were upset
-at the existence of another suspect that could exonerate Nissen. They were also “very pissed off”
+investigation of the “Craig’s List” suspect. Adams said that **Lindquist and the others were upset
+at the existence of another suspect that could exonerate Nissen**. They were also “very pissed off”
 at him for not disclosing the privileged communication about the alternative suspect; and, they
 told him he was not a “team player“ because he had a duty to inform them about anything that
-could affect the PCPAO.
+could affect the PCPAO.</mark>
 
 Robnett confirmed that Lindquist was very unhappy with Adams because of his refusal to
 disclose his conversations with the Sheriff. Lindquist complained that Adams was not
 effectively communicating the Prosecutor’s position to the PCSD and suggested to Doug
 Vanscoy, Adams” supervisor, that Adams” office needed to be moved back to the PCPAO
 because he was getting too cozy with the PCSD.<sup>13</sup> Lindquist also suggested that Adams should
-be replaced at the PCSD and possibly terminated.<sup>14</sup> Adams, knowing that he had angered
+be replaced at the PCSD and possibly terminated.<sup>14</sup> <mark>Adams, knowing that he had angered
 Lindquist, soon thereafter took a position as a Pierce County Superior Court Commissioner and
-left the PCPAO after 20 years in his position.
+left the PCPAO after 20 years in his position.</mark>
 
 Finally, Mike Sonnnerfeld, the DPA assigned to the PCSD, said that Penner sent him a
 letter inquiring about PIE information involving Wood. He said that he used the PCSD’s internal
@@ -461,11 +462,11 @@ submission of PIE. Sommerfeld, Penner and Provost all denied having any basis fo
 that the letter was written to embarrass Wood.
 
 In light of this evidence, I find that <mark>Lindquist sought to focus the PCSD'S investigation of
-the Robnett death threat on Nissen and away from other possible suspects;</mark> and, Lindquist
+the Robnett death threat on Nissen **and away from other possible suspects**;</mark> and, Lindquist
 attempted to secure evidence during the investigation that Wagner supplied information about
 the PCPAO to Nissen.<sup>15</sup> However, I also further find the PCPAO had a legitimate basis for
 identifying Wood as a PIE officer and the PIE letter its DPA helped draft was not intended to
-embarrass him, notwithstanding any hustration that Lindquist had regarding Wood’s
+embarrass him, notwithstanding any frustration that Lindquist had regarding Wood’s
 investigation of Nissen.
 
 </div>
@@ -474,7 +475,7 @@ investigation of Nissen.
 
 <sup>12</sup> Lindquist’s personal attorney attended the meeting by telephone.  
 <sup>13</sup> Adams’ office was physically located at the PCSD.  
-<sup>14</sup> Robnett recalled that Vanscoy, to his credit, “stood up to Lindquist” and said, “If Adams says it’s privileged, then it is.”  
+<sup>14</sup> Robnett recalled that <mark>**Vanscoy, to his credit, “stood up to Lindquist”** and said, “If Adams says it’s privileged, then it is.”</mark>  
 <sup>15</sup> _See also_, "Lindquist Involvement in Deputy Investigation at Center of Phone Records Case", Tacoma News Tribune, June 10, 2015.
 
 

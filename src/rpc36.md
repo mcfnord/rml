@@ -107,11 +107,12 @@ could result in incarceration;
 (5)  information that the lawyer knows or reasonably should know is likely to be inadmissible as evidence in a
 trial and that would, if disclosed, create a substantial risk of prejudicing an impartial trial; or
 
-(6) the fact that a defendant has been charged 
-with a crime, unless there is included therein a 
-statement explaining that the charge is merely an 
-accusation and that the defendant is presumed 
-innocent until and unless proven guilty.
+(6) <mark>the fact that a defendant has been 
+charged with a crime, unless there is 
+included therein a statement explaining that 
+the charge is merely an accusation and that 
+the defendant is presumed innocent until and 
+unless proven guilty.</mark>
 
 [6] Another relevant factor in determining 
 prejudice is the nature of the proceeding 
