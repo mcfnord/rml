@@ -35,7 +35,7 @@ County Superior Court Judge Murphy’s Findings of
 Fact, Conclusions of Law, and Order of Dismissal, 
 referred to in the Statement of the Charges as the 
 “Lindquist Misconduct Findings.” A true and 
-correct copy of the Lindquis Misconduct Findings 
+correct copy of the Lindquist Misconduct Findings 
 is attached to the Statement of the Charges as 
 Exhibit 3.
 
@@ -99,7 +99,7 @@ of fear and bullying behavior.
 8. I am told members of the office have been 
 directed by Mr. Lindquist’s leadership cabal not 
 to talk to former DPA Mary Robnett, DPA John Neeb 
-or me. Many employees fear Mr. Lindquist. They 
+or me. <mark>Many employees fear Mr. Lindquist. They 
 fear not visibly supporting one of Mr. Lindquist’s 
 candidates or working on one of his candidate’s 
 political campaigns. They correctly believe lack 
@@ -108,11 +108,11 @@ careers. Mr. Lindquist encourages DPAs to occupy
 positions outside of the office to advance his 
 political interests. Mr. Lindquist promised some 
 DPAs judicial appointments in exchange for their 
-service to him. I observed a young female DPA who 
+service to him. **I observed a young female DPA who 
 was visibly shaken after she was approached on a 
 street corner by Mr. Lindquist in his Land Rover. 
-<mark>She explained to me that she was afraid of Mr. 
-Lindquist.</mark> Mr. Lindquist managed to place his DPAs 
+She explained to me that she was afraid of Mr. 
+Lindquist.**</mark> Mr. Lindquist managed to place his DPAs 
 on the Pierce County Bar Association Judicial 
 Qualifications Committee to help DPA’s Lineberry, 
 McCann and his other judicial candidates receive 
@@ -322,7 +322,7 @@ against Mr. Schacht for union vice president. Ms.
 Nohavec is a close personal friend of Mr. 
 Lindquist, and the two are often seen together 
 socializing. Mr. Lindquist’s management, who are 
-not union members, told union- member DPAs that 
+not union members, told union-member DPAs that 
 they should vote for Ms. Nohavec over Mr. Schacht 
 in the PCPAA election. Several management DPAs 
 followed Mr. Lindquist's order, including 
@@ -330,7 +330,7 @@ Misdemeanor Division Chief Timothy Lewis. Mr.
 Lewis encouraged the office's newest DPAs to vote 
 for Ms. Nohavec over Mr. Schacht. One DPA, Annie 
 Gutierrez, felt the pressure by Mr. Lewis was 
-inappropriat and reported the interference to 
+inappropriate and reported the interference to 
 PCPAA officer DPA Lisa Wagner. Due to the 
 impropriety of that conduct, the PCPAA held an 
 emergency meeting to address the issue. DPA Lewis 
