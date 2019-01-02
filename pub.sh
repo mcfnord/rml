@@ -27,7 +27,9 @@ ls -1 *.md | cut -f 1 -d '.' > sources.txt
 while IFS= read -r file
 do
 echo '<meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="stylesheet" type="text/css" media="all" href="ds-style.css" /><div id="main">' > $file.html
-md2html $file.md -s solarized-dark.css >> $file.html
+# markdown $file.md  >> $file.html
+markdown $file.md | sed -r 's/<br><br>/XYXYXYXY/g' | sed -r 's/<br>/ /g' | sed -r 's/XYXYXYXY/<br>/g'  >> $file.html
+# md2html -p -f $file.md -o $file.html
 # https://www.npmjs.com/package/markdown-to-html
 # this is installed with -g, so md2html works, but the next-page insertions might$
 echo '</div>' >> $file.html
@@ -37,7 +39,7 @@ sed -i -e 's/&lt;/</g' $file.html
 sed -i -e 's/&gt;/>/g' $file.html
 sed -i -e "s/&#39;/'/g" $file.html
 
-sudo cp $file.html /var/www/html/pj/
+sudo cp $file.html /var/www/html/
 # cp $file.html ../html
 done < "sources.txt"
 
@@ -47,5 +49,5 @@ done < "sources.txt"
 rm sources.txt
 
 cd ../src/root-files
-sudo cp -r * /var/www/html/pj/
+sudo cp -r * /var/www/html/
 cd ..

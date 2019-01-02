@@ -1118,17 +1118,22 @@ York Times, June 30, 2016; Gansler, 835 A.2d at 559, 572. Finally, <mark>allowin
 be broadcast while the trial was in recess and just days before the jury began its deliberations
 greatly magnified the risk of materially prejudicing the proceeding.</mark> 1%, 415 S.W.3d at 696.
 
-Given the nature of PA Lindquist’s extrajudicial statements, the nature of the proceeding, and the
-context and timing of the statements, it appears that <mark>PA Lindquist may have violated RPC 3.6
-and RPC 3.8(f). It also appears that PA Lindquist may have violated RPC 8.4(d), which
-prohibits “conduct that is prejudicial to the administration of justice.”</mark> Conduct prejudicial to the
-administration of justice includes violations of accepted practice norms. In re Disciplinary
-Proceeding Against Longacre, 155 Wn.2d 723, 741-42, 122 P.3d 710 (2005). Accordingly, we
-will be forwarding this matter to a Review Committee with our recommendation that a hearing
-should be ordered under ELC 5.7(d)(5). The Review Committee has wide discretion, and may
-dismiss the grievance, dismiss with an advisory letter, issue an admonition, or order the matter to
-a hearing for a public determination of the violations and the apprOpriate disciplinary sanction.
-ELC 5.7(d).
+Given the nature of PA Lindquist’s extrajudicial statements, the 
+nature of the proceeding, and the context and timing of the 
+statements, it appears that <mark>PA Lindquist may have violated 
+RPC 3.6 and RPC 3.8(f). It also appears that PA Lindquist may 
+have violated RPC 8.4(d), which prohibits “conduct that is 
+prejudicial to the administration of justice.”</mark> Conduct 
+prejudicial to the administration of justice includes violations 
+of accepted practice norms. In re Disciplinary Proceeding 
+Against Longacre, 155 Wn.2d 723, 741-42, 122 P.3d 710 (2005). 
+Accordingly, we will be forwarding this matter to a Review 
+Committee with our recommendation that a hearing should be 
+ordered under ELC 5.7(d)(5). The Review Committee has wide 
+discretion, and may dismiss the grievance, dismiss with an 
+advisory letter, issue an admonition, or order the matter to a 
+hearing for a public determination of the violations and the 
+apprOpriate disciplinary sanction. ELC 5.7(d).
 
 # See SANCTION ANALYSIS
 
