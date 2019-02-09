@@ -11,7 +11,7 @@ established by our state's Supreme Court to
 govern the behavior of all lawyers in our 
 state.
 
-<center><a href=http://ladybug.today/tweet.html>_and planted flowers_</a></center>
+<center><a href=http://ladybug.world/tweet.html>_and planted flowers_</a></center>
 
 I've made my full letter to the Bar Association available online.
 

@@ -9,7 +9,8 @@ relationships. Maybe it began the day I took this picture:
 In 2013, it became clear my friend would die. She was so much more tired. I had to be by her side for steps. I 
 never minded. Everything got complicated but I never minded. In December, I came to Tacoma to be a full time 
 father and partner through the crisis and beyond. After cruel suffering in hospice at home, in June, 2014, [she 
-died](http://ladybug.today). The child's biological father is a bum in Florida, and her grandfather had his own 
+died](http://ladybug.world). The child's biological father is a bum in Florida, and her 
+grandfather had his own 
 ideas about what should happen next.
 
 # 3am, Jan 1, 2015
@@ -52,7 +53,7 @@ contradicted her claim of mortal fear. Isn't that what Mark meant by _ongoing in
 ## Dishonest dad
 
 Key to the scary news report is the fantastically false police report quoting Emily's dad, a retired fireman. 
-He worked particularly hard to [sound scary](http://ladybug.today/dtm_cop_lies.html).
+He worked particularly hard to [sound scary](http://ladybug.world/dtm_cop_lies.html).
 
 Why he hates me relates to some abnormal psychology that I might explain later. He's so dishonest that it's 
 boring. What matters here is: The prosecutor claimed he read the surreal panorama of accusations and insinuations 
@@ -241,7 +242,7 @@ among them.
 Mark's improper statements to the press locked him in to prosecuting me. He was already taking criticism for 
 abusing media access when my trial began. So he made a Hail Mary play. After realizing the 
 Prosecutor's Office had been tricked into the arrest, he stacked up charges in a ploy to intimidate me into 
-settling for a misdemeanor. Everyone takes the plea. For the love of a [mother and child](http://ladybug.today/), I didn't take the plea.
+settling for a misdemeanor. Everyone takes the plea. For the love of a [mother and child](http://ladybug.world/), I didn't take the plea.
 
 [You can read the trial testimony of myself and my accusors](http://tucc.us/dtm_cop_lies.html).
 
@@ -264,3 +265,33 @@ evidence is now abundantly clear, and the remedy is due: Pierce County law enfor
 top.
 
 <center>[DempseyBarComplaint.info](bc.html)</center>
+
+
+
+What about, like, beauty and 
+joy and stuff tho. I met a 
+religious opioid addict math 
+whiz during my arraignment. His 
+math background made him 
+popular, cuz you could tell him 
+your crime and your priors, and 
+he could tell you how much time 
+you'll get.
+
+anyway, he came back from 
+seeing the judge, and stood 
+with me in the metal-walled, 
+antiseptic room (like a modern 
+slaughter house), and 
+exclaimed, "Why are the cameras 
+there? They're there for you! 
+You're the Sacrificial Lamb! 
+They're gonna have to put the 
+hammer down on you for the 
+cameras!"
+
+And as a Seventh Day Adventist, 
+he said: "God doesn't give you 
+more than you can handle." I 
+sought to hug him, but hey bro, 
+no homo in jail.

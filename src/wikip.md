@@ -222,5 +222,5 @@ of this P.R. work to the taxpayers of Pierce County is a scandal
 in itself. The people of my hometown deserve a lot better than this
 guy.
 
-That's all for now. Now enjoy [LadyBug Today](http://ladybug.today).
+That's all for now. Now enjoy [LadyBug World](http://ladybug.world).
 

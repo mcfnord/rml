@@ -491,7 +491,7 @@ John Dempsey
 
     http://PierceJustice.info
 
-#### Exhibit 3: [Declaration of Emily Murphy](http://ladybug.today/erm.jpg)
+#### Exhibit 3: [Declaration of Emily Murphy](http://ladybug.world/erm.jpg)
 
-    http://ladybug.today/erm.jpg
+    http://ladybug.world/erm.jpg
 

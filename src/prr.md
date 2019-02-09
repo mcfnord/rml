@@ -2,7 +2,7 @@
 
 The file this letter refers to can be found at:
 
-[http://ladybug.today/jlynch.xlsx](http://ladybug.today/jlynch.xlsx)
+[http://ladybug.world/jlynch.xlsx](http://ladybug.world/jlynch.xlsx)
 
 April 13, 2018
 
