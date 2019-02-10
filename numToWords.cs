@@ -43,3 +43,4 @@ static void Main(string[] args)
 
     Console.Write("-" + writtenDigit[num % 10] ) ;
 }
+}
