@@ -2,8 +2,8 @@ using System;
 
 namespace HexC
 {
-    char writtenDigit[] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "forteen", "fifteen"} ;
-    char writtenTens[] = { "NEVERTEN", "twenty", "thirty" "forty", "fifty" } ;
+    string writtenDigit[] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "forteen", "fifteen"} ;
+    string writtenTens[] = { "NEVERTEN", "twenty", "thirty" "forty", "fifty", "NEVERSIXTY", "NEVERSEVENTY", "eighty" } ;
 
 static void Main(string[] args)
 {
@@ -22,7 +22,7 @@ static void Main(string[] args)
     // We know it's above 15!
 
     int tenth = num / 10 ;
-    if(tenth <= 5)
+    if((tenth <= 5) || (tenth == 8))
     {
         Console.Write(writtenTens[tenth]);
     }
