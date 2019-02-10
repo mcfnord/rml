@@ -4,7 +4,7 @@ namespace HexC
 {
     string writtenDigit[] = {"NEVERZERO", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
                             "eleven", "twelve", "thirteen", "forteen", "fifteen"} ;
-    string writtenTens[] = { "NEVERTEN", "twenty", "thirty", "forty", "fifty", "NEVERSIXTY", "NEVERSEVENTY", "eighty" } ;
+    string writtenTens[] = { "NEVERTEN", "twenty", "thirty", "forty", "fifty" } ;
 
 static void Main(string[] args)
 {
@@ -23,14 +23,19 @@ static void Main(string[] args)
     // We know it's above 15!
 
     int tenth = num / 10 ;
-    if((tenth <= 5) || (tenth == 8))
+    if(tenth <= 5)
     {
         Console.Write(writtenTens[tenth]);
     }
     else
     {
-        // we construct the tens by adding ty to something.
-        Console.Write(writtenDigit[tenth] + "ty");
+        // we construct the tens by adding ty to something. Except eighty!
+        string tensy = writtenDigit[tenth] ;
+        Console.Write(tensy) ;
+        if(tensy[tensy.Length - 1 ] == 't')
+            Console.Write('y') ;
+        else
+            Console.Write("ty") ;
     }
 
     if( 0 == num % 10)
