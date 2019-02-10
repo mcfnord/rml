@@ -1,22 +1,25 @@
-using System;
+﻿using System;
 
-namespace HexC
+class sayit
 {
-    string[] writtenDigit = {"NEVERZERO", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
+    static string[] writtenDigit = {"NEVERZERO", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
                             "eleven", "twelve", "thirteen", "forteen", "fifteen"} ;
-    string[] writtenTens = { "NEVERTEN", "twenty", "thirty", "forty", "fifty" } ;
+    static string[] writtenTens = { "NEVERZERO", "NEVERTEN", "twenty", "thirty", "forty", "fifty" } ;
 
-static void Main(string[] args)
+static void DoThat(int num)
 {
-    // spell it out
-
-    num = (int)(args[0]);
-    Debug.Assert(num > 0) ;
-    Debug.Assert(num < 100) ;
-
-    if(num <= 15)
+        
+    if(num <= 19)
     {
-        Console.WriteLine(writtenDigit[num]);
+        if( num <= 15)
+            Console.WriteLine(writtenDigit[num]);
+        else
+        {
+            if(num == 18)
+                Console.WriteLine(writtenDigit[num - 10] + "een");
+                else
+                Console.WriteLine(writtenDigit[num - 10] + "teen");
+        }
         return ;
     }
 
@@ -39,8 +42,22 @@ static void Main(string[] args)
     }
 
     if( 0 == num % 10)
+    {
+        Console.WriteLine() ;
         return ;
+    }
 
-    Console.Write("-" + writtenDigit[num % 10] ) ;
+    Console.WriteLine("-" + writtenDigit[num % 10] ) ;
+
+
+}
+static void Main(string[] args)
+{
+    // spell it out
+
+    for(int num = 1; num < 100; num++)
+    {
+        DoThat(num);
+    }
 }
 }
