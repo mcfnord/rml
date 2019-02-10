@@ -43,23 +43,3 @@ static void Main(string[] args)
 
     Console.Write("-" + writtenDigit[num % 10] ) ;
 }
-
-
-
-
-
-
-
-
-
-    
-    // if we get here, we do end in zero, but need to construct the ten set by adding a 'ty'
-    Console.Write(writtenDigit[tenth] + "ty") ;
-    return ;
-    
-
-    
-
-
-}
-}
