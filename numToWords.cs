@@ -2,9 +2,9 @@ using System;
 
 namespace HexC
 {
-    string writtenDigit[] = {"NEVERZERO", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
+    string[] writtenDigit = {"NEVERZERO", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", 
                             "eleven", "twelve", "thirteen", "forteen", "fifteen"} ;
-    string writtenTens[] = { "NEVERTEN", "twenty", "thirty", "forty", "fifty" } ;
+    string[] writtenTens = { "NEVERTEN", "twenty", "thirty", "forty", "fifty" } ;
 
 static void Main(string[] args)
 {
