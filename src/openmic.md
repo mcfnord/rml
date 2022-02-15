@@ -1,14 +1,64 @@
-# Nuts and bolts
+# Modern Meaning
 
-Perhaps I'd love a vague but emotionally expressive show for you. My feelings motivated what I'm going to tell you, but this is a nuts and bolts presentation.
-It was an unusual experience where I played a part only I could play.
-But maybe I have some tips and conclusions that can empower you. 
+Reflects on the current race.
 
-# Where’s my head at?
+# OCR
 
-After my partner died, I was completely broken. But I had a vision. And maybe after 5 years, I'm halfway to my vision.
-I won't explain now what the whole vision is, but I will tell you some design principles. I used to be one kind of cyborg, and set out to be another kind.
-I knew some changes could make me much more powerful.
+One thing aboout fighting lawyers: Not only do thy often use PDFs,
+but they use a lot of signed PDFs, meaning they write it, print it,
+sign that, and scan that. So you can't just select and paste the text.
+A lot of the malfeasance went into these documents, deeply embedded in
+60-page documents. In legal documents with strange language that doesn't
+mean much to most people. 
+
+One principle I applied every day, every minute that I could,
+was to make these inaccessable details acccessable. I could add context.
+I could explain. I could relate to similar things. 
+So, for example, I could throw up an original document as a link to a PDF,
+or often I could transfer the PDF into very readable text using an OCR scanner
+tool. Or I ccould even just screencapture something, write some context
+around it, and publish. I could be the sunshine.
+
+So early on, after mastering the one-liner, I mixed in a mastry of what's called
+"progressive disclosure". So long as I got your attention, I could keep it longer
+using these tools and tehniques.
+
+Later I would learn I was educating officers in two departments with these techniques.
+They knew the incumbant had done things, many things, unfit for the office.
+But I made those things very clear.
+
+# Wikipedia
+
+The conflict, rooted in words, lives on in 
+words. Wave after wave of new accounts have 
+whitewashed the Wikipedia page. I know what's 
+true and germane: But I declared myself as 
+having a conflict of interest, so the 
+presentation is now ultimately out of my 
+hands. It's a bit of a test of Wikipedia; can 
+a media-obsessed person whitewash their term 
+in elected office? I think strongly that 
+Wikipedia can be a force for democracy, but 
+hard-working misinformers have different 
+ideas. I worked the topic into core facts that 
+shouldn't be forgotten. At request, I added 
+information that turns those core facts into 
+an intelligible story. But it's up to 
+democratic forces whether these facts get 
+published on that site. Maybe it's up to you. 
+I don't think it matters unless that guy seeks 
+elected office again. Plenty of his victims 
+stand ready to clarify his record. Led by many 
+others, I played a small role in getting us 
+this far.
+
+Now he's just a novelist who chases ambulances and he doesn't have the power
+to imprison anymore. So what do I care? Some people, including some people
+who held elected office, care a lot about what their Wikipedia page says.
+It's reasonable to conclude based on evidence from 2010 that he may have
+written his own Wikipedia page. And now he has rolled back... 
+This gives me a first-hand indication of what concerted misinformation efforts
+can accomplish.
 
 ## Re-invent to find the extreme power of simple things
 
@@ -30,13 +80,6 @@ it seemed like I was always online.
 
 As a data anaorexic at 1988 internet speeds, there's a lot of the internet I can't view. It's by design, but it makes me an ascetic, with fewer distractions
 and fewer options of what I can do. If I can't do it with simple tools, I probably won't do it.
-
-## Find strength in what others may see as weaknesses
-
-It's a long damn story, but in 2003, i started working while laying flat. It's not simple. I basically want to use computers in a way none of them are 
-designed to support. I need to make tablets and monitors float over my face while I lay flat. I solved this problem with off-the-shelf parts and lots of trial 
-and error. The consequence is: Even as I drift off to sleep, I'm exposed to that thing I call My Platform. At home I found a breakthrough in 2017, a children's
-swing made from 4x4's, with clamps, bars, and magnets to hold tablets and phones right above my laying body, where my hands can reach and eyes can see them.
 
 # New Year’s 2015
 
@@ -141,11 +184,6 @@ he's doing the people's work in some fashion. Just after the elecction, he was f
 
 A musicc video with sexy violence plus an interview with a prosecutor made the television news really exciting that night.
 
-## Not guilty
-
-I remember thinking once while I testified, "Why is he doing this? Doesn't he know it's not smart?" My adversary caused hardship to my family and me. I already
-had visions of mad power through viral tools. I wasn't clear how it would matter, but felt a trajectory.
-i
 ## Paper tigers, real teeth
 
 The top lawyer in the county had a team of 100 lawyers working for him. That's got to be some kind of extreme environment. These people know how to
@@ -156,12 +194,6 @@ I have some experience with such people. They will destroy those who get in thei
 My family cautioned me many times that I was messing with dangerous people. I know. I already lost my child, so what else are you going to take away?
 I was already committed to lampooning on Twitter, so why not go the whole way? I'd regret seeing 4 more years because a small number of votes kept him in office.
 I was all-in.
-
-# Lots and lots of groundwork
-
-My step-mother told me early on that my adversary might be unacccustomed to the amount of sustained focus and effort I can give to a cause.
-In 2015 I was diagnosed with a mild autism. I haven't come to grips with what that means, but it explains a few things about me, and does put me in
-a different category. I can sustain a focus for a long time. Maybe that was something new for my adversary.
 
 I remember exactly one year before the vote, I registered an internet domain PIERCEJUSTICE.INFO. Before that year was up, I was referring to
 "The Pierce Justice organization". Pierce Justice eventually endorsed people, and critically, hosted easy-to-read legal documents and letters
@@ -185,23 +217,65 @@ I remain loud. You remain silent if you want. I needed an outlet where I could b
 the psueodoanonymous lampooning of the naked emporer. It took a long time to get a style,
 and styles changed.
 
+# Autism
+
+I only recently learned I have some autistic traits. One thing I often do is
+get attached to a plan, and carry it out. I helped choose who runs a hugely powerful
+system of human slavery called the county. I think I'm correctly apphauled by
+the treatment of one woman in state custody, because I myself have been there.
+As a sort of contact burn, I translated feelings about my life and family into
+feelings about who runs the county legal regime. Furthermore, I often felt
+that I myself was uniquely and perhaps exclusively qualified to undo the prosecutor's
+massive PR operation. This dialog within me hardened my willingness to use
+a full, robust presentation of autistic skill. It was, after all, my superpower.
+
+
 # His "campaign"
 
-I had a palatte of tools. I could make a link to a document. I could toss it in a comment. So 
-misinformation could be confronted immediately, where it lives. After my adversary lost the 
-primary, he mass emailed a link to a false and insane rant a local goon had written. The local 
-website, Tacoma Weekly, kind of prints anything. Since my comment on his rant had a link, I saw 
-traffic spike. Six hurs later, the owner of the Tacoma Weekly took the campaign down. Later, in 
-response to the use of disinformation, members of the Tacoma City Council quietly informed my 
-adversary that he couldn't engage in that kind of campaigning if he wished to keep their 
-endorsement. He fairly noted that left him few options, because his actual record had such serious 
-concerns.
+Matters in my personal life prompted me to write a robust palette of internet
+tools. I used these tools to run modestly successful information campaigns.
+Using simple tools, I was able to craft a comment or post that included
+a link with a proper URL to my server. Fundamentally simple tools but 
+I'd say I had a spectrum of them, so I could reach people. And I clearly did.
+I would watch my server logs closely, which is not fun or informmative, except
+when something interesting happens. 
+I tried using these tools so 
+misinformation could be confronted immediately, where it lives, and cleanly.
 
-## Wikipedia
+After the incumbant lost the primary, he mass emailed a link to a false and 
+insane rant a local goon had written. The local website, Tacoma Weekly, kind of 
+prints anything. Since my comment on his rant had a link, I saw traffic spike. 
+Six hurs later, the owner of the Tacoma Weekly took the campaign down. Later, in 
+response to the use of disinformation, members of the Tacoma City Council 
+quietly informed the incumbant that he couldn't engage in that kind of 
+campaigning if he wished to keep their endorsement. He fairly noted that left 
+him few options, because his actual record had such serious concerns.
 
-I evoked a doxing.
+# Nuts and bolts
 
-As recently as December, I was doxed on the platform. The violator took pains to spell out my name, including my middle initial.
+Perhaps I'd love a vague but emotionally expressive show for you. My feelings 
+motivated what I'm going to tell you, but this is a nuts and bolts presentation. 
+It was an unusual experience where I played a part only I could play. But maybe 
+I have some tips and conclusions that can empower you.
+
+# Where’s my head at?
+
+After my partner died, I was completely broken. But I had a vision. And maybe 
+after 5 years, I'm halfway to my vision. I won't explain now what the whole 
+vision is, but I will tell you some design principles. I used to be one kind of 
+cyborg, and set out to be another kind. I knew some changes could make me much 
+more powerful.
+
+## Find strength in what others may see as weaknesses
+
+It's a long damn story, but in 2003, i started working while laying flat. It's 
+not simple. I basically want to use computers in a way none of them are designed 
+to support. I need to make tablets and monitors float over my face while I lay 
+flat. I solved this problem with off-the-shelf parts and lots of trial and 
+error. The consequence is: Even as I drift off to sleep, I'm exposed to that 
+thing I call My Platform. At home I found a breakthrough in 2017, a children's 
+swing made from 4x4's, with clamps, bars, and magnets to hold tablets and phones 
+right above my laying body, where my hands can reach and eyes can see them.
 
 ## Bigger stick
 
@@ -221,12 +295,6 @@ Mobs are still mobs. Mobs aren't into nuances, or subtle differences.
 Nerdy invisible heroes walk among us.
 
 Look huge. Sound loud. Make a big deal.
-
-## I had a bar complaint ready
-
-Up to now, I had a private and a public personas. I quietly prepared a bar complaint. That was a saga of its own… until I just sat down to write one.
-
-# Highly visible conflict
 
 ## Scandal, or what passes for scandal
 
@@ -265,6 +333,8 @@ producing shocking information. I credit Sean Robinson, the reporter who won a r
 controversies. But the police officer explained that nobody reads articles. People do read tweets. By condensing complicated topics into hand-crafted tweets, 
 I was raising awareness of the many stinky facts about a career that probably needed to end. Other officers also made it clear I was making frustrated, 
 long-struggling people laugh out loud.
+
+# Highly visible conflict
 
 # Going viral
 
@@ -338,5 +408,36 @@ arena. A cyborg just lives there. This isn't a story about Ted Kazinski in his l
 turn a picture into ten or twenty shares. My essays, which often struck an expose' tone and were carefully structured to unfold seductivel on Facebook, got 
 hundreds of views. I could structure a continuum of discovery, from a twitter tweet, to a facebook post, to a deep dive on my own website. I could estimate engagement,
 and respond to sudden viral popularity. A cyborg just lives there. I just lived in this netherworld of the appearance of life, limbo world of impressions and controversy.
+
+
+
+
+If seven words were an attack, this must have been a nuclear war.
+
+
+
+## Not guilty
+
+I remember thinking once while I testified, "Why is he doing this? Doesn't he know it's not smart?" My adversary caused hardship to my family and me. I already
+had visions of mad power through viral tools. I wasn't clear how it would matter, but felt a trajectory.
+i
+
+# Lots and lots of groundwork
+
+My step-mother told me early on that my adversary might be unacccustomed to the amount of sustained focus and effort I can give to a cause.
+In 2015 I was diagnosed with a mild autism. I haven't come to grips with what that means, but it explains a few things about me, and does put me in
+a different category. I can sustain a focus for a long time. Maybe that was something new for my adversary.
+
+## Wikipedia
+
+I evoked a doxing.
+
+As recently as December, I was doxed on the platform. The violator took pains to spell out my name, including my middle initial.
+
+## I had a bar complaint ready
+
+Up to now, I had a private and a public personas. I quietly prepared a bar complaint. That was a saga of its own… until I just sat down to write one.
+
+
 
 
